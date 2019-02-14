@@ -1,1 +1,55186 @@
 # learning-russian-words-vocabulary
+
+<table class="table table-bordered table-hover table-condensed">
+<tbody><tr>
+<td>и</td>
+<td>and</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>в (во)</td>
+<td>(+pr) in; (+a) into, to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>не</td>
+<td>not</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>на</td>
+<td>(+pr) on, at; (+a) onto, to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>я</td>
+<td>I</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>он</td>
+<td>he</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>что</td>
+<td>what, that</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>с (со)</td>
+<td>(+inst) with; (+g) from, off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>это</td>
+<td>this, that, it</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быть (i) (pres: есть)</td>
+<td>to be; there is, there are</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>а</td>
+<td>and, but (slight contrast)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весь (f вся, n всё, pl все)</td>
+<td>all</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>они</td>
+<td>they</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>она</td>
+<td>she</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>как</td>
+<td>how, as, like</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мы</td>
+<td>we</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>к (ко) (+d)</td>
+<td>towards, to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>у (+g)</td>
+<td>by; at (used in ‘have’ construction)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вы</td>
+<td>you (polite/pl)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этот (f эта, n это, pl эти)</td>
+<td>this</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>за</td>
+<td>(+a) for; (+inst) behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тот (f та, n то, pl те)</td>
+<td>that</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>но</td>
+<td>but</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ты</td>
+<td>you (familiar)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по (+d)</td>
+<td>along; around; according to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>из (изо) (+g)</td>
+<td>out of, from</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>о (об/обо) (+pr)</td>
+<td>about, concerning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свой</td>
+<td>one’s own</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>так</td>
+<td>so</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>один (f одна, n одно)</td>
+<td>one</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вот</td>
+<td>here, there (pointing)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>который</td>
+<td>which, who</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наш</td>
+<td>our</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>только</td>
+<td>only</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ещё</td>
+<td>still, yet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>от (+g)</td>
+<td>from</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>такой</td>
+<td>such</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мочь/с-</td>
+<td>to be able</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>говорить/по- (с +inst)</td>
+<td>to speak; to have a talk, talk (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>говорить/сказать</td>
+<td>to say</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>для (+g)</td>
+<td>for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уже</td>
+<td>already</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знать (i) (+a)</td>
+<td>to know</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>да</td>
+<td>yes; and, but</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>какой</td>
+<td>what (kind of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>когда</td>
+<td>when</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>другой</td>
+<td>different, other</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>первый</td>
+<td>first</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чтобы</td>
+<td>in order to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>его</td>
+<td>his, its</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>год</td>
+<td>year</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кто</td>
+<td>who</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дело</td>
+<td>matter, business</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нет</td>
+<td>no; (+g) there is no</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>её</td>
+<td>her</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очень</td>
+<td>very</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>большой</td>
+<td>large</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новый</td>
+<td>new</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>становиться/стать (+inst)</td>
+<td>to become; to stand; p: begin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>работа</td>
+<td>work</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сейчас</td>
+<td>now, right now</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>время (n)</td>
+<td>time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>человек (pl люди)</td>
+<td>person</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идти/пойти</td>
+<td>to go (on foot)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>если</td>
+<td>if</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>два (f две) </td>
+<td>two</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мой</td>
+<td>my</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жизнь (f)</td>
+<td>life</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>до (+g)</td>
+<td>up to; until</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>где</td>
+<td>where</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каждый</td>
+<td>each, every</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самый</td>
+<td>the very, most</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хотеть/за-</td>
+<td>to want</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здесь</td>
+<td>here</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надо</td>
+<td>it is necessary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>люди (pl)</td>
+<td>people</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теперь</td>
+<td>now</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дом</td>
+<td>house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раз</td>
+<td>once; a time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>день (m)</td>
+<td>day</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>или</td>
+<td>or</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>город</td>
+<td>town, city</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>там</td>
+<td>there</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слово</td>
+<td>word</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глаз</td>
+<td>eye</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потом</td>
+<td>then, next</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видеть/у- (+a)</td>
+<td>to see</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>их</td>
+<td>their</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>под (+inst)</td>
+<td>under</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>даже</td>
+<td>even</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>думать/по-</td>
+<td>to think</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хорошо</td>
+<td>well; it is good</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>можно</td>
+<td>it is possible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тут</td>
+<td>here (like здесь)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тысяча</td>
+<td>thousand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ли</td>
+<td>whether [question word]</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вода</td>
+<td>water</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ничто/ничего (a/g)</td>
+<td>nothing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>много (+g)</td>
+<td>much, many, a lot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рука</td>
+<td>hand; arm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>себя</td>
+<td>self [(a) pronoun]</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молодой</td>
+<td>young</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тоже</td>
+<td>too</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спрашивать/спросить (+a о +pr)</td>
+<td>to ask (s.o. about sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>без (+g)</td>
+<td>without</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делать/с- (+a)</td>
+<td>to do, make</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>три</td>
+<td>three</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всё</td>
+<td>all; all the time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>то</td>
+<td>that; then</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жить/по-</td>
+<td>to live; p: live for a while</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>труд</td>
+<td>labour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сам (f сама, n само, pl сами)</td>
+<td>self</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хороший</td>
+<td>good</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>второй</td>
+<td>second</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>через (+a)</td>
+<td>across, via, after</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>место</td>
+<td>place</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>после (+g)</td>
+<td>after</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страна</td>
+<td>country</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двадцать</td>
+<td>twenty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>должен (f должна, n должно, pl должны)</td>
+<td>ought, obliged, must</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>больше</td>
+<td>more</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ваш</td>
+<td>your</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дверь (f)</td>
+<td>door</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>друг (pl друзья)</td>
+<td>friend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машина</td>
+<td>machine; car</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комната</td>
+<td>room</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учиться (i)</td>
+<td>to study</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>над (+inst)</td>
+<td>above</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голова</td>
+<td>head</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почему</td>
+<td>why</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земля</td>
+<td>earth, land</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стол</td>
+<td>table</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>давать/дать (+a +d)</td>
+<td>to give (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перед (+inst)</td>
+<td>in front of, before</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тогда</td>
+<td>then, at that time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сидеть/по-</td>
+<td>to sit (p: sit for a while)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мальчик</td>
+<td>boy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девушка</td>
+<td>girl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лето (g pl лет)</td>
+<td>summer; (after numbers) years</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сегодня</td>
+<td>today</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сторона</td>
+<td>side</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совсем</td>
+<td>completely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маленький</td>
+<td>small</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несколько (+g)</td>
+<td>a few, some</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдруг</td>
+<td>suddenly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ни</td>
+<td>not a</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лицо</td>
+<td>face; person</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конечно</td>
+<td>of course</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>народ</td>
+<td>(the) people</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начинать/начать</td>
+<td>to begin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пять</td>
+<td>five</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ведь</td>
+<td>you know (expecting agreement)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вопрос</td>
+<td>question</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>писать/на- (+a)</td>
+<td>to write</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>письмо</td>
+<td>letter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>при (+pr)</td>
+<td>in the presence/time of; attached to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мать (f)</td>
+<td>mother</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нужно</td>
+<td>(it is) necessary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смотреть/по-</td>
+<td>to watch; (на +a) look (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сила</td>
+<td>strength, force</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вместе</td>
+<td>together</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выходить/выйти</td>
+<td>to go out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любить/по- (+a)</td>
+<td>to like, love; p: to fall in love with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дорога</td>
+<td>road</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старый</td>
+<td>old</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улица</td>
+<td>street</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решать/решить (+inf/+a)</td>
+<td>to decide; solve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>книга</td>
+<td>book</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всегда</td>
+<td>always</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голос</td>
+<td>voice; vote</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>значить (i)</td>
+<td>to mean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сразу</td>
+<td>at once</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лишь</td>
+<td>only (=только)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>минута</td>
+<td>minute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снова</td>
+<td>again</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окно</td>
+<td>window</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бы</td>
+<td>would (conditional particle)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уходить/уйти</td>
+<td>to leave (on foot)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девятьсот</td>
+<td>nine hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>последний</td>
+<td>last</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проходить/пройти</td>
+<td>to go through, pass (on foot)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отец</td>
+<td>father</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>час</td>
+<td>hour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просто</td>
+<td>simply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видеть/увидеть</td>
+<td>to see</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>же</td>
+<td>emphasizes preceding word</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>третий</td>
+<td>third</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потому/потому что</td>
+<td>that is why because</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>никто</td>
+<td>nobody</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ждать/подо- (+a or g)</td>
+<td>to wait (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сколько (+g)</td>
+<td>how many, how much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высокий</td>
+<td>high, tall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лучше</td>
+<td>better</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>получать/получить (+a)</td>
+<td>to receive, get</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почти</td>
+<td>almost</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лес</td>
+<td>wood, forest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конец</td>
+<td>end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нога</td>
+<td>leg/foot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собственный</td>
+<td>(one’s) own</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сто</td>
+<td>hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>художник</td>
+<td>artist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четыре</td>
+<td>four</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пока</td>
+<td>while</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пока не</td>
+<td>until</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слушать/по- (+a)</td>
+<td>to listen to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>путь (m)</td>
+<td>way, journey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белый</td>
+<td>white</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>республика</td>
+<td>republic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быстро</td>
+<td>quickly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>куда</td>
+<td>where (whither)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>главный</td>
+<td>main</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дети (pl)</td>
+<td>children</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассказывать/рассказать</td>
+<td>to tell, talk (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совет</td>
+<td>advice; council</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>газета</td>
+<td>newspaper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понимать/понять (+a)</td>
+<td>to understand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пора</td>
+<td>it is time; time, season</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>твой</td>
+<td>your (familiar)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бывать (i)</td>
+<td>to be (repeatedly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>находить/найти (+a)</td>
+<td>to find</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>песня</td>
+<td>song</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>имя (n)</td>
+<td>(first) name</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>партия</td>
+<td>party (political)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вечер</td>
+<td>evening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опять</td>
+<td>again</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иметь (i) (+a)</td>
+<td>to have (with non-concrete object)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>между (+inst)</td>
+<td>between</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настоящий</td>
+<td>real; present</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>план</td>
+<td>plan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правда</td>
+<td>truth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сорок</td>
+<td>forty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ходить/с-</td>
+<td>to go there and back</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ходить/пo-</td>
+<td>to walk around</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>узнавать/узнать (+a)</td>
+<td>to recognize; find out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поле</td>
+<td>field</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ночь (f)</td>
+<td>night</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>входить/войти</td>
+<td>to enter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красный</td>
+<td>red</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>более</td>
+<td>more</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>урок</td>
+<td>lesson</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нельзя</td>
+<td>it is not allowed; it is impossible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тело</td>
+<td>body</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рядом</td>
+<td>alongside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лежать/по-</td>
+<td>to lie, (p) lie for a while</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>про (+a)</td>
+<td>about (=о +pr) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интересный</td>
+<td>interesting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>никогда</td>
+<td>never</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>район</td>
+<td>region</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нужный</td>
+<td>necessary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>особенно</td>
+<td>especially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвечать/ответить</td>
+<td>to answer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начальник</td>
+<td>head, boss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разный</td>
+<td>various, different</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тридцать</td>
+<td>thirty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>десять</td>
+<td>ten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мир</td>
+<td>world; peace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>картина</td>
+<td>picture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комитет</td>
+<td>committee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мысль (f)</td>
+<td>thought</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гость (m)</td>
+<td>guest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старший</td>
+<td>elder, senior</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вид</td>
+<td>view, look; species</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>среди (+g)</td>
+<td>among</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>случай</td>
+<td>case, occurrence, chance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>народный</td>
+<td>people’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помнить/вс- (+a/о +pr)</td>
+<td>to remember</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просить/по- (+a +inf)</td>
+<td>to request, ask (s.o. to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пусть</td>
+<td>let</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разговор</td>
+<td>conversation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двор</td>
+<td>yard, court</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>долго</td>
+<td>for a long time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>месяц</td>
+<td>month; moon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возвращаться/вернуться</td>
+<td>to come back</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>союз</td>
+<td>union</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>война</td>
+<td>war</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хотя</td>
+<td>although</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>берег</td>
+<td>bank, shore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целый</td>
+<td>whole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>группа</td>
+<td>group</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скоро</td>
+<td>soon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>студент</td>
+<td>student</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>товарищ</td>
+<td>comrade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>часть (f)</td>
+<td>part</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спать/по-</td>
+<td>to sleep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полный</td>
+<td>full</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сюда</td>
+<td>here (hither)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приезжать/приехать</td>
+<td>to arrive (by transport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оно</td>
+<td>it</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>женщина</td>
+<td>woman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собрание</td>
+<td>meeting, collection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подходить/подойти (к +d)</td>
+<td>to approach; (+d) to suit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дерево (pl деревья)</td>
+<td>tree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сад</td>
+<td>garden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чуть</td>
+<td>hardly, just</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бояться (i) (+g)</td>
+<td>to fear, be afraid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заниматься (i) (+inst)</td>
+<td>to occupy oneself</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>папа (m)</td>
+<td>dad; Pope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помощь (f)</td>
+<td>help</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прошлый</td>
+<td>past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прямо</td>
+<td>directly, straight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лучший</td>
+<td>better; best</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мастер</td>
+<td>master</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>секретарь (m)</td>
+<td>secretary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стена</td>
+<td>wall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оказываться/оказаться (+inst)</td>
+<td>to turn out (to be); to find oneself</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сын (pl сыновья)</td>
+<td>son</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брат</td>
+<td>brother</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зачем</td>
+<td>why, for what</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>играть/сыграть</td>
+<td>to play</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>институт</td>
+<td>institute; institution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятый</td>
+<td>fifth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раньше</td>
+<td>earlier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тихо</td>
+<td>quiet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чёрный</td>
+<td>black</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>великий</td>
+<td>great</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завтра</td>
+<td>tomorrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>широкий</td>
+<td>wide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мало (+g)</td>
+<td>few; not much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наконец</td>
+<td>in the end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плечо</td>
+<td>shoulder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разве</td>
+<td>really</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разве… не</td>
+<td>surely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снег</td>
+<td>snow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>будущий</td>
+<td>future (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сердце</td>
+<td>heart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трудно</td>
+<td>(it is) difficult</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>язык</td>
+<td>language; tongue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приходить/прийти</td>
+<td>to arrive (on foot)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>русский</td>
+<td>Russian; a Russian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недавно</td>
+<td>recently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>советский</td>
+<td>Soviet (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некоторый</td>
+<td>some, a certain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продолжать/продолжить</td>
+<td>to continue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>член</td>
+<td>member</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поэтому</td>
+<td>consequently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замечать/заметить (+a)</td>
+<td>to notice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>квартира</td>
+<td>flat, apartment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уметь/с- (+inf)</td>
+<td>to know how to; be able to, manage to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свет</td>
+<td>light; world</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>назад</td>
+<td>back, ago</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>школьник</td>
+<td>schoolboy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>домой</td>
+<td>home, homewards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>право</td>
+<td>right; law</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сильный</td>
+<td>strong, powerful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>средний</td>
+<td>middle; average</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дальше</td>
+<td>further</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задача</td>
+<td>task, problem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бежать/по-</td>
+<td>to run</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветер</td>
+<td>wind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помогать/помочь (+d)</td>
+<td>to help (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>словно</td>
+<td>as if</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дорогой</td>
+<td>dear, expensive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>история</td>
+<td>history; story</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молчать/за-</td>
+<td>to be silent; p: to fall silent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солнце</td>
+<td>sun</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дома</td>
+<td>at home</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>море</td>
+<td>sea</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огромный</td>
+<td>enormous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ученик</td>
+<td>pupil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чувство</td>
+<td>feeling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>петь/с- (+a)</td>
+<td>to sing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>борьба</td>
+<td>struggle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>речь (f)</td>
+<td>speech</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ехать/по-</td>
+<td>to go (by transport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлеб</td>
+<td>bread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>движение</td>
+<td>movement, motion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>праздник</td>
+<td>holiday, festival</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внимание</td>
+<td>attention</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>считать/счесть</td>
+<td>(+a +inst) consider (sth/s.o. to be sth) </td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>считать/со-</td>
+<td>to count</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иногда</td>
+<td>sometimes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кричать/за-</td>
+<td>to shout</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фабрика</td>
+<td>factory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>успевать/успеть (+inf)</td>
+<td>to have time, to be in time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>действительно</td>
+<td>really, actually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>именно</td>
+<td>namely, exactly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общий</td>
+<td>general (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всякий</td>
+<td>any</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>директор</td>
+<td>director</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красивый</td>
+<td>beautiful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>номер</td>
+<td>number; hotel room</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>около (+g)</td>
+<td>near; about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парень (m)</td>
+<td>lad, boy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хозяйство</td>
+<td>economy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вокруг (+g)</td>
+<td>around</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душа</td>
+<td>soul</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четвёртый</td>
+<td>fourth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шесть</td>
+<td>six</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поднимать/поднять (+a)</td>
+<td>to raise, lift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взгляд</td>
+<td>look, view</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инженер</td>
+<td>engineer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>также</td>
+<td>as well</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тяжёлый</td>
+<td>heavy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цветок (pl цветы)</td>
+<td>flower</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брать/взять (+a)</td>
+<td>to take</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видно</td>
+<td>evident, visible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воздух</td>
+<td>air</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>давно</td>
+<td>(since) long ago</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забывать/забыть (+a or o +pr)</td>
+<td>to forget</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>из-за (+g)</td>
+<td>from behind; because of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опыт</td>
+<td>experience; experiment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звать/по- (+a)</td>
+<td>to call (s.o.); summon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стройка</td>
+<td>building; building site</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жена</td>
+<td>wife</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молоко</td>
+<td>milk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ставить/по- (+a)</td>
+<td>to place, put (in a standing position)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>однако</td>
+<td>however</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угол</td>
+<td>corner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бумага</td>
+<td>paper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принимать/принять (+a)</td>
+<td>to take, accept, receive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>длинный</td>
+<td>long</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>занятие</td>
+<td>occupation; (pl) classes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чистый</td>
+<td>clean, pure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>садиться/сесть</td>
+<td>to sit down; get into (transport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>часто</td>
+<td>often</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шестой</td>
+<td>sixth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>военный</td>
+<td>military, war (adj); soldier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вставать/встать</td>
+<td>to get up, stand up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>игра</td>
+<td>game</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кружок</td>
+<td>circle, club</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хозяин (pl хозяева)</td>
+<td>master, boss, owner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>никакой</td>
+<td>(absolutely) no</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дядя (m)</td>
+<td>uncle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>живой</td>
+<td>alive, lively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деревня</td>
+<td>village; countryside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образ</td>
+<td>manner, way, shape, image</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порядок</td>
+<td>order</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строитель (m)</td>
+<td>construction worker, builder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>успех</td>
+<td>success</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приносить/принести (+a)</td>
+<td>to bring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слишком</td>
+<td>too, too much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добрый</td>
+<td>good, kind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прежде</td>
+<td>before</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассказ</td>
+<td>story</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семья</td>
+<td>family</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утро</td>
+<td>morning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лагерь (m)</td>
+<td>camp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знакомый</td>
+<td>familiar; an acquaintance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>армия</td>
+<td>army</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нос</td>
+<td>nose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожалуйста</td>
+<td>please, please do; don’t mention it</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собираться/собраться (+inf)</td>
+<td>to gather; intend to; be about to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сначала</td>
+<td>at first; from the beginning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>техника</td>
+<td>technology</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деньги (f) (pl)</td>
+<td>money</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доклад</td>
+<td>report</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оба (f обе)</td>
+<td>both</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>седьмой</td>
+<td>seventh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поздно</td>
+<td>late</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>попадать/попасть (в/на +a)</td>
+<td>to hit; to get to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>встреча</td>
+<td>meeting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возможность (f)</td>
+<td>possibility</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>культура</td>
+<td>culture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>следовать/по-</td>
+<td>to follow (+d); to be required</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>команда</td>
+<td>team, crew; command</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ну</td>
+<td>well</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очередь (f)</td>
+<td>queue, turn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>личный</td>
+<td>personal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>школа</td>
+<td>school</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расти/вы-</td>
+<td>to grow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колхоз</td>
+<td>collective farm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>причина</td>
+<td>reason (+g for), cause</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ребята</td>
+<td>children, boys (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девочка</td>
+<td>little girl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многий</td>
+<td>many</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организация</td>
+<td>organization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мама</td>
+<td>mother; mummy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>станция</td>
+<td>station</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туда</td>
+<td>there (thither)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уж/уже</td>
+<td>already; really</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершенно</td>
+<td>completely, perfectly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спокойно</td>
+<td>calmly, quietly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хотеться/за- (+d)</td>
+<td>to want, feel like; p: to start to want</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всё-таки</td>
+<td>all the same, for all that</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чем</td>
+<td>than</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>будто</td>
+<td>as though, allegedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мнение</td>
+<td>opinion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впервые</td>
+<td>for the first time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любой</td>
+<td>any (any you like)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медленно</td>
+<td>slowly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>друг друга</td>
+<td>each other</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приходиться/прийтись (+d)</td>
+<td>to have to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начало</td>
+<td>beginning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>похожий</td>
+<td>resembling, similar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зал</td>
+<td>hall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>держать (i)</td>
+<td>to hold, keep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предприятие</td>
+<td>enterprise, factory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спортивный</td>
+<td>sporting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весёлый</td>
+<td>cheerful, merry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здравствовать (i)</td>
+<td>to be healthy, prosper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>Здравствуй(те)</td>
+<td>Hello/How are you?</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вперёд</td>
+<td>forward; in advance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зелёный</td>
+<td>green</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нёбо</td>
+<td>sky, heaven</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>встречать/встретить (+a)</td>
+<td>to meet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отношение (к +d)</td>
+<td>attitude, relation (to); (pl) relations</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бабушка</td>
+<td>grandmother</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>детский</td>
+<td>children’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>останавливаться/остановиться</td>
+<td>to stop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ответ</td>
+<td>answer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восемь</td>
+<td>eight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доска</td>
+<td>board</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>появляться/появиться</td>
+<td>to appear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неделя</td>
+<td>week</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завод</td>
+<td>factory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>форма</td>
+<td>form</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>являться (i) (+inst)</td>
+<td>to be (sth) (formal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вещь (f)</td>
+<td>thing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>герой</td>
+<td>hero</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кроме (+g)</td>
+<td>except, besides</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подниматься/подняться</td>
+<td>to rise, climb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>съезд</td>
+<td>congress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>точно</td>
+<td>exactly; punctually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ход</td>
+<td>movement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равно</td>
+<td>equal, alike (adv)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шаг</td>
+<td>step</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клуб</td>
+<td>club</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крупный</td>
+<td>large, important</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вспоминать/вспомнить (+a or о +pr)</td>
+<td>to remember, recall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>небольшой</td>
+<td>small</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>художественный</td>
+<td>artistic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кто-то</td>
+<td>someone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нравиться/по- (+d)</td>
+<td>to please (s. o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>школьный</td>
+<td>school (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>государство</td>
+<td>state</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>американский</td>
+<td>American</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строить/по- (+a)</td>
+<td>to build</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восьмой</td>
+<td>eighth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немного (+g)</td>
+<td>a little, not much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пауза</td>
+<td>pause</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>показывать/показать (+a +d)</td>
+<td>to show (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>далеко</td>
+<td>far</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затем</td>
+<td>after that, then</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здание</td>
+<td>building</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>однажды</td>
+<td>once, one day</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>птица</td>
+<td>bird</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самолёт</td>
+<td>aeroplane</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семь</td>
+<td>seven</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шофёр</td>
+<td>driver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двести</td>
+<td>two hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>известный</td>
+<td>well-known</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правильно</td>
+<td>correctly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решение</td>
+<td>decision; solution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вечером</td>
+<td>in the evening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>готовый</td>
+<td>ready</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стараться/по- (+inf)</td>
+<td>to try</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>например</td>
+<td>for example</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простой</td>
+<td>simple</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>произведение</td>
+<td>a work</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учить/вы- (+a)</td>
+<td>to learn (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учить/на- (+а +d)</td>
+<td>to teach (s.o. sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иной</td>
+<td>other</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>результат</td>
+<td>result</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доктор</td>
+<td>doctor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>случаться/случиться</td>
+<td>to happen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>называть/назвать (+a +inst)</td>
+<td>to call, name (s.o. sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>важный</td>
+<td>important</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знание</td>
+<td>knowledge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улыбаться/улыбнуться (+d)</td>
+<td>to smile (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плохо</td>
+<td>badly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учиться/на- (+inf)</td>
+<td>to learn (to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>открывать/открыть (+a)</td>
+<td>to open; to discover</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оставаться/остаться</td>
+<td>to stay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наука</td>
+<td>science; scholarship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>камень (m)</td>
+<td>stone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>против (+g)</td>
+<td>against; opposite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развитие</td>
+<td>development</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бог</td>
+<td>God</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общество</td>
+<td>society</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ничего</td>
+<td>nothing; all right, not too bad; never mind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>условие</td>
+<td>condition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>господин (pl господа)</td>
+<td>gentleman; Mr</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солдат</td>
+<td>soldier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>революция</td>
+<td>revolution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начинаться/начаться</td>
+<td>to begin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>область (f)</td>
+<td>oblast, province; area, field (of activity)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>что-то</td>
+<td>something; (coll) somewhat, somehow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>власть (f)</td>
+<td>power</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>судьба</td>
+<td>fate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>действие</td>
+<td>act, action</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мера</td>
+<td>measure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>энергия</td>
+<td>energy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ряд</td>
+<td>row, line, series</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>находиться/найтись</td>
+<td>to be situated; to be found, turn up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>положение</td>
+<td>position</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глядеть/по- (на +a)</td>
+<td>to look (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>век</td>
+<td>century; age, era</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миллион</td>
+<td>million</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общественный</td>
+<td>social, public</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>основной</td>
+<td>basic, fundamental</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>генерал</td>
+<td>general (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интерес</td>
+<td>interest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>легко</td>
+<td>easily; it is easy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>материал</td>
+<td>material</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цель (f)</td>
+<td>target, purpose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огонь (m)</td>
+<td>fire; light</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закон</td>
+<td>law</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>природа</td>
+<td>nature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>масса</td>
+<td>mass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бой</td>
+<td>battle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>политический</td>
+<td>political</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>луч</td>
+<td>ray, beam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волна</td>
+<td>wave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>процесс</td>
+<td>process; trial, lawsuit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>научный</td>
+<td>scientific, scholarly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>различный</td>
+<td>different, various</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мировой</td>
+<td>world (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>система</td>
+<td>system</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лист</td>
+<td>leaf (of plant); sheet (of paper)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хоть</td>
+<td>even if, if only, even, although</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ребёнок</td>
+<td>child</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>связь (f)</td>
+<td>connection, link, communication</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вообще</td>
+<td>in general</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верить/по-</td>
+<td>to believe (+d) s.o. or sth, (в +a ) in s.o. or sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мужчина (m)</td>
+<td>man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>что-нибудь</td>
+<td>anything</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>представлять/представить (+a)</td>
+<td>to present, introduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искать/по- (+a or +g)</td>
+<td>to search for, to look for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>писатель (m)</td>
+<td>writer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промышленность (f)</td>
+<td>industry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учёный (m) (adj)</td>
+<td>learned, scholarly; (as noun) scholar, scientist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верно</td>
+<td>faithfully, truly; it is true</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>служить/по-</td>
+<td>to serve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правительство</td>
+<td>government</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экономический</td>
+<td>economic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>есть/съ- (+a)</td>
+<td>to eat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рабочий (m) (adj)</td>
+<td>(blue collar) worker; working</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>современный</td>
+<td>modern, contemporary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>работник</td>
+<td>worker, s.o. who works</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чёрт</td>
+<td>devil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>качество</td>
+<td>quality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>международный</td>
+<td>international</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>офицер</td>
+<td>officer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проблема</td>
+<td>problem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>требовать/по- (+g)</td>
+<td>to demand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коммунизм</td>
+<td>communism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корабль (m)</td>
+<td>ship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>класс</td>
+<td>class; classroom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>километр</td>
+<td>kilometre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>число</td>
+<td>number; date</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>база</td>
+<td>base; depot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палец</td>
+<td>finger; toe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>количество</td>
+<td>quantity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коммунист</td>
+<td>communist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>победа</td>
+<td>victory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>река</td>
+<td>river</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пить/вы- (+a or +g)</td>
+<td>to drink, have an alcoholic drink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>человеческий</td>
+<td>human (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гора</td>
+<td>mountain, hill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>милый</td>
+<td>nice, dear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>политика (no pl)</td>
+<td>politics; policy, policies</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>производство</td>
+<td>production</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>национальный</td>
+<td>national; ethnic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>холодный</td>
+<td>cold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>государственный</td>
+<td>state (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откуда</td>
+<td>from where</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сложный</td>
+<td>complicated, complex</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>богатый</td>
+<td>rich</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бросать/бросить (+a)</td>
+<td>to throw; abandon, give up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строительство</td>
+<td>construction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>значение</td>
+<td>meaning, importance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>председатель (m)</td>
+<td>chairman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>характер</td>
+<td>character</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необходимый</td>
+<td>essential</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смеяться/за-/рас- (над +inst)</td>
+<td>to laugh (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бороться (i) (с +inst)</td>
+<td>to struggle (against)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изделие</td>
+<td>(manufactured) article</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>особый</td>
+<td>special</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смерть (f)</td>
+<td>death</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>статья</td>
+<td>article (newspaper, journal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>счёт</td>
+<td>bill, account; count, score</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весьма</td>
+<td>very, extremely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сельский</td>
+<td>rural, country</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>средство</td>
+<td>means; (pl) resources</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подобный</td>
+<td>similar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пример</td>
+<td>example</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>революционный</td>
+<td>revolutionary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скорость (f)</td>
+<td>speed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>факт</td>
+<td>fact</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>малый</td>
+<td>small</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чай</td>
+<td>tea</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тёмный</td>
+<td>dark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>явление</td>
+<td>phenomenon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>состоять (i) (из +g)</td>
+<td>to consist (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ясно</td>
+<td>clearly; it is clear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>точка</td>
+<td>dot, point; full stop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стоить (i)</td>
+<td>to cost, to be worth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ум</td>
+<td>mind, intellect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вполне</td>
+<td>fully, entirely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>событие</td>
+<td>event</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>существовать (i)</td>
+<td>to exist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кабинет</td>
+<td>study, office</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спасибо</td>
+<td>thank you</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>враг</td>
+<td>enemy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глубокий</td>
+<td>deep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>французский</td>
+<td>French (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>близкий</td>
+<td>close, near</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ах</td>
+<td>ah!, oh!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деятельность (f)</td>
+<td>activity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приводить/привести (+a)</td>
+<td>to bring (s.o.); (к +d) lead to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трубка</td>
+<td>tube, pipe; telephone receiver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>английский</td>
+<td>English; British (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сей </td>
+<td>this (=этот) (bookish; used in set phrases)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>температура</td>
+<td>temperature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>состояние</td>
+<td>state, condition; fortune</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>счастье</td>
+<td>happiness, luck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смысл</td>
+<td>sense, meaning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубль (m)</td>
+<td>rouble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вчера</td>
+<td>yesterday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правый</td>
+<td>right; right-wing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автор</td>
+<td>author</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>большинство</td>
+<td>majority</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>известно</td>
+<td>it is (well) known</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мелкий</td>
+<td>small, petty, fine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>течение</td>
+<td>flow, current; course</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оружие</td>
+<td>arms, weapons</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>муж</td>
+<td>husband</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>происходить/произойти</td>
+<td>to happen; to originate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свободный</td>
+<td>free</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идея</td>
+<td>idea</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усилие</td>
+<td>effort</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>линия</td>
+<td>line</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искусство</td>
+<td>art</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>состав</td>
+<td>composition, make-up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капитализм</td>
+<td>capitalism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>литература</td>
+<td>literature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страница</td>
+<td>page</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бить/по- (+a)</td>
+<td>to beat, hit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иначе</td>
+<td>otherwise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>читатель (m)</td>
+<td>reader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наиболее</td>
+<td>(the) most</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рост</td>
+<td>growth, increase; height</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>американец</td>
+<td>American (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корень (m)</td>
+<td>root</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немец</td>
+<td>German (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>небо</td>
+<td>serious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свойство</td>
+<td>characteristic, property</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взглядывать/взглянуть (на +a)</td>
+<td>to look, glance (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высоко</td>
+<td>high (up); highly; it is high</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>население</td>
+<td>population</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стекло</td>
+<td>glass (material)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>театр</td>
+<td>theatre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надежда</td>
+<td>hope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>довольно</td>
+<td>fairly, rather; contentedly; (+g) enough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>край</td>
+<td>edge; region, area</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мужик</td>
+<td>(Russian) peasant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>степь (f)</td>
+<td>steppe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цвет</td>
+<td>colour; blossom; prime</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дед</td>
+<td>grandfather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>основа</td>
+<td>base, foundation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рано</td>
+<td>early; it is early</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>технический</td>
+<td>technical; engineering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>счастливый</td>
+<td>happy, lucky</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>круг</td>
+<td>circle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>момент</td>
+<td>moment; feature (of a situation)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необходимо</td>
+<td>it is essential; it is necessary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строй</td>
+<td>system, structure; military formation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дочь (f)</td>
+<td>daughter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>использовать (i/p) (+a)</td>
+<td>to make use of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>министр</td>
+<td>minister (government)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>синий</td>
+<td>dark blue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передавать/передать (+a)</td>
+<td>to pass, hand over; transmit, convey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>программа</td>
+<td>programme</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>десяток</td>
+<td>ten; a decade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кровь (f)</td>
+<td>blood</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдавать/отдать (+a)</td>
+<td>to give back; to give away; to return</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдельный</td>
+<td>separate, individual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свобода</td>
+<td>freedom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хватать/хватить (+g)</td>
+<td>(3rd pers +g) to be enough, suffice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внутренний</td>
+<td>inner, interior, internal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выступать/выступить</td>
+<td>to appear in public; protrude; to speak (publicly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>как-то</td>
+<td>somehow; (coll) once, at one time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>занимать/занять (+a)</td>
+<td>to occupy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>представитель (m)</td>
+<td>representative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фронт</td>
+<td>front (war)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>богатство</td>
+<td>wealth, riches</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>желать/по- (+g)</td>
+<td>to want, wish (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>какой-нибудь</td>
+<td>any; any kind of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глубина</td>
+<td>depth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мимо (+g)</td>
+<td>past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>управление</td>
+<td>management; administration; control</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слава</td>
+<td>glory, fame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сотня</td>
+<td>a hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страшный</td>
+<td>terrible, dreadful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тем</td>
+<td>(by) so much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весна</td>
+<td>spring (season)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>действовать/по-</td>
+<td>to act, function, affect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пол</td>
+<td>floor; sex</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>процент</td>
+<td>percent, percentage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родина</td>
+<td>homeland, native land</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сцена</td>
+<td>stage (theatre); scene</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>значительный</td>
+<td>significant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метр</td>
+<td>metre (measurement)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чужой</td>
+<td>someone else’s; foreign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воля</td>
+<td>will; freedom, liberty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зуб</td>
+<td>tooth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>менее</td>
+<td>less</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метод</td>
+<td>method</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прощать/простить (+a)</td>
+<td>to forgive (s.o. or sth), pardon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>связывать/связать (+a)</td>
+<td>to tie; to connect, bind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яркий</td>
+<td>bright</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>песок</td>
+<td>sand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уровень (m)</td>
+<td>level; standard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исторический</td>
+<td>historical; historic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>источник</td>
+<td>source</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>половина</td>
+<td>half</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>служба</td>
+<td>service</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ладно</td>
+<td>harmoniously; all right (unenthusiastic agreement)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мешать/по- (+d)</td>
+<td>to disturb, hinder, prevent; (+a) stir</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>село</td>
+<td>village</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впрочем</td>
+<td>however, but; or rather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горячий</td>
+<td>hot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образование</td>
+<td>education; formation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тонна</td>
+<td>ton (1,000 kilogrammes)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вызывать/вызвать (+a)</td>
+<td>to summon; cause</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зрение</td>
+<td>eyesight, vision</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>морской</td>
+<td>sea, marine; naval</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остальной</td>
+<td>the rest (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семя (n)</td>
+<td>seed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сильно</td>
+<td>strongly; very much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тонкий</td>
+<td>thin, slender; fine, subtle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>флот</td>
+<td>fleet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беседа</td>
+<td>talk, discussion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>данный</td>
+<td>given</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достаточно</td>
+<td>sufficiently; (+g) enough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>единственный</td>
+<td>only, sole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лампа</td>
+<td>lamp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продукция</td>
+<td>production, output</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>центр</td>
+<td>centre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вовсе</td>
+<td>at all</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>западный</td>
+<td>western</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корреспондент</td>
+<td>correspondent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожалуй</td>
+<td>very probably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приём</td>
+<td>reception; method, device</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прочий</td>
+<td>other</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страшно</td>
+<td>terribly; it is terrible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возле (+g)</td>
+<td>by, near</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вон</td>
+<td>out, away; over there</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>партийный</td>
+<td>party (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телефон</td>
+<td>telephone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удаваться/удаться (+d)</td>
+<td>to succeed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быстрый</td>
+<td>quick, fast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крестьянин</td>
+<td>peasant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выход</td>
+<td>exit, way out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пытаться/по- (+inf)</td>
+<td>to attempt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стих</td>
+<td>line of poetry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>период</td>
+<td>period</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убивать/убить (+a)</td>
+<td>to kill; to murder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружба</td>
+<td>friendship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>едва</td>
+<td>hardly, scarcely, only just</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неужели</td>
+<td>really? is it possible?</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>степень (f)</td>
+<td>degree, extent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боевой</td>
+<td>fighting, battle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>войска (n, pl)</td>
+<td>troops, army</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карта</td>
+<td>map, card</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>направление</td>
+<td>direction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>человечество</td>
+<td>mankind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вроде (+g)</td>
+<td>like, such as</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>громадный</td>
+<td>enormous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лёгкий</td>
+<td>light, easy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пользоваться/вос- (+inst)</td>
+<td>to use, make use of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предложение</td>
+<td>offer, suggestion; sentence (grammar)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>элемент</td>
+<td>element</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>являться/явиться</td>
+<td>to appear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вероятно</td>
+<td>probably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печь/ис- (+a)</td>
+<td>to bake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печь (f)</td>
+<td>stove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казаться/по-</td>
+<td>to seem, to appear, to show oneself</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умный</td>
+<td>intelligent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глава</td>
+<td>head, chief; chapter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плакать/за-</td>
+<td>to cry, weep, p: to begin to cry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сквозь (+a)</td>
+<td>through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>способ</td>
+<td>way, method</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>способный</td>
+<td>able, capable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>церковь (f)</td>
+<td>church</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>часы (m, pl)</td>
+<td>watch, clock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>честь (f)</td>
+<td>honour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>открытый</td>
+<td>open (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>память (f)</td>
+<td>memory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понятно</td>
+<td>understandably; I see! I understand!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совещание</td>
+<td>meeting, conference</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замечательный</td>
+<td>remarkable, splendid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знаменитый</td>
+<td>famous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предмет</td>
+<td>object, article; subject, topic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слеза</td>
+<td>tear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>где-то</td>
+<td>somewhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дно</td>
+<td>bottom (of sea, river, well, vessel)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>магазин</td>
+<td>shop, store</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вещество́</td>
+<td>substance, matter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>создание</td>
+<td>creation; creature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старуха</td>
+<td>old woman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карман</td>
+<td>pocket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>музей</td>
+<td>museum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>падать/пасть</td>
+<td>to fall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ясный</td>
+<td>clear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поверхность (f)</td>
+<td>surface</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>близко</td>
+<td>it is near, it is not far; near, close; closely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заявлять/заявить (о +pr)</td>
+<td>to announce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>золотой</td>
+<td>gold, golden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колено</td>
+<td>knee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равный</td>
+<td>equal (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>следующий</td>
+<td>following, next</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снимать/снять (+a)</td>
+<td>to take off; photograph; rent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страх</td>
+<td>fear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тёплый</td>
+<td>warm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высота</td>
+<td>height</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>музыка</td>
+<td>music</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остров</td>
+<td>island</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>относиться/отнестись (к +d)</td>
+<td>to relate to; to regard, treat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переставать/перестать (+inf)</td>
+<td>to cease, stop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столь</td>
+<td>so</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мирный</td>
+<td>peace, peaceful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трудный</td>
+<td>difficult</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>долгий</td>
+<td>long (in time)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>железный</td>
+<td>iron (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прямой</td>
+<td>straight, direct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>социальный</td>
+<td>social</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волос</td>
+<td>(a) hair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воспитание</td>
+<td>upbringing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дитя (n)</td>
+<td>child</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покупать/купить (+a)</td>
+<td>to buy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>луна</td>
+<td>moon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пускать/пустить (+a)</td>
+<td>to allow; let in; let go</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вместо (+g)</td>
+<td>instead of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несмотря (на +a)</td>
+<td>in spite of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кулак</td>
+<td>fist; kulak (rich peasant)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кухня</td>
+<td>kitchen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любовь (f)</td>
+<td>love</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рисунок</td>
+<td>drawing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слой</td>
+<td>layer, stratum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тема</td>
+<td>subject, topic, theme</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цена</td>
+<td>price</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конь (m)</td>
+<td>horse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>материальный</td>
+<td>material (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теория</td>
+<td>theory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баба</td>
+<td>peasant woman; (coll) old woman, woman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>терять/по- (+a)</td>
+<td>to lose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прекрасный</td>
+<td>beautiful, fine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>род</td>
+<td>family, kin; birth, origin; sort, kind; gender</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голубой</td>
+<td>light blue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>господь (m)</td>
+<td>God, the Lord</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>губа</td>
+<td>lip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посылать/послать (+a)</td>
+<td>to send</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>руководитель (m)</td>
+<td>leader, manager; instructor, supervisor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>специальный</td>
+<td>special</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тётя</td>
+<td>aunt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>центральный</td>
+<td>central</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всего</td>
+<td>in all, altogether; only</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вывод</td>
+<td>conclusion, deduction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выполнять/выполнить (+a)</td>
+<td>to carry out, fulfil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зерно</td>
+<td>grain, seed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молодёжь (f)</td>
+<td>young people</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эх</td>
+<td>eh! oh! (expressing regret, annoyance, reproach, amazement)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возможно</td>
+<td>possibly; possible; it is possible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глубоко</td>
+<td>deep; deeply, it is deep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добиваться/добиться (+g)</td>
+<td>to obtain, achieve; to strive for; to get</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>местный</td>
+<td>local</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растение</td>
+<td>plant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старик</td>
+<td>old man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поход</td>
+<td>campaign; walking tour, expedition; cruise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спина</td>
+<td>back [noun]</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>судить (i/p) (о +pr)</td>
+<td>to judge; (+a) try (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умирать/умереть</td>
+<td>to die</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экономика</td>
+<td>economics; economy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>больной</td>
+<td>ill; sore; (as noun) patient, invalid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дух</td>
+<td>spirit; breath</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ниже</td>
+<td>lower, below</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>океан</td>
+<td>ocean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запас</td>
+<td>stock, supply; reserve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земной</td>
+<td>earthly, terrestrial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>министерство</td>
+<td>ministry (government)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обязательно</td>
+<td>without fail, definitely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>польза</td>
+<td>use; benefit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предлагать/предложить (+a +d)</td>
+<td>to offer, propose (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>создавать/создать (+a)</td>
+<td>to create</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вновь</td>
+<td>anew, again; newly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зависеть (i) (от +g)</td>
+<td>to depend (on)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плод</td>
+<td>fruit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радио (n) (indecl)</td>
+<td>radio</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разнообразный</td>
+<td>various, varied</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>существование</td>
+<td>existence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бывший</td>
+<td>former</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>касаться/коснуться (+g)</td>
+<td>to touch; to concern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>никак</td>
+<td>in no way; by no means</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>основание</td>
+<td>foundation, basis; founding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приказывать/приказать (+d)</td>
+<td>to order, command s.o.</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родной</td>
+<td>native; own; (as noun, in pl) relatives, relations</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солнечный</td>
+<td>sun, solar; sunny</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стремиться (i) (к +d)</td>
+<td>to strive (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>газ</td>
+<td>gas</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орудие</td>
+<td>instrument; implement; (field) gun, piece of ordnance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радость (f)</td>
+<td>joy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>том</td>
+<td>volume (book)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>честный</td>
+<td>honest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исследование</td>
+<td>investigation; research</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ладонь (f)</td>
+<td>palm (of the hand)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>определённый</td>
+<td>definite; certain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позиция</td>
+<td>position</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ради (+g)</td>
+<td>for the sake of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срок</td>
+<td>period (of time); (last) date, deadline</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слышать/у- (+a)</td>
+<td>to hear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ухо</td>
+<td>ear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шум</td>
+<td>noise, din</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аппарат</td>
+<td>apparatus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гораздо</td>
+<td>much (with comparatives)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капитал</td>
+<td>capital (financial)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плохой</td>
+<td>bad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>площадь (f)</td>
+<td>square; area</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поезд</td>
+<td>train</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>профессор</td>
+<td>professor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серьёзно</td>
+<td>seriously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соль (f)</td>
+<td>salt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сон</td>
+<td>sleep; dream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тень (f)</td>
+<td>shade; shadow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гражданин</td>
+<td>citizen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доставать/достать (+a)</td>
+<td>to get, obtain; take out; reach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дурак</td>
+<td>fool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ибо</td>
+<td>for (because)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лошадь (f)</td>
+<td>horse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пшеница</td>
+<td>wheat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столько (+g)</td>
+<td>so much, so many</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эпоха</td>
+<td>epoch, age</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>давай(те)</td>
+<td>let’s (do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беда</td>
+<td>misfortune</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дальний</td>
+<td>distant, remote</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закрывать/закрыть (+a)</td>
+<td>to close, shut; to cover</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звезда</td>
+<td>star</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обычный</td>
+<td>usual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проводить/провести (+a)</td>
+<td>to lead, conduct; spend (time)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разговаривать (i)</td>
+<td>to converse, talk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размер</td>
+<td>size, scale, extent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрешать/разрешить (+d of person) </td>
+<td>to allow, permit; solve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нечего</td>
+<td>there is nothing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атмосфера</td>
+<td>atmosphere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лодка</td>
+<td>boat, rowing boat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>название</td>
+<td>name; title (book)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правильный</td>
+<td>correct, right</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пустой</td>
+<td>empty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сапог</td>
+<td>boot; jackboot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скорее</td>
+<td>quicker; rather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дальнейший</td>
+<td>further</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>журнал</td>
+<td>magazine, periodical; journal, register</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>либо</td>
+<td>or</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телевизор</td>
+<td>television (set)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ракета</td>
+<td>rocket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>способность (f)</td>
+<td>ability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>академия</td>
+<td>academy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впечатление</td>
+<td>impression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>древний</td>
+<td>ancient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иметься (i)</td>
+<td>to be, be available</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ожидать (i) (+a or +g)</td>
+<td>to wait (for); to expect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пароход</td>
+<td>steamer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разоружение</td>
+<td>disarmament</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>след</td>
+<td>footprint; trace, vestige</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удар</td>
+<td>blow, strike</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внешний</td>
+<td>exterior</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нож</td>
+<td>knife</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грудь (f)</td>
+<td>breast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крайний</td>
+<td>extreme</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>моряк</td>
+<td>sailor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наоборот</td>
+<td>on the contrary, vice versa, the other way round</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передовой</td>
+<td>advanced; progressive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принцип</td>
+<td>principle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тайна</td>
+<td>secret, mystery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тихий</td>
+<td>quiet, calm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устанавливать/установить (+a)</td>
+<td>to set up, establish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>электрический</td>
+<td>electric</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верный</td>
+<td>faithful, correct, reliable, sure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворота (nom pl)</td>
+<td>gate, gates</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дворец</td>
+<td>palace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>золото</td>
+<td>gold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>открытие</td>
+<td>opening; discovery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отсюда</td>
+<td>from here; hence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>специалист</td>
+<td>specialist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>длина</td>
+<td>length</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наблюдать (i) (+a)</td>
+<td>to observe, watch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немедленно</td>
+<td>immediately, forthwith</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немецкий</td>
+<td>German (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повышение</td>
+<td>rise, increase; promotion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>получаться/получиться</td>
+<td>to turn out, work out, result</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соглашаться/согласиться</td>
+<td>to agree (c +inst) with, (на +a) to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>участие</td>
+<td>participation; sympathy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весело</td>
+<td>merrily, cheerfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>левый</td>
+<td>left; left-wing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>московский</td>
+<td>Moscow (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постоянный</td>
+<td>constant, permanent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приказ</td>
+<td>command, order</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роман</td>
+<td>novel; love affair, romance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смех</td>
+<td>laughter, laugh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>твёрдый</td>
+<td>hard, firm, solid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тон</td>
+<td>tone, musical tone; colour tone, tint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>абсолютно</td>
+<td>absolutely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деталь (f)</td>
+<td>detail; component (of machine)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объём</td>
+<td>volume, capacity, size</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интересно</td>
+<td>interestingly; it is interesting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>книжка</td>
+<td>(small) book</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>курс</td>
+<td>course, course of study; rate of exchange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почва</td>
+<td>soil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>низкий</td>
+<td>low</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очевидно</td>
+<td>obviously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пыль (f)</td>
+<td>dust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светлый</td>
+<td>light, bright</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серый</td>
+<td>grey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>анализ</td>
+<td>analysis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влияние</td>
+<td>influence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молчать/по-</td>
+<td>to be silent for a while</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>руководство</td>
+<td>leadership; guide, manual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атомный</td>
+<td>atomic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>граница</td>
+<td>frontier; limit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>защита</td>
+<td>defence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кусок</td>
+<td>piece</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молчание</td>
+<td>silence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наверное</td>
+<td>probably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неожиданно</td>
+<td>unexpectedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пара</td>
+<td>pair, couple</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>платок</td>
+<td>shawl, kerchief</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>практический</td>
+<td>practical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предел</td>
+<td>limit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стенка</td>
+<td>wall, partition, side</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>существо</td>
+<td>essence; being, creature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тишина</td>
+<td>quiet, silence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>товар</td>
+<td>commodity, article</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вершина</td>
+<td>summit, peak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взрыв</td>
+<td>explosion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виноватый</td>
+<td>guilty, to blame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вырастать/вырасти</td>
+<td>to grow, increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гражданский</td>
+<td>civil, civic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деятель (m)</td>
+<td>agent, figure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дождь (m)</td>
+<td>rain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>называться/назваться</td>
+<td>to be called</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невозможно</td>
+<td>impossibly; it is impossible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обещать (i/p) (+d)</td>
+<td>to promise (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позволять/позволить (+d)</td>
+<td>to permit (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роль (f)</td>
+<td>role</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сестра</td>
+<td>sister</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>следовательно</td>
+<td>consequently, therefore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столица</td>
+<td>capital (city)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фигура</td>
+<td>figure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>царь (m)</td>
+<td>tsar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бедный</td>
+<td>poor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верхний</td>
+<td>upper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вслед (за +inst)</td>
+<td>after</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изменение</td>
+<td>change, alteration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>носить (i) (+a)</td>
+<td>to carry (around); wear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>особенность (f)</td>
+<td>peculiarity, special feature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рад</td>
+<td>glad (short adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резко</td>
+<td>sharply, abruptly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звонок</td>
+<td>bell, ring; telephone call</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испытание</td>
+<td>test, trial; ordeal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необходимость (f)</td>
+<td>necessity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обстановка</td>
+<td>environment, situation; furniture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печать (f)</td>
+<td>seal, stamp; print, printing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повод</td>
+<td>cause, grounds</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постоянно</td>
+<td>constantly, perpetually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разуметься (i)</td>
+<td>to be meant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стакан</td>
+<td>glass, tumbler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>точный</td>
+<td>exact, precise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уезжать/уехать</td>
+<td>to go away, leave (by transport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>широко</td>
+<td>widely, broadly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возможный</td>
+<td>possible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изучение</td>
+<td>(detailed) study (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комиссия</td>
+<td>commission, committee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гектар</td>
+<td>hectare (10,000 square metres, 2.5 acres)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благодарить/по- (+a; за +a)</td>
+<td>to thank (s.o. for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блестящий</td>
+<td>shining, bright, brilliant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вес</td>
+<td>weight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>врач</td>
+<td>doctor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жёлтый</td>
+<td>yellow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крик</td>
+<td>cry, shout</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нынче</td>
+<td>now (= теперь); today (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обеспечивать/обеспечить (+a +inst)</td>
+<td>to supply, provide (s.o. with sth); (+a) assure, guarantee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поэт</td>
+<td>poet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рот</td>
+<td>mouth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собака</td>
+<td>dog</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соседний</td>
+<td>neighbouring, next</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туман</td>
+<td>fog, mist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капитан</td>
+<td>captain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>философия</td>
+<td>philosophy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доказывать/доказать (+a)</td>
+<td>to demonstrate, prove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здоровье</td>
+<td>health</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>извинять/извинить (+a)</td>
+<td>to pardon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ошибка</td>
+<td>mistake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тотчас</td>
+<td>immediately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вагон</td>
+<td>carriage, coach, wagon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гореть/за-</td>
+<td>to burn, be alight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>далёкий</td>
+<td>distant, remote</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>канал</td>
+<td>canal; channel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>практика</td>
+<td>practice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сожаление</td>
+<td>regret</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укрепление</td>
+<td>strengthening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быт</td>
+<td>way of life, everyday life</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делаться/с- (+inst)</td>
+<td>to become; be done</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крыша</td>
+<td>roof</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недостаток</td>
+<td>defect; (+g or в +pr) shortage (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрасль (f)</td>
+<td>branch (of science, industry, government, etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подавать/подать (+a)</td>
+<td>to give; serve (food); present</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поиск</td>
+<td>search</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порт</td>
+<td>port</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свидание</td>
+<td>meeting, rendezvous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>требование</td>
+<td>demand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>черта</td>
+<td>feature, trait; line</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штат</td>
+<td>staff (of institution); state (of the USA, Australia)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вздыхать/вздохнуть</td>
+<td>to sigh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>записка</td>
+<td>note (written)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озеро</td>
+<td>lake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организовать (i/p) (+a)</td>
+<td>to organize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сознание</td>
+<td>consciousness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тепло</td>
+<td>warmly; it is warm; warmth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прежний</td>
+<td>former</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пространство</td>
+<td>space, expanse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>составлять/составить (+a)</td>
+<td>to make up, compose, constitute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спутник</td>
+<td>travelling companion; satellite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стрелять (i) (в +a or по +d)</td>
+<td>to shoot (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдоль (+g)</td>
+<td>along</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>встречаться/встретиться (с +inst)</td>
+<td>to meet (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>документ</td>
+<td>document</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мечтать (i) (о +pr)</td>
+<td>to (day) dream (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обычно</td>
+<td>usually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продукт</td>
+<td>product</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>секунда</td>
+<td>second</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сельскохозяйственный</td>
+<td>agricultural</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>странный</td>
+<td>strange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>братский</td>
+<td>fraternal, brotherly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доходить/дойти (до +g)</td>
+<td>to reach (s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достижение</td>
+<td>achievement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заходить/зайти</td>
+<td>(к +d) to call on s.o.; (за +a) go behind, set (of sun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мёртвый</td>
+<td>dead</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>могучий</td>
+<td>powerful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мотор</td>
+<td>motor, engine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>независимость (f)</td>
+<td>independence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>представление</td>
+<td>presentation; performance; notion, conception</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>применение</td>
+<td>application, use</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трудность (f)</td>
+<td>difficulty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удовольствие</td>
+<td>pleasure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>узкий</td>
+<td>narrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боец</td>
+<td>fighter, soldier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жалко</td>
+<td>pitifully; it’s a pity; (+g) be sorry for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>массовый</td>
+<td>mass (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>меньше</td>
+<td>less</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мечта</td>
+<td>dream, daydream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ночной</td>
+<td>night (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обратно</td>
+<td>back (adv)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опасность (f)</td>
+<td>danger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отказываться/отказаться (+inf)</td>
+<td>to refuse (to do sth); (от +g) renounce (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полк</td>
+<td>regiment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полностью</td>
+<td>fully, completely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>попытка</td>
+<td>attempt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прошлое</td>
+<td>the past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рис</td>
+<td>rice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спокойный</td>
+<td>calm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уголь (m)</td>
+<td>coal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учреждение</td>
+<td>establishment, institution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щека</td>
+<td>cheek</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возраст</td>
+<td>age</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>громко</td>
+<td>loudly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дым</td>
+<td>smoke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>желание</td>
+<td>wish, desire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забота</td>
+<td>care, trouble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>использование</td>
+<td>utilization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красота</td>
+<td>beauty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мощный</td>
+<td>powerful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постепенно</td>
+<td>gradually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>президент</td>
+<td>president</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыба</td>
+<td>fish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>следить (i) (за +inst)</td>
+<td>to watch, keep an eye on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хватать/схватить (+a)</td>
+<td>to seize, grab</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>темнота</td>
+<td>darkness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трава</td>
+<td>grass; herb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тяжело</td>
+<td>heavily; gravely; it is hard, painful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улучшение</td>
+<td>improvement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улыбка</td>
+<td>smile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учение</td>
+<td>learning, study, instruction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глупый</td>
+<td>stupid, silly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зато</td>
+<td>in compensation, on the other hand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лоб</td>
+<td>forehead</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немало</td>
+<td>not a little, a good many</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поколение</td>
+<td>generation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учитель (m)</td>
+<td>teacher</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видимо</td>
+<td>evidently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воевать (i)</td>
+<td>to wage war</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выступление</td>
+<td>speech; (public) appearance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юноша</td>
+<td>(a) youth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>значительно</td>
+<td>significantly, considerably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>из-под (+g)</td>
+<td>from under</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ложиться/лечь</td>
+<td>to lie down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробовать/по-</td>
+<td>(+inf) to try; (+a) test; taste</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промышленный</td>
+<td>industrial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слабый</td>
+<td>weak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стул</td>
+<td>chair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фотография</td>
+<td>photograph</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цепь (f)</td>
+<td>chain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восстание</td>
+<td>uprising</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задание</td>
+<td>task, assignment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наверно</td>
+<td>probably, most likely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обращаться/обратиться (к +d)</td>
+<td>to turn to; (в +a) turn into; (c +inst) handle sth, treat s.o.</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>октябрь (m)</td>
+<td>October</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отличаться/отличиться</td>
+<td>to distinguish os; (от +g i only) differ</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повторять/повторить (+a)</td>
+<td>to repeat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>содержание</td>
+<td>content (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устраивать/устроить (+a)</td>
+<td>to arrange, organize (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>важно</td>
+<td>it is important</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вера</td>
+<td>faith, belief</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>демократический</td>
+<td>democratic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>долг</td>
+<td>debt; (sg only) duty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зима</td>
+<td>winter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крепко</td>
+<td>firmly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молча</td>
+<td>in silence, without speaking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переход</td>
+<td>crossing, transition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знакомиться/по- (с +inst)</td>
+<td>to become acquainted with; meet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>портрет</td>
+<td>portrait</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудо</td>
+<td>marvel, miracle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бок</td>
+<td>side</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вводить/ввести (+a)</td>
+<td>to bring in, introduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>держаться (i) (за +a)</td>
+<td>to hold on (to); (+g) keep to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жалеть/по- (+a)</td>
+<td>to pity, feel sorry for; (o +pr) regret</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>итак</td>
+<td>so, so then</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надеяться (i)</td>
+<td>to hope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настроение</td>
+<td>mood</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облако</td>
+<td>cloud</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одновременно</td>
+<td>simultaneously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отходить/отойти (от +g)</td>
+<td>to move away (from); depart (train)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понятие</td>
+<td>concept, notion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поток</td>
+<td>stream, flow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рождаться/родиться</td>
+<td>to be born</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стоимость (f)</td>
+<td>cost, value</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стремление</td>
+<td>striving, aspiration, desire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>территория</td>
+<td>territory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>висеть (i)</td>
+<td>to hang, be hanging</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вниз</td>
+<td>down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горный</td>
+<td>mountain (adj); mining</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>городской</td>
+<td>urban, town (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диван</td>
+<td>divan, couch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заговаривать/заговорить</td>
+<td>to start speaking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кстати</td>
+<td>incidentally, by the way; opportunely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образец</td>
+<td>model, pattern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принадлежать (i) (+d)</td>
+<td>to belong to; (к +d) be a member of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суд</td>
+<td>court (of law); trial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автомобиль (m)</td>
+<td>car</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>адрес</td>
+<td>address</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вверх</td>
+<td>upwards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>духовный</td>
+<td>spiritual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иностранный</td>
+<td>foreign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>литературный</td>
+<td>literary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напоминать/напомнить (+d о +pr)</td>
+<td>to remind (s.o. of sth.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осторожно</td>
+<td>carefully, cautiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побеждать/победить (+a)</td>
+<td>to defeat, conquer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полезный</td>
+<td>useful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расчёт</td>
+<td>calculation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уверенный</td>
+<td>confident, sure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болезнь (f)</td>
+<td>illness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впереди</td>
+<td>ahead</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вскоре</td>
+<td>soon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>железо</td>
+<td>iron</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навстречу (+d)</td>
+<td>towards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обладать (i) (+inst)</td>
+<td>to possess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опасный</td>
+<td>dangerous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полтора</td>
+<td>one and a half</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>считаться (i)</td>
+<td>(+inst) to be considered; (c +inst) take into account</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трудовой</td>
+<td>labour, work (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>участвовать (i) (в +pr)</td>
+<td>to take part in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шея</td>
+<td>neck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>южный</td>
+<td>southern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бросаться/броситься</td>
+<td>to rush, throw oneself</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всеобщий</td>
+<td>general; universal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>договор</td>
+<td>agreement; treaty; contract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>короткий</td>
+<td>short</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>культурный</td>
+<td>cultured, civilized; cultural</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мягкий</td>
+<td>soft; gentle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ой</td>
+<td>o; oh (expressing surprise or fright)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развиваться/развиться</td>
+<td>to develop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тянуть/по- (+a)</td>
+<td>to pull, drag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вечный</td>
+<td>eternal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>январь (m)</td>
+<td>January</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обнаруживать/обнаружить (+a)</td>
+<td>to reveal; discover</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>особенный</td>
+<td>special, particular</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подготовка (к +d)</td>
+<td>preparation (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>придумывать/придумать (+a)</td>
+<td>to think up, invent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>редакция</td>
+<td>editorial office; editing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собственность (f)</td>
+<td>property (something owned)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строго</td>
+<td>strictly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убеждаться/убедиться (в +pr)</td>
+<td>to convince oneself, become sure (of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угроза</td>
+<td>threat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уничтожать/уничтожить (+a)</td>
+<td>to destroy; do away with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>груз</td>
+<td>load; cargo</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здоровый</td>
+<td>healthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кольцо</td>
+<td>ring (i.e. small hoop)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кончать/кончить (+a)</td>
+<td>to finish; graduate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мешок</td>
+<td>bag, sack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мост</td>
+<td>bridge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смена</td>
+<td>changing; shift (e.g in factory); replacement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снимок</td>
+<td>photograph</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телега</td>
+<td>cart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тип</td>
+<td>type; (coll) bloke, fellow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торопиться/по-</td>
+<td>to hurry, be in a hurry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>физический</td>
+<td>physical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весть (f)</td>
+<td>piece of news</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водка</td>
+<td>vodka</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>говориться (i)</td>
+<td>to be said</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девять</td>
+<td>nine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заканчивать/закончить (+a)</td>
+<td>to finish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>круглый</td>
+<td>round</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мораль (f)</td>
+<td>morals, morality; moral (of a story)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немножко</td>
+<td>(coll) a little, a bit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обида</td>
+<td>offence, insult</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обыкновенный</td>
+<td>usual; ordinary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окончательно</td>
+<td>finally, definitively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погодить (р)</td>
+<td>to wait a little</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-моему</td>
+<td>in my opinion; as I would have it</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помощник</td>
+<td>assistant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пьяный</td>
+<td>drunk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соединение</td>
+<td>joining, combination; joint, join (tech)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толпа</td>
+<td>crowd</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ударять/ударить (+a)</td>
+<td>to strike, hit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хуже</td>
+<td>worse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>единый</td>
+<td>single, sole; united</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>злой</td>
+<td>evil, wicked; bad-tempered, fierce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>назначение</td>
+<td>appointment (to a post); purpose (for which sth is intended)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осень (f)</td>
+<td>autumn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пар</td>
+<td>steam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полевой</td>
+<td>field (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>читать/прочесть (+a)</td>
+<td>to read</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собственно</td>
+<td>strictly, properly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старинный</td>
+<td>ancient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столовая (f) (adj)</td>
+<td>dining-room; canteen, refectory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сухой</td>
+<td>dry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>готовить/при- (+a)</td>
+<td>to prepare; to cook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>держава</td>
+<td>power (powerful country)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заставлять/заставить (+a +inf)</td>
+<td>to force, compel (s.o. to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колесо</td>
+<td>wheel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лететь/по-</td>
+<td>to fly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нечто</td>
+<td>something (=что-то)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полагать (i)</td>
+<td>to suppose, think</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропасть (f)</td>
+<td>precipice, abyss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свежий</td>
+<td>fresh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>северный</td>
+<td>north, northern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собирать/собрать (+a)</td>
+<td>to gather, collect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удивительный</td>
+<td>surprising, astonishing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>участник</td>
+<td>participant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хозяйка</td>
+<td>owner, proprietress; hostess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чей</td>
+<td>whose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспокоиться/о- (о +pr)</td>
+<td>to worry, be worried (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>во-первых</td>
+<td>firstly, in the first place</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выражение</td>
+<td>expression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горе</td>
+<td>grief, sorrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>детство</td>
+<td>childhood</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доллар</td>
+<td>dollar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доля</td>
+<td>portion, share; lot, fate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>итог</td>
+<td>sum, total</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коридор</td>
+<td>corridor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ныне</td>
+<td>now; today (=теперь)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>признавать/признать</td>
+<td>to admit; to recognize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>среда</td>
+<td>Wednesday; environment, milieu</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>училище</td>
+<td>college (vocational)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бомба</td>
+<td>bomb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бюро (indecl)</td>
+<td>office</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высший</td>
+<td>highest, supreme</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дедушка (m)</td>
+<td>grandfather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>действительность (f)</td>
+<td>reality; validity (of a document)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заседание</td>
+<td>meeting, conference, session</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ключ</td>
+<td>key; spring, source</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кресло</td>
+<td>armchair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оставлять/оставить (+a)</td>
+<td>to leave (sth), abandon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>останавливать/остановить (+a)</td>
+<td>to stop (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отмечать/отметить (+a)</td>
+<td>to mark, note, record, mention; to celebrate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погода</td>
+<td>weather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поступать/поступить</td>
+<td>to act; (в +a) enter (organization)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>режим</td>
+<td>regime; rules, regulations; diet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решительно</td>
+<td>resolutely; definitely, absolutely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сравнение</td>
+<td>comparison</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>странно</td>
+<td>strangely; it is strange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строгий</td>
+<td>strict, severe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стыдно</td>
+<td>it is shameful; (+d of person X) X is ashamed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>танец</td>
+<td>dance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>больно</td>
+<td>painfully; it is painful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добро</td>
+<td>good, good deeds; goods (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заключать/заключить (+a)</td>
+<td>to conclude; enclose; imprison</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>занавес</td>
+<td>(heavy) curtain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>когда-то</td>
+<td>at some time, at one time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кончаться/кончиться</td>
+<td>to end, come to an end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миллиард</td>
+<td>1,000,000,000 (American billion)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нынешний</td>
+<td>present, present-day</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обстоятельство</td>
+<td>circumstance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ох</td>
+<td>oh, ah (expressing regret, annoyance)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переходить/перейти (+a or через +a)</td>
+<td>to cross, go over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привыкать/привыкнуть (к +d)</td>
+<td>to get used to; get into the habit of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присылать/прислать (+a)</td>
+<td>to send</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противник</td>
+<td>opponent, adversary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реальный</td>
+<td>real; realistic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спичка</td>
+<td>match, match stick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>творческий</td>
+<td>creative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торговля</td>
+<td>trade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>установка</td>
+<td>installation; purpose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воздушный</td>
+<td>air (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всюду</td>
+<td>everywhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>журналист</td>
+<td>journalist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>захватывать/захватить (+a)</td>
+<td>to take, grasp; seize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звание</td>
+<td>title; calling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звонить/по- (+d)</td>
+<td>to ring, telephone (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конкретный</td>
+<td>concrete, specific</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кричать/крикнуть</td>
+<td>to shout</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>март</td>
+<td>March (month)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>множество</td>
+<td>large number</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отправлять/отправить (+a)</td>
+<td>to send off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противоречие</td>
+<td>contradiction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резкий</td>
+<td>sharp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сомнение</td>
+<td>doubt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>темп</td>
+<td>rate, speed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>труба</td>
+<td>pipe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тюрьма</td>
+<td>prison</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внимательно</td>
+<td>attentively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лишний</td>
+<td>extra, spare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погибать/погибнуть</td>
+<td>to perish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порог</td>
+<td>threshold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибывать/прибыть</td>
+<td>to arrive (formal); (coll) increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просьба</td>
+<td>request</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>состояться (р)</td>
+<td>to take place</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>творчество</td>
+<td>creative work</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>университет</td>
+<td>university</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>академик</td>
+<td>academician</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>битва</td>
+<td>battle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взрослый</td>
+<td>adult</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капля</td>
+<td>drop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контроль (m)</td>
+<td>checking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многое (n)</td>
+<td>much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непонятный</td>
+<td>incomprehensible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нижний</td>
+<td>lower</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осуществление</td>
+<td>carrying out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прогресс</td>
+<td>progress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пункт</td>
+<td>point</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>редкий</td>
+<td>rare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>содержать (i)</td>
+<td>to contain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уважение</td>
+<td>respect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ужас</td>
+<td>horror</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цветной</td>
+<td>coloured</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шар</td>
+<td>sphere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>врать/со-</td>
+<td>to tell lies; talk nonsense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дама</td>
+<td>lady</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>демократия</td>
+<td>democracy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деревянный</td>
+<td>wooden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истина</td>
+<td>truth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исчезать/исчезнуть</td>
+<td>to vanish; disappear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каменный</td>
+<td>stone (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любимый</td>
+<td>favourite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оттуда</td>
+<td>from there</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поведение</td>
+<td>behaviour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вести/по- (+a)</td>
+<td>to lead</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стоять/по-</td>
+<td>to stand; p: to stand for a while</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потребность (f)</td>
+<td>need</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рукав</td>
+<td>sleeve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соединённый</td>
+<td>united</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трудиться/по-</td>
+<td>to labour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фамилия</td>
+<td>surname</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шуметь (i)</td>
+<td>to make a noise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>активный</td>
+<td>active</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>библиотека</td>
+<td>library</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ездить/по-</td>
+<td>to travel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лезть/по-</td>
+<td>to climb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образовывать/образовать (+a)</td>
+<td>to form</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печка</td>
+<td>stove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>планета</td>
+<td>planet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понятный</td>
+<td>comprehensible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правило</td>
+<td>rule</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прозрачный</td>
+<td>transparent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торговый</td>
+<td>trade (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шинель (f)</td>
+<td>greatcoat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шутить/по-</td>
+<td>to joke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шутка</td>
+<td>joke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ящик</td>
+<td>box, crate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авторитет</td>
+<td>authority</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болеть (i)</td>
+<td>to be ill; to hurt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вечерний</td>
+<td>evening (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видный</td>
+<td>eminent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внезапно</td>
+<td>suddenly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гулять/по-</td>
+<td>to take a walk; (coll) take time off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двенадцать</td>
+<td>twelve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зверь (m)</td>
+<td>wild animal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звук</td>
+<td>sound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звучать/про-</td>
+<td>to sound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>командовать (i) (+inst)</td>
+<td>to command (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>курить/по-</td>
+<td>to smoke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непременно</td>
+<td>without fail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>низко</td>
+<td>low</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образовываться/образоваться</td>
+<td>to be formed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>означать (i)</td>
+<td>to mean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>острый</td>
+<td>sharp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>питание</td>
+<td>feeding, food</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полоса</td>
+<td>strip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>святой</td>
+<td>sacred; saint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>середина</td>
+<td>middle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>случайно</td>
+<td>by chance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сутки (f) (pl)</td>
+<td>24 hours</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убегать/убежать</td>
+<td>to run away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шапка</td>
+<td>hat (without brim)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агрессия</td>
+<td>aggression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благодаря (+d)</td>
+<td>thanks to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зло</td>
+<td>evil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кругом</td>
+<td>around</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крыльцо</td>
+<td>entrance steps; porch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нередко</td>
+<td>often</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обед</td>
+<td>meal; dinner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поддержка</td>
+<td>support</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подъём</td>
+<td>rise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>причём</td>
+<td>and furthermore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проект</td>
+<td>project</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сообщение</td>
+<td>communication</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосед</td>
+<td>neighbour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сущность (f)</td>
+<td>essence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>твёрдо</td>
+<td>firmly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цифра</td>
+<td>figure, number</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>англичанин</td>
+<td>Englishman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>во-вторых</td>
+<td>secondly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вооружение</td>
+<td>arming; arms</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восток</td>
+<td>east</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запах</td>
+<td>smell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зимний</td>
+<td>winter (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карандаш</td>
+<td>pencil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корова</td>
+<td>cow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корпус</td>
+<td>corps; building; body, frame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>краска</td>
+<td>paint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>май</td>
+<td>May</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передача</td>
+<td>transmission</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ходить/по-</td>
+<td>to walk about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>походить (i) (на +a)</td>
+<td>to resemble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пояс</td>
+<td>belt, waist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>указывать/указать (+a or на +a)</td>
+<td>to point out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вряд ли</td>
+<td>(it’s) unlikely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горизонт</td>
+<td>horizon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жаль</td>
+<td>it’s a pity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>житель (m)</td>
+<td>inhabitant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задумываться/задуматься (о +pr/над +inst)</td>
+<td>to think deeply, become thoughtful (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изменять/изменить (+a)</td>
+<td> to change, alter; (+d) betray</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>минутка</td>
+<td>moment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некогда</td>
+<td>there’s no time; once</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ответственность (f)</td>
+<td>responsibility</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передняя</td>
+<td>entrance hall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пост</td>
+<td>post (job)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстояние</td>
+<td>distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сведение</td>
+<td>information, reduction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>север</td>
+<td>north</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сердиться/рас- (на +a)</td>
+<td>to be angry (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совесть (f)</td>
+<td>conscience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>традиция</td>
+<td>tradition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фраза</td>
+<td>phrase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чемодан</td>
+<td>suitcase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голый</td>
+<td>naked</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>защищать/защитить (+a)</td>
+<td>to defend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кафедра</td>
+<td>department (university)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>компания</td>
+<td>company; group of friends</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оборудование</td>
+<td>equipment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покой</td>
+<td>peace, quiet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почему-то</td>
+<td>for some reason</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смелый</td>
+<td>brave, bold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спорить/по-</td>
+<td>to argue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спорт</td>
+<td>sport</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>успешно</td>
+<td>successfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фильм</td>
+<td>film</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безопасность (f)</td>
+<td>security</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпускать/выпустить (+a)</td>
+<td>to release</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дисциплина</td>
+<td>discipline</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дышать/по- (+inst)</td>
+<td>to breathe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здорово</td>
+<td>(coll) splendid(ly), great healthily; (coll) hi!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изображение</td>
+<td>depiction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>класть/положить (+a)</td>
+<td>to put</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крепость (f)</td>
+<td>fortress; strength</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несомненно</td>
+<td>undoubtedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окружать/окружить (+a +inst)</td>
+<td>to surround (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опускать/опустить (+a)</td>
+<td>to lower, drop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отлично</td>
+<td>excellent(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примерно</td>
+<td>approximately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спустя (+a)</td>
+<td>later (= через)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строительный</td>
+<td>construction (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>талант</td>
+<td>talent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уставать/устать</td>
+<td>to tire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юность (f)</td>
+<td>youth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>браться/взяться (за +a)</td>
+<td>to take hold of; start work on; to take up, get down to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>величина</td>
+<td>size</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возвращать/вернуть (+a)</td>
+<td>to return</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зеркало</td>
+<td>mirror</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крыло</td>
+<td>wing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лестница</td>
+<td>staircase; ladder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>определять/определить (+a)</td>
+<td>to define, determine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очередной</td>
+<td>next; regular</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пальто (n) (indecl)</td>
+<td>overcoat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>папироса</td>
+<td>cigarette</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>платье</td>
+<td>dress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбираться/разобраться (в +pr)</td>
+<td>to sort sth out; investigate; understand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пушка</td>
+<td>cannon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>получение</td>
+<td>receiving</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приятно</td>
+<td>pleasant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посёлок</td>
+<td>settlement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потеря</td>
+<td>loss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожар</td>
+<td>fire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сердито</td>
+<td>angrily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слух</td>
+<td>hearing; rumour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снаряд</td>
+<td>shell (mil)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сообщать/сообщить (+a +d)</td>
+<td>to communicate (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тесный</td>
+<td>tight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экзамен</td>
+<td>examination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благо</td>
+<td>good (thing), benefit; (coll) since, seeing that</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болото</td>
+<td>marsh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внутри (+g)</td>
+<td>inside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выглядеть (i)</td>
+<td>to look</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>готовиться (i) (к +d)</td>
+<td>to prepare (for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двигатель (m)</td>
+<td>motor, engine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добавлять/добавить (+a к +d)</td>
+<td>to add (sth to sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дрожать/за-</td>
+<td>to shiver, start shaking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капиталист</td>
+<td>capitalist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крепкий</td>
+<td>strong</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>музыкальный</td>
+<td>musical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нехорошо</td>
+<td>not good</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объявлять/объявить (+a or о +pr)</td>
+<td>to declare, announce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организм</td>
+<td>organism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остаток</td>
+<td>remainder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подобно (+d)</td>
+<td>similar (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покрывать/покрыть (+a +inst)</td>
+<td>to cover (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поп</td>
+<td>priest (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-прежнему</td>
+<td>as before</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привычка</td>
+<td>habit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соглашение</td>
+<td>agreement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спор</td>
+<td>argument</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строка</td>
+<td>line (of text)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тянуться/по-</td>
+<td>to stretch; stretch os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увеличение</td>
+<td>increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ужасно</td>
+<td>terribly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>урожай</td>
+<td>harvest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ценный</td>
+<td>valuable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чисто</td>
+<td>purely, cleanly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бегать/по-</td>
+<td>to run around</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бегать/с-</td>
+<td>to run there and back, run somewhere (and return)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>борода</td>
+<td>beard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>депутат</td>
+<td>elected representative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заявление</td>
+<td>announcement; application</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коротко</td>
+<td>short, briefly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напрасно</td>
+<td>in vain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ночью</td>
+<td>at night</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охота</td>
+<td>desire; hunting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пища</td>
+<td>food</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помещение</td>
+<td>accommodation, premises</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ровно</td>
+<td>evenly; precisely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тайга</td>
+<td>taiga (northern forest)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телеграмма</td>
+<td>telegram</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толстый</td>
+<td>fat (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>транспорт</td>
+<td>transport</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бык</td>
+<td>bull</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдерживать/выдержать (+a)</td>
+<td>to withstand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достигать/достигнуть (+g)</td>
+<td>to achieve, reach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вынимать/вынуть (+a)</td>
+<td>to take out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выполнение</td>
+<td>carrying out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кожа</td>
+<td>skin; leather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>меньший</td>
+<td>smaller</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мол</td>
+<td>he/she/they said</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настолько</td>
+<td>so much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неожиданный</td>
+<td>unexpected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>официальный</td>
+<td>official</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охотник</td>
+<td>hunter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пламя (n)</td>
+<td>flame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понимание</td>
+<td>understanding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протягивать/протянуть (+a)</td>
+<td>to stretch out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>профессия</td>
+<td>profession</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сооружение</td>
+<td>construction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спешить/по-</td>
+<td>to hurry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сторож</td>
+<td>watchman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ступать/ступить</td>
+<td>to step</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тревога</td>
+<td>alarm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утверждать (i)</td>
+<td>to affirm, maintain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белоснежный</td>
+<td>snow-white</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бутылка</td>
+<td>bottle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волноваться/вз-</td>
+<td>to worry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>давление</td>
+<td>pressure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запад</td>
+<td>west</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колебание</td>
+<td>hesitation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кровать (f)</td>
+<td>bed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механический</td>
+<td>mechanical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мощность (f)</td>
+<td>power (of engine etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>направлять/направить (+a)</td>
+<td>to direct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подарок</td>
+<td>present, gift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подлинный</td>
+<td>genuine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поскольку</td>
+<td>since, because, in as far as</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превращение</td>
+<td>conversion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>профсоюз</td>
+<td>trade union</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбивать/разбить (+a)</td>
+<td>to break, smash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сметь/по- (+inf)</td>
+<td>to dare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ствол</td>
+<td>trunk (tree); barrel (gun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уверенность (f)</td>
+<td>confidence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фонарь (m)</td>
+<td>lamp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верховный</td>
+<td>supreme</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взаимный</td>
+<td>mutual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>градус</td>
+<td>degree (°)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>допускать/допустить (+a к +d)</td>
+<td>to admit (s.o. to); assume; allow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заказ</td>
+<td>order (for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инициатива</td>
+<td>initiative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лекция</td>
+<td>lecture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мокрый</td>
+<td>wet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>моральный</td>
+<td>moral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опытный</td>
+<td>experienced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдел</td>
+<td>section, department</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдых</td>
+<td>rest; holiday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отсутствие</td>
+<td>absence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>призыв</td>
+<td>call, appeal; call-up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>производительность (f)</td>
+<td>productivity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятнадцать</td>
+<td>fifteen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реакция</td>
+<td>reaction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сказка</td>
+<td>fairy-tale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сходить/сойти (с +g)</td>
+<td>to go down (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старушка</td>
+<td>old woman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудесный</td>
+<td>wonderful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>батарея</td>
+<td>battery; radiator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бурный</td>
+<td>stormy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>велеть (i/p) (+d +inf)</td>
+<td>to order (s.o. to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>главное (n) (adj)</td>
+<td>the main thing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнать/по- (+a)</td>
+<td>to drive; hunt, persecute, chase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>догадываться/догадаться</td>
+<td>to guess; (+inf) have the sense to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завоёвывать/завоевать (+a)</td>
+<td>to conquer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изба</td>
+<td>peasant cottage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инструмент</td>
+<td>instrument; tool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>купец</td>
+<td>merchant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лёд</td>
+<td>ice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мороз</td>
+<td>frost</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новость (f)</td>
+<td>piece of news</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оборона</td>
+<td>defence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освобождение</td>
+<td>liberation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пахнуть (i) (+inst)</td>
+<td>to smell (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повесть (f)</td>
+<td>story, novella</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвиг</td>
+<td>feat, heroic deed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прощаться/по- (с +inst)</td>
+<td>to say goodbye (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свыше</td>
+<td>from above; (+g) more than</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торчать (i)</td>
+<td>to stick out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выражать/выразить (+a)</td>
+<td>to express</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жизненный</td>
+<td>vital; life (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знак</td>
+<td>sign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кран</td>
+<td>tap; crane</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крестьянский</td>
+<td>peasant (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>личность (f)</td>
+<td>personality; individual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>масштаб</td>
+<td>scale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мероприятие</td>
+<td>measure; function (reception etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охрана</td>
+<td>protection; guard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посвящать/посвятить (+a +d)</td>
+<td>to devote, dedicate (sth to sth/s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присутствие</td>
+<td>presence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пустяк</td>
+<td>trifle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятно</td>
+<td>spot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>располагать/расположить (+a)</td>
+<td>to arrange, set out; ; win over; (+inst) to have available</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рождение</td>
+<td>birth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопротивление</td>
+<td>resistance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угодно</td>
+<td>to your liking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ужасный</td>
+<td>terrible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>флаг</td>
+<td>flag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>царский</td>
+<td>tsar’s; tsarist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частность (f)</td>
+<td>detail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>апрель (m)</td>
+<td>April</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атака</td>
+<td>attack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двое</td>
+<td>two</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девчонка</td>
+<td>girl (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достоинство</td>
+<td>merit, virtue; dignity; value</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>европейский</td>
+<td>European</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ежели</td>
+<td>if (obs or coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крестьянство</td>
+<td>peasantry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медаль (f)</td>
+<td>medal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>менять/по- (+a)</td>
+<td>to change</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насчёт (+g)</td>
+<td>about, concerning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ничтожный</td>
+<td>worthless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>норма</td>
+<td>norm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нужда</td>
+<td>want, need</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отделение</td>
+<td>department, section</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчего</td>
+<td>why</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>патриот</td>
+<td>patriot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побывать (р) (в +pr)</td>
+<td>to visit (a place)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подписывать/подписать (+a)</td>
+<td>to sign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посуда</td>
+<td>crockery, dishes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прекрасно</td>
+<td>fine, excellent(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропаганда</td>
+<td>propaganda</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пулемёт</td>
+<td>machine-gun</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>районный</td>
+<td>regional, district (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соревнование</td>
+<td>competition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грубый</td>
+<td>coarse, rude</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>участок</td>
+<td>plot of land; district</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бригада</td>
+<td>brigade, team</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коллектив</td>
+<td>group, team</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>командир</td>
+<td>commander</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>биться (i)</td>
+<td>to fight; to beat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гибель (f)</td>
+<td>ruin, destruction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>густой</td>
+<td>thick, dense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>единство</td>
+<td>unity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зритель (m)</td>
+<td>spectator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зря</td>
+<td>for nothing, pointlessly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исходить (i) (из +g)</td>
+<td>to issue from, proceed from</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молодость (f)</td>
+<td>youth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нищий</td>
+<td>destitute; beggar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отправляться/отправиться</td>
+<td>to set off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чувствовать/по- (+a)</td>
+<td>to feel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>президиум</td>
+<td>presidium</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>признак</td>
+<td>sign, indication</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дикий</td>
+<td>wild</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распоряжение</td>
+<td>instruction, command</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светиться (i)</td>
+<td>to shine, gleam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сеть (f)</td>
+<td>net; network</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спасать/спасти (+a)</td>
+<td>to save</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сумма</td>
+<td>sum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>социализм</td>
+<td>socialism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заключаться (i) (в +pr)</td>
+<td>to consist of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мальчишка (m)</td>
+<td>boy, small boy (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>докладывать/доложить (о +pr)</td>
+<td>to report (on)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>еле</td>
+<td>barely, only just</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>женский</td>
+<td>female</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заниматься/заняться (+inst)</td>
+<td>to take up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изменяться/измениться</td>
+<td>to change</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искусственный</td>
+<td>artificial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конференция</td>
+<td>conference</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>куст</td>
+<td>bush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мозг</td>
+<td>brain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нация</td>
+<td>nation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непрерывный</td>
+<td>uninterrupted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обнимать/обнять (+a)</td>
+<td>to embrace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превращаться/превратиться (в +a)</td>
+<td>to turn into (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самовар</td>
+<td>samovar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сверху</td>
+<td>from above</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шёпот</td>
+<td>whisper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>абсолютный</td>
+<td>absolute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>борец</td>
+<td>fighter; wrestler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выигрыш</td>
+<td>win</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горячо</td>
+<td>hot(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жестокий</td>
+<td>cruel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заместитель (m)</td>
+<td>deputy, substitute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клетка</td>
+<td>cage; cell (biol)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизвестно</td>
+<td>(it is) unknown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизвестный</td>
+<td>unknown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обязанность (f)</td>
+<td>duty, obligation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пустыня</td>
+<td>desert</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>путешествие</td>
+<td>journey, voyage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассчитывать/рассчитать (на +a/+inf)</td>
+<td>to calculate; expect; rely on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ремонт</td>
+<td>repair; redecoration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слева</td>
+<td>on the left</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суровый</td>
+<td>harsh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таков</td>
+<td>such [pronoun]</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ус</td>
+<td>whisker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фашистский</td>
+<td>Fascist (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частный</td>
+<td>private, individual (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чемпион</td>
+<td>champion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ага</td>
+<td>ah (yes), aha</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арестовывать/арестовать (+a)</td>
+<td>to arrest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беречь (i) (+a)</td>
+<td>to look after</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>билет</td>
+<td>ticket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>везде</td>
+<td>everywhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>великолепный</td>
+<td>magnificent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возбуждение</td>
+<td>excitement, arousal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вступать/вступить (в +a)</td>
+<td>to enter, join (organization)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпуск</td>
+<td>output; issue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грех</td>
+<td>sin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грязный</td>
+<td>dirty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дочка</td>
+<td>daughter (intimate form)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изготовление</td>
+<td>manufacture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исключительно</td>
+<td>exclusively; exceptionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кое-что</td>
+<td>something, a thing or two</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>критика</td>
+<td>criticism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надпись (f)</td>
+<td>inscription</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обращение (к +d)</td>
+<td>appeal (to); (c +inst) treatment; circulation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оттого</td>
+<td>for that reason</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плавать/по-</td>
+<td>to swim; sail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поездка</td>
+<td>journey, trip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожилой</td>
+<td>elderly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полиция</td>
+<td>police</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прочный</td>
+<td>firm, solid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ружьё</td>
+<td>gun, rifle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыжий</td>
+<td>red-haired</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сахар</td>
+<td>sugar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>служащий (m) (adj)</td>
+<td>office worker, white-collar worker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>справа</td>
+<td>on the right</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туча</td>
+<td>storm cloud</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устройство</td>
+<td>organization; mechanism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утром</td>
+<td>in the morning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благородный</td>
+<td>noble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буря</td>
+<td>storm, gale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вино</td>
+<td>wine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возникать/возникнуть</td>
+<td>to arise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вытаскивать/вытащить (+a из +g)</td>
+<td>to drag out, pull out (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гигантский</td>
+<td>giant (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жаловаться/по- (на +a)</td>
+<td>to complain (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заменять/заменить (+a +inst)</td>
+<td>to replace (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лично</td>
+<td>personally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молодец</td>
+<td>fine fellow; well done!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навсегда</td>
+<td>for ever</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надевать/надеть (+a)</td>
+<td>to put on (clothing etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объяснять/объяснить (+a)</td>
+<td>to explain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поворачивать/повернуть (+a)</td>
+<td>to turn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>производить/произвести (+a)</td>
+<td>to produce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стучать/по- (в +a)</td>
+<td>to knock (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экспедиция</td>
+<td>expedition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>батюшка (m)</td>
+<td>father</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вооружённый</td>
+<td>armed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выстрел</td>
+<td>shot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гарантировать (i/p) (+a)</td>
+<td>to guarantee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жертва</td>
+<td>victim</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>живо</td>
+<td>quickly; vividly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>животное</td>
+<td>animal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знамя (n)</td>
+<td>banner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>информация</td>
+<td>information</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>концерт</td>
+<td>concert</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>костёр</td>
+<td>bonfire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крайне</td>
+<td>extremely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механизм</td>
+<td>mechanism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многочисленный</td>
+<td>numerous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насколько</td>
+<td>how much; as much</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объективный</td>
+<td>objective (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объяснение</td>
+<td>explanation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переворот</td>
+<td>coup</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перо</td>
+<td>feather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поворот</td>
+<td>turn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позади</td>
+<td>behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приобретать/приобрести (+a)</td>
+<td>to acquire (formal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прислушиваться/прислушаться (к +d)</td>
+<td>to listen carefully (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распределение</td>
+<td>distribution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родитель (m)</td>
+<td>parent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свеча</td>
+<td>candle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>своеобразный</td>
+<td>distinctive, individual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>секрет</td>
+<td>secret</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>склад</td>
+<td>warehouse, store</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скучно</td>
+<td>boring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>согласный</td>
+<td>in agreement; (as noun) consonant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сомневаться/усомниться (в +pr)</td>
+<td>to doubt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочинение</td>
+<td>composition, essay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>список</td>
+<td>list</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>способствовать (i) (+d)</td>
+<td>to promote, further (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>справляться/справиться (с +inst)</td>
+<td>to cope (with); (o +pr) ask about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сфера</td>
+<td>sphere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>танцевать/по-</td>
+<td>to dance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тащить/по- (+a)</td>
+<td>to drag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>успокаиваться/успокоиться</td>
+<td>to calm down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этап</td>
+<td>stage, phase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>явно</td>
+<td>clearly, obviously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>актёр</td>
+<td>actor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арест</td>
+<td>arrest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беседовать/по- (с +inst)</td>
+<td>to talk, converse (with); have a talk (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бытие</td>
+<td>existence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весенний</td>
+<td>spring (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вкус</td>
+<td>taste</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воспоминание</td>
+<td>memory, recollection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдавать/выдать (+a)</td>
+<td>to give out, issue; betray; give away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдающийся</td>
+<td>eminent, prominent [participle used as (adj)]</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гудеть (i)</td>
+<td>to hum; hoot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добыча</td>
+<td>booty; mining</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дорожка</td>
+<td>path; track</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доставлять/доставить (+a)</td>
+<td>to deliver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достаточный</td>
+<td>sufficient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крест</td>
+<td>cross</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медицинский</td>
+<td>medical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механик</td>
+<td>mechanic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>му́ка</td>
+<td>torment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мука́</td>
+<td>flour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напряжение</td>
+<td>tension</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нормальный</td>
+<td>normal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ноябрь (m)</td>
+<td>November</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печальный</td>
+<td>sad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привозить/привезти (+a)</td>
+<td>to bring (by transport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>признание</td>
+<td>confession, admission</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прятать/с- (+a)</td>
+<td>to hide (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассвет</td>
+<td>daybreak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сегодняшний</td>
+<td>today’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>существенный</td>
+<td>essential; important</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уважать (i) (+a)</td>
+<td>to respect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фирма</td>
+<td>firm, company</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автомат</td>
+<td>slot-machine; phone box</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буква</td>
+<td>letter (of alphabet)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глупость (f)</td>
+<td>foolishness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голод</td>
+<td>hunger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>греческий</td>
+<td>Greek (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деловой</td>
+<td>business (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доверие</td>
+<td>trust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>драгоценный</td>
+<td>valuable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душевный</td>
+<td>mental; sincere, heartfelt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заглядывать/заглянуть</td>
+<td>to glance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кой</td>
+<td>which (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>матч</td>
+<td>match (game)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наблюдение</td>
+<td>observation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>открываться/открыться</td>
+<td>to open</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отличие</td>
+<td>difference; distinction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перестройка</td>
+<td>restructuring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преимущество</td>
+<td>advantage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приятный</td>
+<td>pleasant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскрывать/раскрыть (+a)</td>
+<td>to open wide; reveal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>редко</td>
+<td>rarely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соответствовать (i) (+d)</td>
+<td>to correspond (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соответствующий</td>
+<td>corresponding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сталь (f)</td>
+<td>steel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хвост</td>
+<td>tail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чрезвычайно</td>
+<td>extremely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агрессивный</td>
+<td>aggressive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вокзал</td>
+<td>(main) station</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глухой</td>
+<td>deaf; indistinct, muffled; remote (of place)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доводить/довести (до +g)</td>
+<td>to lead to, take as far as</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>естественно</td>
+<td>naturally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любопытство</td>
+<td>curiosity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непосредственно</td>
+<td>immediately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нигде</td>
+<td>nowhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обращать/обратить (+a)</td>
+<td>to turn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обширный</td>
+<td>extensive, vast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ответственный</td>
+<td>responsible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отличный</td>
+<td>excellent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парк</td>
+<td>park; depot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>платить/за- (+d за +a)</td>
+<td>to pay (s.o. for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сажать/посадить (+a)</td>
+<td>to plant, seat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предстоять (i) (+d)</td>
+<td>to lie ahead (of s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простор</td>
+<td>space, expanse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>профсоюзный</td>
+<td>trade union (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решительный</td>
+<td>decisive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решаться/решиться (на +a or +inf)</td>
+<td>to make up one&#39;s mind (to); to bring os (to); dare, risk; be decided</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рынок</td>
+<td>market</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сплошной</td>
+<td>continuous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столб</td>
+<td>pole, pillar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>точность (f)</td>
+<td>precision; punctuality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трое</td>
+<td>three, threesome</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удивительно</td>
+<td>surprisingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шестьдесят</td>
+<td>sixty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арена</td>
+<td>arena</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взор</td>
+<td>look, glance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вносить/внести (+a в +a)</td>
+<td>to carry in, bring in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вследствие (+g)</td>
+<td>because of, owing to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грозить/при- (+d)</td>
+<td>to threaten (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>далее</td>
+<td>further</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>довольный (+inst)</td>
+<td>satisfied, pleased (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зависимость (f)</td>
+<td>dependence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кто-нибудь</td>
+<td>anyone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>листок</td>
+<td>small sheet (of paper); small leaf, leaflet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одетый (в +a)</td>
+<td>dressed; wearing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оказывать/оказать (+a)</td>
+<td>to render, give</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подруга</td>
+<td>(female) friend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подушка</td>
+<td>pillow; cushion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правление</td>
+<td>government; board (of management)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расходиться/разойтись</td>
+<td>to disperse, split up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубашка</td>
+<td>shirt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скала</td>
+<td>crag, rock face, cliff</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сперва</td>
+<td>at first (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>справедливость (f)</td>
+<td>justice, fairness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>терпеть/по- (+a)</td>
+<td>to be patient; endure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тьма</td>
+<td>darkness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>управлять (i) (+inst)</td>
+<td>to manage, control</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>февраль (m)</td>
+<td>February</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>характерный</td>
+<td>characteristic (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хм (or гм)</td>
+<td>hm! (expressing hesitation)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>артист</td>
+<td>artiste, performer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благоприятный</td>
+<td>favourable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выбирать/выбрать (+a)</td>
+<td>to choose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>декабрь (m)</td>
+<td>December</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дивизия</td>
+<td>division (army)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>домашний</td>
+<td>domestic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дыхание</td>
+<td>breathing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заря</td>
+<td>dawn; sunset</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колокол</td>
+<td>bell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крутой</td>
+<td>steep; severe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медный</td>
+<td>copper (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>меняться/об-</td>
+<td>to change; p: (+inst) exchange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невидимый</td>
+<td>invisible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обязательство</td>
+<td>pledge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оглядываться/оглядеться</td>
+<td>to look round</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оглядываться/оглянуться</td>
+<td>to look back</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орден</td>
+<td>medal, decoration; order (society)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отпускать/отпустить (+a)</td>
+<td>to let go, release</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очки (pl)</td>
+<td>glasses, spectacles</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переводить/перевести (+a)</td>
+<td>to take across; transfer; translate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перспектива</td>
+<td>perspective; prospect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>применять/применить (+a)</td>
+<td>to use, employ, apply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присаживаться/присесть</td>
+<td>to take a seat, sit down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проверять/проверить (+a)</td>
+<td>to check</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сборник</td>
+<td>collection (book of poems, stories, articles)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смешной</td>
+<td>funny, ridiculous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спектакль (m)</td>
+<td>(theatre) performance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>справедливый</td>
+<td>fair, just</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сравнительно</td>
+<td>comparatively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теоретический</td>
+<td>theoretical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убирать/убрать (+a)</td>
+<td>to take away; tidy; p: tidy up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ценность (f)</td>
+<td>value</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агроном</td>
+<td>agronomist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внедрение</td>
+<td>inculcation; putting into practice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восточный</td>
+<td>eastern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>годиться (i) (на +a/для +g)</td>
+<td>to be fit (for), be usable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гордость (f)</td>
+<td>pride</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жениться (i/p) (на +pr)</td>
+<td>to marry (of man)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заметно</td>
+<td>noticeably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кино (indecl)</td>
+<td>cinema</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коренной</td>
+<td>fundamental</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>масло</td>
+<td>butter; oil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мастерская</td>
+<td>workshop, studio</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мясо</td>
+<td>meat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надёжный</td>
+<td>reliable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>назначать/назначить (+a +inst)</td>
+<td>to appoint (s.o. as sth); fix, arrange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наступление</td>
+<td>offensive, advance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невеста</td>
+<td>bride; fiancee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обратный</td>
+<td>reverse (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одинаковый</td>
+<td>identical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>относительно</td>
+<td>relatively; (+g) concerning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>памятник</td>
+<td>monument</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перебивать/перебить (+a)</td>
+<td>to interrupt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дарить/по- (+a +d)</td>
+<td>to give, present (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подход</td>
+<td>approach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помещик</td>
+<td>landowner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>появление</td>
+<td>appearance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибыль (f)</td>
+<td>profit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семейный</td>
+<td>family (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слыхать (i) (о +pr)</td>
+<td>to hear (about) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слышаться/по-</td>
+<td>to be heard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочинять/сочинить (+a)</td>
+<td>to compose, make up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>талантливый</td>
+<td>talented</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>технология</td>
+<td>technology</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тихонько</td>
+<td>quietly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ткань (f)</td>
+<td>cloth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толк</td>
+<td>sense, point; understanding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тоска</td>
+<td>melancholy, depression, ennui; (по +d) yearning (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фактор</td>
+<td>factor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хохотать/за-</td>
+<td>to guffaw, laugh loudly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агент</td>
+<td>agent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бассейн</td>
+<td>pool, swimming-pool; basin (geog)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вариант</td>
+<td>variant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вне (+g)</td>
+<td>outside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выбор</td>
+<td>choice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гул</td>
+<td>rumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забор</td>
+<td>fence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задний</td>
+<td>rear (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>континент</td>
+<td>continent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копейка</td>
+<td>kopeck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лозунг</td>
+<td>slogan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невольно</td>
+<td>unintentionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нежный</td>
+<td>tender, gentle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незаметно</td>
+<td>imperceptibly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несчастный</td>
+<td>unhappy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нефть (f)</td>
+<td>oil, petroleum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отнимать/отнять (+a)</td>
+<td>to take away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отступать/отступить (от +g)</td>
+<td>to retreat; deviate (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пассажир</td>
+<td>passenger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подводный</td>
+<td>underwater (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прекращение</td>
+<td>stopping, ending</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>провожать/проводить (+a)</td>
+<td>to accompany, see off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раб</td>
+<td>slave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роза</td>
+<td>rose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ручка</td>
+<td>small hand; handle; pen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сигнал</td>
+<td>signal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скрывать/скрыть (+a)</td>
+<td>to hide, conceal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершать/совершить (+a)</td>
+<td>to accomplish, complete</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столик</td>
+<td>small table, restaurant table</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стук</td>
+<td>knock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торговать (i) (+inst)</td>
+<td>to trade (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торжественный</td>
+<td>ceremonial; celebratory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фантастический</td>
+<td>fantastic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ярко</td>
+<td>brightly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесконечно</td>
+<td>endlessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буквально</td>
+<td>literally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выгодный</td>
+<td>advantageous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>генеральный</td>
+<td>general (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грандиозный</td>
+<td>grandiose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грязь (f)</td>
+<td>mud; dirt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добираться/добраться (до +g)</td>
+<td>to reach, get to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>должность (f)</td>
+<td>post, job</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пугаться/ис- (+g)</td>
+<td>to take fright (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>июль (m)</td>
+<td>July</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>койка</td>
+<td>bunk, berth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>костюм</td>
+<td>suit; costume</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ласково</td>
+<td>affectionately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>локоть (m)</td>
+<td>elbow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любопытный</td>
+<td>curious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надоедать/надоесть (+d)</td>
+<td>to bore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начальство</td>
+<td>the management, the authorities</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нуждаться (i) (в +pr)</td>
+<td>to need, be in need of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одежда</td>
+<td>clothes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окошко</td>
+<td>small window</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>особо</td>
+<td>specially; separately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отъезд</td>
+<td>departure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>практически</td>
+<td>practically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прекращать/прекратить (+a)</td>
+<td>to stop, discontinue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прогрессивный</td>
+<td>progressive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продолжаться (i)</td>
+<td>to continue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>произносить/произнести (+a)</td>
+<td>to pronounce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрабатывать/разработать (+a)</td>
+<td>to work out, devise, develop, design, cultivate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разум</td>
+<td>reason, intellect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>розовый</td>
+<td>pink; rosy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>славный</td>
+<td>glorious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смешно</td>
+<td>comical(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фото (indecl)</td>
+<td>photo</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шляпа</td>
+<td>hat (with brim)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штука</td>
+<td>thing (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автоматический</td>
+<td>automatic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>активно</td>
+<td>actively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вбегать/вбежать (в +a)</td>
+<td>to run in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>везти/по- (+a)</td>
+<td>to transport; (+d) be lucky</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветвь (f)</td>
+<td>branch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вредный</td>
+<td>harmful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вскакивать/вскочить</td>
+<td>to jump in; leap up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выводить/вывести (из +g)</td>
+<td>to lead out; remove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грохот</td>
+<td>crash; rumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>десятилетие</td>
+<td>decade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достойный</td>
+<td>worthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дурной</td>
+<td>bad, evil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жест</td>
+<td>gesture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>занятый</td>
+<td>occupied, busy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>записывать/записать (+a)</td>
+<td>to note down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исключение</td>
+<td>exception</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ледяной</td>
+<td>icy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лента</td>
+<td>ribbon, tape</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>махать/махнуть (+inst)</td>
+<td>to wave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>муха</td>
+<td>fly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>негромко</td>
+<td>quietly, in a low voice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непосредственный</td>
+<td>immediate, direct, spontaneous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обижаться/обидеться</td>
+<td>to take offence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обязанный</td>
+<td>obliged</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>октябрьский</td>
+<td>October (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орать (i)</td>
+<td>to howl, yell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оценивать/оценить (+a)</td>
+<td>to evaluate, appreciate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>племя (n)</td>
+<td>tribe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поглощать/поглотить (+a)</td>
+<td>to swallow, absorb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подготавливать/подготовить (+a)</td>
+<td>to prepare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подробно</td>
+<td>in detail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потолок</td>
+<td>ceiling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проводиться (i)</td>
+<td>to be conducted, take place</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проклятый</td>
+<td>damned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрыв</td>
+<td>break, gap; shell-burst</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распространение</td>
+<td>spreading, dissemination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самостоятельный</td>
+<td>independent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>складываться/сложиться</td>
+<td>to take shape; club together</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>союзник</td>
+<td>ally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страсть (f)</td>
+<td>passion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>танк</td>
+<td>tank (mil)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тарелка</td>
+<td>plate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>топливо</td>
+<td>fuel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>триста</td>
+<td>three hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убеждать/убедить (+a)</td>
+<td>to convince; persuade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удивление</td>
+<td>surprise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удобный</td>
+<td>comfortable; convenient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>холм</td>
+<td>hill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четверть (f)</td>
+<td>quarter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безусловно</td>
+<td>undoubtedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>больница</td>
+<td>hospital</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восторг</td>
+<td>delight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выносить/вынести (+a)</td>
+<td>to carry out, take away; endure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выскакивать/выскочить (из +g)</td>
+<td>to jump out (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горло</td>
+<td>throat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>действительный</td>
+<td>real, actual; valid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доход</td>
+<td>income</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>думаться (i)</td>
+<td>to be thought</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заключение</td>
+<td>conclusion; confinement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издание</td>
+<td>publication; edition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изучать/изучить (+a)</td>
+<td>to learn, master</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конечный</td>
+<td>final</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корзина</td>
+<td>basket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кормить/на- (+a)</td>
+<td>to feed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лишать/лишить (+a +g)</td>
+<td>to deprive (s.o. of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мужской</td>
+<td>masculine; male</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непрерывно</td>
+<td>continuously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обсуждение</td>
+<td>discussion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одевать/одеть (+a)</td>
+<td>to dress (s.o.); (coll) put on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палка</td>
+<td>stick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перемена</td>
+<td>change</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>площадка</td>
+<td>ground, area</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>победитель (m)</td>
+<td>victor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подтверждать/подтвердить (+a)</td>
+<td>to confirm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>портфель (m)</td>
+<td>briefcase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приятель (m)</td>
+<td>friend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прочь</td>
+<td>away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрешение</td>
+<td>permission; solution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>священник</td>
+<td>priest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сентябрь (m)</td>
+<td>September</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершенный</td>
+<td>perfect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совать/сунуть (+a)</td>
+<td>to thrust, poke (sth into sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тыл</td>
+<td>rear (military)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увеличивать/увеличить (+a)</td>
+<td>to increase (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ура</td>
+<td>hurrah, hurray</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фантазия</td>
+<td>imagination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чего</td>
+<td>why (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бумажка</td>
+<td>piece of paper; banknote</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вал</td>
+<td>billow; rampart; gross output (econ)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вина</td>
+<td>guilt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волнение</td>
+<td>agitation; disturbance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воскресенье</td>
+<td>Sunday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впоследствии</td>
+<td>subsequently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выяснять/выяснить (+a)</td>
+<td>to clarify, establish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глянуть (р) (на +a)</td>
+<td>to glance (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гостиница</td>
+<td>hotel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двигаться/двинуться</td>
+<td>to move</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>должно</td>
+<td>one ought to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>должно быть</td>
+<td>probably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>драться/по-</td>
+<td>to fight; have a fight with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запоминать/запомнить (+a)</td>
+<td>to commit to memory, memorize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звено</td>
+<td>link</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издательство</td>
+<td>publishing house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интеллигенция</td>
+<td>intelligentsia; professional people</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>командование</td>
+<td>command</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крепостной</td>
+<td>serf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>логика</td>
+<td>logic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насилие</td>
+<td>violence, force</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наступать/наступить</td>
+<td>to advance; begin; tread on; come (of time, seasons)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>небесный</td>
+<td>heavenly, celestial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>независимый</td>
+<td>independent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огон(ё)к</td>
+<td>light</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освобождать/освободить (+a)</td>
+<td>to liberate, free</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отпуск</td>
+<td>leave (from work)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переговоры (m) (pl)</td>
+<td>negotiations</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пиджак</td>
+<td>jacket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плотный</td>
+<td>compact; solid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поддерживать/поддержать (+a)</td>
+<td>to support</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полка</td>
+<td>shelf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посторонний</td>
+<td>outside, not directly involved; outsider</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поэтический</td>
+<td>poetic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преступление</td>
+<td>crime</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропадать/пропасть</td>
+<td>to vanish, be lost, p: go missing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размах</td>
+<td>scope, range, scale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ранний</td>
+<td>early</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расход</td>
+<td>expenditure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рейс</td>
+<td>journey (of vehicle)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решающий</td>
+<td>deciding, decisive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серия</td>
+<td>series</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стальной</td>
+<td>steel (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>труженик</td>
+<td>toiler, worker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целиком</td>
+<td>entirely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>август</td>
+<td>August</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аэродром</td>
+<td>aerodrome, airfield</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесполезный</td>
+<td>useless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесчисленный</td>
+<td>innumerable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бледный</td>
+<td>pale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вначале</td>
+<td>at first</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внизу</td>
+<td>below</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задумчиво</td>
+<td>thoughtfully, pensively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мотив</td>
+<td>motive; motif</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наливать/налить (+a)</td>
+<td>to pour out, fill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нападение</td>
+<td>attack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>направляться/направиться (к +d)</td>
+<td>to make for, head for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напряжённый</td>
+<td>tense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неправда</td>
+<td>untruth; untrue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>никуда</td>
+<td>nowhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обманывать/обмануть (+a)</td>
+<td>to deceive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одинокий</td>
+<td>solitary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осенний</td>
+<td>autumn (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>основывать/основать (+a)</td>
+<td>to found</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откладывать/отложить (+a)</td>
+<td>to put aside; postpone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поздний</td>
+<td>late</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полоска</td>
+<td>strip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поступок</td>
+<td>action, act</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пристань (f)</td>
+<td>jetty, pier, wharf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разворачивать/развернуть (+a)</td>
+<td>to unfold; develop; expand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбирать/разобрать (+a)</td>
+<td>to take to pieces; make out, sort out, understand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раненый</td>
+<td>wounded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скорый</td>
+<td>fast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосредоточивать/сосредоточить (+a на +pr)</td>
+<td>to concentrate (sth on sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сотрудник</td>
+<td>employee, official</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столетие</td>
+<td>century</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страдать/по-</td>
+<td>to suffer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>темно</td>
+<td>(it’s) dark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удивляться/удивиться (+d)</td>
+<td>to be surprised (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учительница</td>
+<td>teacher (f)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>финансовый</td>
+<td>financial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чайник</td>
+<td>teapot; kettle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экран</td>
+<td>screen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесцветный</td>
+<td>colourless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>биография</td>
+<td>biography</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блеск</td>
+<td>shine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>божий</td>
+<td>God’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боль (f)</td>
+<td>pain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верста</td>
+<td>verst (slightly over a kilometre)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воображение</td>
+<td>imagination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вчерашний</td>
+<td>yesterday’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грозный</td>
+<td>threatening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>домик</td>
+<td>cottage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закат</td>
+<td>sunset</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заметка</td>
+<td>mark, (written) note</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>квартал</td>
+<td>block (of buildings); quarter of year</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кукла</td>
+<td>doll</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>летний</td>
+<td>summer (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ловить/поймать (+a)</td>
+<td>to catch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>модель (f)</td>
+<td>model (of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>называемый</td>
+<td>called</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарочно</td>
+<td>deliberately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окончание</td>
+<td>end, ending</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отнюдь</td>
+<td>not at all</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пластинка</td>
+<td>(gramophone) record; flat piece of metal or other material</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плыть/по-</td>
+<td>to sail; swim</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подбирать/подобрать (+a)</td>
+<td>to pick up; select</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помимо (+g)</td>
+<td>apart from</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>последующий</td>
+<td>subsequent, following</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целовать/по- (+a)</td>
+<td>to kiss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превращать/превратить (в +a)</td>
+<td>to convert, turn (into)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пуля</td>
+<td>bullet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пьеса</td>
+<td>play (theatre)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубаха</td>
+<td>shirt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>руководить (i) (+inst)</td>
+<td>to manage, supervise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сверкать (i)</td>
+<td>to sparkle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серебряный</td>
+<td>silver (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слушаться/по- (+g)</td>
+<td>to obey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сорт</td>
+<td>grade, quality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спасение</td>
+<td>salvation, rescue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стиль (m)</td>
+<td>style</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стимул</td>
+<td>stimulus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строиться/по-</td>
+<td>to be built</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сумасшедший</td>
+<td>mad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>то-то</td>
+<td>that’s it, that’s right</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угрожать (i) (+d)</td>
+<td>to threaten (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умение</td>
+<td>ability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фантастика</td>
+<td>fantastic, fantasy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чтение</td>
+<td>reading</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верх</td>
+<td>top</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>включать/включить (+a)</td>
+<td>to include; switch on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внезапный</td>
+<td>sudden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вслух</td>
+<td>aloud</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гордый</td>
+<td>proud</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горький</td>
+<td>bitter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>господство</td>
+<td>domination, supremacy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делегат</td>
+<td>delegate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дешёвый</td>
+<td>cheap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>длительный</td>
+<td>lengthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>догонять/догнать (+a)</td>
+<td>to catch up (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>естественный</td>
+<td>natural</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заяц</td>
+<td>hare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коли</td>
+<td>if (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кора</td>
+<td>bark, rind, crust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>летать/по-</td>
+<td>to fly around</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лётчик</td>
+<td>pilot, airman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>луг</td>
+<td>meadow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мгновение</td>
+<td>moment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напротив</td>
+<td>opposite; on the contrary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незнакомый</td>
+<td>unfamiliar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нерв</td>
+<td>nerve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>публиковать/о- (+a)</td>
+<td>to publish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдыхать/отдохнуть</td>
+<td>to rest; have/take a holiday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оценка</td>
+<td>assessment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поэзия</td>
+<td>poetry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предыдущий</td>
+<td>preceding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приветствовать (i) (+a)</td>
+<td>to greet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>применяться/примениться</td>
+<td>to be used; (к +d) adapt os (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрушение</td>
+<td>destruction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ресурс</td>
+<td>resource</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ругаться (i)</td>
+<td>to swear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сознательный</td>
+<td>(politically, socially) conscious; deliberate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сравнивать/сравнить (+a с +inst)</td>
+<td>to compare (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удовлетворение</td>
+<td>satisfaction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уничтожение</td>
+<td>annihilation, destruction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эй</td>
+<td>hey! (attracting attention)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агрессор</td>
+<td>aggressor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бешеный</td>
+<td>mad; furious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бормотать/про-</td>
+<td>to mumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдали</td>
+<td>in the distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ведро</td>
+<td>bucket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всемирный</td>
+<td>world, worldwide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вырываться/вырваться</td>
+<td>to tear oneself away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высказывать/высказать (+a)</td>
+<td>to express</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выставка</td>
+<td>exhibition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дневной</td>
+<td>day (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>довод</td>
+<td>argument (for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дожидаться/дождаться (+g)</td>
+<td>to wait (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доказательство</td>
+<td>proof</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>железнодорожный</td>
+<td>railway (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выходить/выйти замуж (за +a)</td>
+<td>to marry a husband</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замысел</td>
+<td>scheme, idea</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зона</td>
+<td>zone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>игрок</td>
+<td>player</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исключительный</td>
+<td>exceptional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>июнь (m)</td>
+<td>June</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>король (m)</td>
+<td>king</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лавка</td>
+<td>bench; small shop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>людской</td>
+<td>human (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наносить/нанести (+a +d)</td>
+<td>to inflict (sth on s.o.), pile up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настойчиво</td>
+<td>insistently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неловко</td>
+<td>awkwardly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обеспечение</td>
+<td>securing, providing, provision (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обмен</td>
+<td>exchange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объясняться/объясниться</td>
+<td>to make os understood; be explained; explain os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окружающий</td>
+<td>surrounding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оправдывать/оправдать (+a)</td>
+<td>to justify; acquit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освобождаться/освободиться (от +g)</td>
+<td>to free os; become free</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отказ</td>
+<td>refusal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откровенно</td>
+<td>frankly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отзываться/отозваться (на +a)</td>
+<td>to respond to; affect; (o +pr) express a view of; give an opinion of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подробность (f)</td>
+<td>detail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полагаться/положиться (на +a)</td>
+<td>to rely (on)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постель (f)</td>
+<td>bedding, bed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превышать/превысить (+a)</td>
+<td>to exceed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привычный</td>
+<td>customary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приглашать/пригласить (+a)</td>
+<td>to invite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>провинция</td>
+<td>province; provinces</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прохаживаться/пройтись</td>
+<td>to take a walk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>различие</td>
+<td>difference</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ранить (i/p) (+a)</td>
+<td>to wound, injure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>склон</td>
+<td>slope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сохранение</td>
+<td>preservation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тесно</td>
+<td>tightly; crowded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тетрадь (f)</td>
+<td>exercise book</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>топор</td>
+<td>axe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трогать/тронуть (+a)</td>
+<td>to touch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тщательно</td>
+<td>thoroughly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угрюмо</td>
+<td>gloomily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упорный</td>
+<td>persistent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шкаф</td>
+<td>cupboard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щель (f)</td>
+<td>chink, fissure, slot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юг</td>
+<td>south</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>японский</td>
+<td>Japanese (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>балкон</td>
+<td>balcony</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бокал</td>
+<td>wineglass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бродить/по-</td>
+<td>to wander</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вовремя</td>
+<td>on time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волновать/вз- (+a)</td>
+<td>to worry, excite, disturb (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всерьёз</td>
+<td>seriously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вход</td>
+<td>entrance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гроб</td>
+<td>coffin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девка</td>
+<td>girl (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>действующий</td>
+<td>functioning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делегация</td>
+<td>delegation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>десятый</td>
+<td>tenth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заметный</td>
+<td>noticeable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заранее</td>
+<td>in advance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>защитник</td>
+<td>defender</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звон</td>
+<td>ringing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполнять/исполнить (+a)</td>
+<td>to carry out, fulfil;  perform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>какой-либо</td>
+<td>any</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кандидат</td>
+<td>candidate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кирпич</td>
+<td>brick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>краткий</td>
+<td>short</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>куча</td>
+<td>heap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лидер</td>
+<td>leader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ложка</td>
+<td>spoon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любоваться/по- (+inst or на +a)</td>
+<td>to admire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>минувший</td>
+<td>past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>направо</td>
+<td>to the right</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невозможный</td>
+<td>impossible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ненависть (f)</td>
+<td>hate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нитка</td>
+<td>thread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общественность (f)</td>
+<td>the public</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окончательный</td>
+<td>final</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отражать/отразить (+a)</td>
+<td>to reflect; repulse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчаяние</td>
+<td>despair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охотно</td>
+<td>willingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пасха</td>
+<td>Easter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>письменный</td>
+<td>written; writing (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-видимому</td>
+<td>seemingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покончить (р) (с +inst)</td>
+<td>to finish (with), do away with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почта</td>
+<td>post office; post, mail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>премия</td>
+<td>bonus; prize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>препятствие</td>
+<td>obstacle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>призывать/призвать</td>
+<td>to summon, appeal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>природный</td>
+<td>natural</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>происхождение</td>
+<td>origin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проникать/проникнуть (в +a)</td>
+<td>to penetrate (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ровный</td>
+<td>level; even, equal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самолюбие</td>
+<td>pride, self-esteem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светить (i)</td>
+<td>to shine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свидетельство</td>
+<td>evidence; certificate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершаться/совершиться</td>
+<td>to be accomplished</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суть (f)</td>
+<td>essence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убеждение</td>
+<td>conviction, belief</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удерживать/удержать (+a)</td>
+<td>to hold back, retain; hold onto; restrain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ценить (i) (+a)</td>
+<td>to value</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благодарный</td>
+<td>grateful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воспитывать/воспитать (+a)</td>
+<td>to educate, bring up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вспыхивать/вспыхнуть</td>
+<td>to blaze up, flare up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>в-третьих</td>
+<td>thirdly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выгонять/выгнать (+a)</td>
+<td>to expel, drive out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вытягивать/вытянуть (+a)</td>
+<td>to stretch out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гений</td>
+<td>genius</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>героический</td>
+<td>heroic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зарабатывать/заработать (+a)</td>
+<td>to earn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изволить (+inf)</td>
+<td>to wish, desire; deign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интересовать/за- (+a)</td>
+<td>to interest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ишь</td>
+<td>look (drawing attention to sth) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>классический</td>
+<td>classical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>климат</td>
+<td>climate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>марш</td>
+<td>march</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медведь (m)</td>
+<td>bear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мрачный</td>
+<td>gloomy, baleful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наполнять/наполнить (+a)</td>
+<td>to fill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недавний</td>
+<td>recent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизбежно</td>
+<td>inevitably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неподвижный</td>
+<td>motionless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освещение</td>
+<td>illumination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оттенок</td>
+<td>shade, nuance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>папка</td>
+<td>file, folder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повышать/повысить (+a)</td>
+<td>to raise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понадобиться (р)</td>
+<td>to be necessary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приступать/приступить (к +d)</td>
+<td>to get down to, start on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продолжение</td>
+<td>continuation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проявление</td>
+<td>manifestation, display</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>публика</td>
+<td>public</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>будить/раз- (+a)</td>
+<td>to wake, rouse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разница</td>
+<td>difference</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решётка</td>
+<td>grating, grille, railings</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свинья</td>
+<td>pig</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свистеть/свистнуть</td>
+<td>to whistle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скромный</td>
+<td>modest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слегка</td>
+<td>slightly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смертный</td>
+<td>fatal; mortal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снижение</td>
+<td>lowering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочетание</td>
+<td>combination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тряпка</td>
+<td>rag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>философский</td>
+<td>philosophical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>царство</td>
+<td>kingdom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этаж</td>
+<td>floor, storey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>банк</td>
+<td>bank (for money)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блестеть (i)</td>
+<td>to shine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>братец</td>
+<td>old man, mate (form of address)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>величие</td>
+<td>greatness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голодный</td>
+<td>hungry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>громкий</td>
+<td>loud</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дважды</td>
+<td>twice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ежегодно</td>
+<td>annually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запасной (or запасный)</td>
+<td>spare, reserve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запись (f)</td>
+<td>recording; written record</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>засыпа́ть (i) (+a +inst)</td>
+<td>to fill sth, cover sth with sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знакомство (с +inst)</td>
+<td>acquaintance (with), knowledge (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избирать/избрать (+a)</td>
+<td>to choose, elect; select</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изредка</td>
+<td>occasionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>имущество</td>
+<td>property, possessions</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кость (f)</td>
+<td>bone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>манера</td>
+<td>manner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несчастье</td>
+<td>misfortune</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нетрудно</td>
+<td>(it’s) not difficult</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оркестр</td>
+<td>orchestra</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдалённый</td>
+<td>distant, remote</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откровенный</td>
+<td>frank</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ошибаться/ошибиться</td>
+<td>to make a mistake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пёстрый</td>
+<td>many-coloured, motley</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вешать/повесить (+a)</td>
+<td>to hang</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помещать/поместить (+a)</td>
+<td>to accommodate, place</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предположение</td>
+<td>supposition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предупреждать/предупредить (+a о +pr)</td>
+<td>to warn (s.o. about sth), tell in advance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проживать/прожить</td>
+<td>to reside; (p) live for a specified period</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятьсот</td>
+<td>five hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равенство</td>
+<td>equality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассуждать (i)</td>
+<td>to reason; (o +pr) discuss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сзади</td>
+<td>from behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сибирский</td>
+<td>Siberian (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скатерть (f)</td>
+<td>tablecloth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смирно</td>
+<td>quietly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соображение</td>
+<td>consideration, reason</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>специально</td>
+<td>specially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стрела</td>
+<td>arrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>струя</td>
+<td>jet, stream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>узел</td>
+<td>knot; junction; bundle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усмешка</td>
+<td>slight smile; sneer; smirk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>успешный</td>
+<td>successful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учебный</td>
+<td>educational</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яблоко</td>
+<td>apple</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аккуратно</td>
+<td>thoroughly; tidily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бедствие</td>
+<td>disaster</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ближний</td>
+<td>near</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бытовой</td>
+<td>social, everyday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>введение</td>
+<td>introduction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>владеть/о- (+inst)</td>
+<td>to possess; have command of; to master</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возрастать/возрасти</td>
+<td>to grow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гаснуть/по-</td>
+<td>to go out, be extinguished, fade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>данные (pl)</td>
+<td>data; qualities</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девица</td>
+<td>girl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дневник</td>
+<td>diary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружественный</td>
+<td>friendly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заведующий (+inst)</td>
+<td>manager, head (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исследователь (m)</td>
+<td>researcher</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истинный</td>
+<td>true</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>картинка</td>
+<td>picture, illustration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>когда-нибудь</td>
+<td>ever; some day</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коса</td>
+<td>plait; scythe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кошка</td>
+<td>cat (f)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кризис</td>
+<td>crisis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кусочек</td>
+<td>small piece</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>милиция</td>
+<td>police</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молния</td>
+<td>lightning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мышь (f)</td>
+<td>mouse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намерение</td>
+<td>intention</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>натура</td>
+<td>nature, character</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оканчивать/окончить (+a)</td>
+<td>to finish; graduate (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчёт</td>
+<td>report</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поворачиваться/повернуться</td>
+<td>to turn round</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повышенный</td>
+<td>raised</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>политик</td>
+<td>politician</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почётный</td>
+<td>respected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преодолевать/преодолеть (+a)</td>
+<td>to overcome</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продавать/продать (+a)</td>
+<td>to sell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прохожий (m) (adj)</td>
+<td>passer-by</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прыгать/прыгнуть</td>
+<td>to jump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пугать/ис- (+a)</td>
+<td>to frighten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пыльный</td>
+<td>dusty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>российский</td>
+<td>Russian (of Russia)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ругать/вз- (+a)</td>
+<td>to abuse, scold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свадьба</td>
+<td>wedding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сладкий</td>
+<td>sweet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>станок</td>
+<td>machine, machine tool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скука</td>
+<td>boredom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снежный</td>
+<td>snow (adj), snowy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сокращение</td>
+<td>reduction; abbreviation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солдатский</td>
+<td>soldier’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суббота</td>
+<td>Saturday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таинственный</td>
+<td>mysterious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толкать/толкнуть (+a)</td>
+<td>to push, shove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ущерб</td>
+<td>damage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хитрый</td>
+<td>cunning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>честно</td>
+<td>honestly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чиновник</td>
+<td>bureaucrat; official</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штаны (m) (pl)</td>
+<td>trousers</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буфет</td>
+<td>snackbar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быстрота</td>
+<td>speed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вынуждать/вынудить (+a +inf)</td>
+<td>to force, compel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выходной</td>
+<td>exit (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заботиться/по- (о +pr)</td>
+<td>to worry about, concern os with, look after; take care of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завидовать/по- (+d)</td>
+<td>to envy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закуривать/закурить (+a)</td>
+<td>to start smoking, light up (cigarette etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зарубежный</td>
+<td>foreign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>империя</td>
+<td>empire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испытывать/испытать (+a)</td>
+<td>to test; experience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>камера</td>
+<td>chamber, room, cell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>категория</td>
+<td>category</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колхозник</td>
+<td>collective farmer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колхозный</td>
+<td>collective farm (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ложь (f)</td>
+<td>lie, lies</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>милость (f)</td>
+<td>favour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монета</td>
+<td>coin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мчаться/по-</td>
+<td>to rush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мышление</td>
+<td>thinking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>небось</td>
+<td>probably (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>определяться/определиться</td>
+<td>to be determined, be defined</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пасть (f)</td>
+<td>maw, jaws (of animal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подходящий</td>
+<td>suitable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожимать/пожать (+a)</td>
+<td>to press, squeeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поздравлять/поздравить (+a с +inst)</td>
+<td>to congratulate (s.o. on sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поперёк (+g)</td>
+<td>across</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поручать/поручить (+a +d)</td>
+<td>to entrust sth to s.o.</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прижимать/прижать (+a к +d)</td>
+<td>to press, clasp (sth to sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противно</td>
+<td>disgusting(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проявлять/проявить (+a)</td>
+<td>to display, manifest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рабство</td>
+<td>slavery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радостно</td>
+<td>joyfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резать/по- (+a)</td>
+<td>to cut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сантиметр</td>
+<td>centimetre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сверх (+g)</td>
+<td>above</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свидетель (m)</td>
+<td>witness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>седой</td>
+<td>grey (of hair)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скот</td>
+<td>cattle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скрываться/скрыться</td>
+<td>to hide os, vanish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сырой</td>
+<td>damp; raw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тактика</td>
+<td>tactics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телефонный</td>
+<td>telephone (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>течь/по-</td>
+<td>to flow; begin to flow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>течь (f)</td>
+<td>leak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тупик</td>
+<td>cul-de-sac, dead-end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уверенно</td>
+<td>confidently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усмехаться/усмехнуться</td>
+<td>to smile slightly, give a short laugh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утверждение</td>
+<td>assertion; confirmation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлопать/хлопнуть (+inst)</td>
+<td>to bang, slap, clap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>холод</td>
+<td>cold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шептать/шепнуть</td>
+<td>to whisper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эффект</td>
+<td>effect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ай</td>
+<td>oh! (expressing fear, surprise)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бельё</td>
+<td>linen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>берёза</td>
+<td>birch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бородатый</td>
+<td>bearded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ведущий</td>
+<td>leading; (as noun) presenter (of programme)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>визит</td>
+<td>official visit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возмущение</td>
+<td>indignation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возражать/возразить (против +g)</td>
+<td>to object (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восклицать/воскликнуть</td>
+<td>to exclaim</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выделяться/выделиться (из +g)</td>
+<td>to stand out (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпадать/выпасть (из +g)</td>
+<td>to fall out (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>где-нибудь</td>
+<td>anywhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горшок</td>
+<td>pot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гроза</td>
+<td>thunderstorm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грустный</td>
+<td>sad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доноситься/донестись</td>
+<td>to reach (sounds etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>единица</td>
+<td>unit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жадный</td>
+<td>greedy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забирать/забрать (+a)</td>
+<td>to take hold of; take away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задавать/задать (+a +d)</td>
+<td>to set, assign (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задерживаться/задержаться</td>
+<td>to be delayed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закладывать/заложить (+a)</td>
+<td>to put behind; lay down, found; (+inst) block (with); pawn, mortgage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>занавеска</td>
+<td>curtain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запирать/запереть (+a)</td>
+<td>to lock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издавать/издать (+a)</td>
+<td>to publish; emit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испуганно</td>
+<td>fearfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каков</td>
+<td>what, what kind of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любитель (m)</td>
+<td>amateur; lover (of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мебель (f)</td>
+<td>furniture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медленный</td>
+<td>slow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарядный</td>
+<td>well-dressed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизбежный</td>
+<td>inevitable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ненавидеть/воз- (+a)</td>
+<td>to hate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обсуждать/обсудить (+a)</td>
+<td>to discuss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опираться/опереться (на +a)</td>
+<td>to lean on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освещать/осветить (+a)</td>
+<td>to illuminate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отворачиваться/отвернуться (от +g)</td>
+<td>to turn away (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрицать (i) (+a)</td>
+<td>to deny</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перевод</td>
+<td>translation; transfer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плата</td>
+<td>payment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвергаться/подвергнуться (+d)</td>
+<td>to undergo, be subjected to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подымать/поднять (+a)</td>
+<td>to raise (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полно́ (+g)</td>
+<td>lots (of) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по́лно</td>
+<td>that’s enough; full</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>положительный</td>
+<td>positive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>попадаться/попасться</td>
+<td>to be caught; turn up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преследовать (i) (+a)</td>
+<td>to pursue; persecute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пресса</td>
+<td>the press</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прокурор</td>
+<td>prosecutor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просторный</td>
+<td>spacious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздаваться/раздаться</td>
+<td>to resound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разработка</td>
+<td>elaboration, working out; design; mining</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разумный</td>
+<td>sensible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рамка</td>
+<td>frame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расширение</td>
+<td>expansion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сверкающий</td>
+<td>sparkling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семнадцать</td>
+<td>seventeen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>словом</td>
+<td>in short</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>складывать/сложить (+a)</td>
+<td>to pile up, put together; fold up; add up; put down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срывать/сорвать (+a с +g)</td>
+<td>to tear off; wreck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>табак</td>
+<td>tobacco</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теперешний</td>
+<td>present (adj) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уголок</td>
+<td>corner, nook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учёт</td>
+<td>calculation; stock-taking; registration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фон</td>
+<td>background</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фонд</td>
+<td>fund; stock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фунт</td>
+<td>pound (money or weight)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>халат</td>
+<td>dressing-gown; overall, white coat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четырнадцать</td>
+<td>fourteen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>электростанция</td>
+<td>power station</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>африканский</td>
+<td>African (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барин</td>
+<td>landowner, barin; gentleman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барышня</td>
+<td>young lady</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>больший</td>
+<td>bigger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдвое</td>
+<td>double</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветка</td>
+<td>branch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>владёлец</td>
+<td>owner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волк</td>
+<td>wolf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдумывать/выдумать (+a)</td>
+<td>to invent, fabricate, make up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выигрывать/выиграть (+a)</td>
+<td>to win</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выясняться/выясниться</td>
+<td>to become clear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнев</td>
+<td>anger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>давний</td>
+<td>long-ago (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>денежный</td>
+<td>money (adj), monetary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добывать/добыть (+a)</td>
+<td>to get, obtain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>драка</td>
+<td>fight, brawl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>живот</td>
+<td>belly, stomach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закономерность (f)</td>
+<td>regularity, law</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заслуга</td>
+<td>service, merit, achievement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издали</td>
+<td>from a distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иллюзия</td>
+<td>illusion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>качать/качнуть (+a or +inst)</td>
+<td>to rock, shake, swing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>квадратный</td>
+<td>square (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красавица</td>
+<td>beautiful woman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ласковый</td>
+<td>tender, affectionate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>минеральный</td>
+<td>mineral (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мягко</td>
+<td>softly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недалеко</td>
+<td>not far</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облик</td>
+<td>look, appearance, image</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обломок</td>
+<td>fragment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одеяло</td>
+<td>blanket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опускаться/опуститься</td>
+<td>to lower os, sink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осколок</td>
+<td>splinter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осуществлять/осуществить (+a)</td>
+<td>to carry out, accomplish, execute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помирать/помереть</td>
+<td>to die (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поражение</td>
+<td>defeat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>праздничный</td>
+<td>festive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предоставлять/предоставить (+a +d)</td>
+<td>to give, grant (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропускать/пропустить (+a)</td>
+<td>to let through; omit, miss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разведка</td>
+<td>intelligence service; reconnaissance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распространяться/распространиться</td>
+<td>to spread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубеж</td>
+<td>boundary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сарай</td>
+<td>shed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сиять (i)</td>
+<td>to shine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>советовать/по- (+d)</td>
+<td>to advise (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>современник</td>
+<td>contemporary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сок</td>
+<td>juice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соображать/сообразить</td>
+<td>to realize, work out, think out, understand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопровождать (i) (+a)</td>
+<td>to accompany</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сохраняться/сохраниться</td>
+<td>to be preserved</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>структура</td>
+<td>structure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ступень (f)</td>
+<td>step, rung; stage, level, grade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стыд</td>
+<td>shame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тайный</td>
+<td>secret (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угнетённый</td>
+<td>oppressed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уснуть (p)</td>
+<td>to fall asleep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утренний</td>
+<td>morning (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>философ</td>
+<td>philosopher</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>холодно</td>
+<td>coldly; it’s cold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аудитория</td>
+<td>auditorium</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>базар</td>
+<td>bazaar, market</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бронзовый</td>
+<td>bronze (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валяться/по-</td>
+<td>to roll; lie about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верёвка</td>
+<td>rope; string</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взволнованный</td>
+<td>anxious, agitated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>временный</td>
+<td>temporary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выбрасывать/выбросить (+a)</td>
+<td>to throw out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глупо</td>
+<td>stupidly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>долина</td>
+<td>valley</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дополнительный</td>
+<td>additional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дуть/по-</td>
+<td>to blow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жалкий</td>
+<td>pitiful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зажигать/зажечь (+a)</td>
+<td>to set fire to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>засыпать/заснуть</td>
+<td>to fall asleep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заставать/застать (+a)</td>
+<td>to find (a person)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здороваться/по- (c +inst)</td>
+<td>to greet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>известие</td>
+<td>piece of news</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искренний</td>
+<td>sincere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>килограмм</td>
+<td>kilogram</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крыса</td>
+<td>rat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мелочь (f)</td>
+<td>trifle, minor matter; small change (coins)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молодёжный</td>
+<td>youth (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мыть/по- (+a)</td>
+<td>to wash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недостаточно</td>
+<td>insufficient(ly); (+g) not enough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немногие (pl)</td>
+<td>few (people)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неприятный</td>
+<td>unpleasant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огород</td>
+<td>kitchen-garden (for vegetables)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>описывать/описать (+a)</td>
+<td>to describe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отреза́ть (i) (+a)</td>
+<td>to cut off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охватывать/охватить (+a)</td>
+<td>to seize, envelop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плёнка</td>
+<td>film, (recording) tape</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подземный</td>
+<td>underground (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>показываться/показаться</td>
+<td>to show os, be shown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порой</td>
+<td>at times, occasionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порядочный</td>
+<td>decent, respectable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прикрывать/прикрыть (+a +inst)</td>
+<td>to screen, shelter (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прилагать/приложить (к +d)</td>
+<td>to place in contact with; apply; add, attach (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разводить/развести (+a)</td>
+<td>to separate; dissolve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разглядывать (i) (+a)</td>
+<td>to examine closely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роща</td>
+<td>small wood, copse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>случайный</td>
+<td>chance (adj), fortuitous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смело</td>
+<td>boldly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смущённо</td>
+<td>with embarrassment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>создаваться/создаться</td>
+<td>to be created; arise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сохранять/сохранить (+a)</td>
+<td>to keep, preserve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спускаться/спуститься</td>
+<td>to go down, descend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сумерки (pl)</td>
+<td>twilight, dusk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тяжесть (f)</td>
+<td>weight, burden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увеличиваться/увеличиться</td>
+<td>to increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фашизм</td>
+<td>Fascism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автомашина</td>
+<td>car, vehicle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспощадный</td>
+<td>merciless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брак</td>
+<td>marriage; (no pl) defective product(s), reject(s)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брошюра</td>
+<td>brochure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бугор</td>
+<td>mound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вечно</td>
+<td>eternally, always</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возить/по- (+a)</td>
+<td>to transport (around/there and back)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вплоть (до +g)</td>
+<td>right up to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выделять/выделить (+a)</td>
+<td>to pick out; allot, assign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выезжать/выехать (из +g)</td>
+<td>to leave (by transport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вытирать/вытереть (+a)</td>
+<td>to wipe, wipe dry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>газетный</td>
+<td>newspaper (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голосовать/про- (за +a/против +g)</td>
+<td>to vote (for/against)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дуб</td>
+<td>oak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жалоба (на +a)</td>
+<td>complaint (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заболевать/заболеть</td>
+<td>to fall ill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заводить/завести (+a)</td>
+<td>to take somewhere; start, start up; wind up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закрытый</td>
+<td>closed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>катиться/по-</td>
+<td>to roll</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>книжный</td>
+<td>book (adj); bookish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крутить/за- (+a)</td>
+<td>to twist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ловко</td>
+<td>skilfully, deftly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лопата</td>
+<td>spade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>магнитофон</td>
+<td>tape-recorder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мастерство</td>
+<td>skill, craftsmanship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мужество</td>
+<td>courage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наверху</td>
+<td>above; upstairs</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>награда</td>
+<td>reward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наряду (с +inst)</td>
+<td>equally, alongside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необыкновенный</td>
+<td>unusual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>овца</td>
+<td>sheep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>относить/отнести (+a)</td>
+<td>to take (somewhere)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>падение</td>
+<td>fall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подводить/подвести (+a)</td>
+<td>to lead up; (coll) let (s.o.) down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подозревать (i) (+a)</td>
+<td>to suspect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поистине</td>
+<td>indeed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покойный</td>
+<td>calm; late, deceased</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посещать/посетить (+a)</td>
+<td>to visit (a place)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постановление</td>
+<td>resolution, decree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пот</td>
+<td>sweat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пребывание</td>
+<td>stay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предварительный</td>
+<td>preliminary; prior</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приготавливать/приготовить (+a)</td>
+<td>to prepare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пристально</td>
+<td>fixedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протяжение</td>
+<td>extent; expanse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разнообразие</td>
+<td>variety</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассматривать/рассмотреть (+a)</td>
+<td>to examine; make out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рвать/по- (+a)</td>
+<td>to tear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>религия</td>
+<td>religion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родственник</td>
+<td>relative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сбивать/сбить (+a)</td>
+<td>to knock down; confuse; whip, whisk; distract, beat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сворачивать/свернуть (+a)</td>
+<td>to roll (up); turn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сводить/свести (+a)</td>
+<td>to take (s.o. somewhere); bring together; (c +g) take down, away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скамейка</td>
+<td>bench</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершенствование</td>
+<td>improvement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сокровище</td>
+<td>treasure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сплошь</td>
+<td>completely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>судья (m/f)</td>
+<td>judge; referee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>существующий</td>
+<td>existing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толщина</td>
+<td>thickness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видать/у- (+a)</td>
+<td>to see (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ужин</td>
+<td>supper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усадьба</td>
+<td>country estate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хранить (i) (+a)</td>
+<td>to keep, store</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чашка</td>
+<td>cup</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чепуха</td>
+<td>nonsense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>явный</td>
+<td>obvious, overt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бревно</td>
+<td>log, beam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виднеться (i)</td>
+<td>to be visible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вклад</td>
+<td>contribution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восстанавливать/восстановить (+a)</td>
+<td>to restore, reconstruct; (+a против +g) set s.o. against s.o.</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>временно</td>
+<td>temporarily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вызов</td>
+<td>summons; challenge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вылезать/вылезти (из +g)</td>
+<td>to climb out (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>годовой</td>
+<td>yearly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>готовность (f)</td>
+<td>readiness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доступный</td>
+<td>accessible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жарко</td>
+<td>hotly; it’s hot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задумывать/задумать (+a)</td>
+<td>to think up; plan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запрос</td>
+<td>official request</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издалека</td>
+<td>from a distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интересоваться/за- (+inst)</td>
+<td>to be interested in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кадр</td>
+<td>frame; cadre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кадры</td>
+<td>staff, personnel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каковой</td>
+<td>which (official style)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кивать/кивнуть (+inst)</td>
+<td>to nod</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>китайский</td>
+<td>Chinese</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корм</td>
+<td>fodder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красиво</td>
+<td>beautifully, attractively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кровавый</td>
+<td>bloody</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крышка</td>
+<td>lid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кушать/с- (+a)</td>
+<td>to eat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напиваться/напиться (+g)</td>
+<td>to drink one’s fill; get drunk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарушение</td>
+<td>violation, offence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нелегко</td>
+<td>(it’s) not easy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нестись/по-</td>
+<td>to rush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нить (f)</td>
+<td>thread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ночевать/пере-</td>
+<td>to spend the night</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нравственный</td>
+<td>moral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объединённый</td>
+<td>united</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окраина</td>
+<td>outskirts</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>описание</td>
+<td>description</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остановка</td>
+<td>stop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очевидный</td>
+<td>obvious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очерк</td>
+<td>essay, study</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>патрон</td>
+<td>cartridge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пенсия</td>
+<td>pension</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плен</td>
+<td>captivity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плоский</td>
+<td>flat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плотно</td>
+<td>tightly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвал</td>
+<td>cellar, basement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подчёркивать/подчеркнуть (+a)</td>
+<td>to underline; emphasize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подыматься/подняться</td>
+<td>to rise; climb (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>есть/по-</td>
+<td>to eat a little</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полгода</td>
+<td>half a year</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нести/по- (+a)</td>
+<td>to carry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приниматься/приняться (за +a)</td>
+<td>to get down, start work on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присущий (+d)</td>
+<td>inherent (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>притом</td>
+<td>besides, in addition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проигрывать/проиграть (+a)</td>
+<td>to lose (game etc)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>профессиональный</td>
+<td>professional (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растерянно</td>
+<td>in bewilderment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реклама</td>
+<td>advertisement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>руководящий</td>
+<td>leading, guiding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сжигать/сжечь (+a)</td>
+<td>to burn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скамья</td>
+<td>bench</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скучный</td>
+<td>boring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снизу</td>
+<td>from below</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собеседник</td>
+<td>interlocutor, the person one is talking to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собор</td>
+<td>cathedral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спинка</td>
+<td>back (of chair etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прятаться/с-</td>
+<td>to hide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стукать/стукнуть (+a)</td>
+<td>to knock, bang</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торопливо</td>
+<td>hastily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тревожить/вс- (+a)</td>
+<td>to alarm; disturb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убитый</td>
+<td>killed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>худой</td>
+<td>thin; bad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чрезвычайный</td>
+<td>extreme; exceptional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шагать/шагнуть</td>
+<td>to step, stride; to take a step</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эффективность</td>
+<td>effectiveness; efficiency</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>якобы</td>
+<td>allegedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ярость (f)</td>
+<td>rage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аллея</td>
+<td>avenue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баня</td>
+<td>bath-house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспокойство</td>
+<td>agitation, anxiety</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспорядок</td>
+<td>disorder, mess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>близ (+g)</td>
+<td>near</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бурый</td>
+<td>greyish-brown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валить/с- (+a)</td>
+<td>to topple; heap up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веде́ние</td>
+<td>conducting, conduct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ве́дение</td>
+<td>authority, control</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>величественный</td>
+<td>majestic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вздумать (р) (+inf)</td>
+<td>to decide suddenly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вмешательство (в +a)</td>
+<td>interference (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водный</td>
+<td>water (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возвращение</td>
+<td>return</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гриб</td>
+<td>mushroom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гусь (m)</td>
+<td>goose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девятый</td>
+<td>ninth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>еда</td>
+<td>food</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жестоко</td>
+<td>cruelly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>животный</td>
+<td>animal (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забастовка</td>
+<td>strike (by workers)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>за́мок</td>
+<td>castle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замо́к</td>
+<td>lock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затылок</td>
+<td>back of the head</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идеал</td>
+<td>ideal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ковёр</td>
+<td>carpet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колоссальный</td>
+<td>colossal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>куда-то</td>
+<td>somewhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мощь (f)</td>
+<td>power, might</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наивный</td>
+<td>naive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>налево</td>
+<td>to the left</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неведомый</td>
+<td>unknown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неудобно</td>
+<td>uncomfortably, awkwardly; it’s awkward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обман</td>
+<td>deceit, deception</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обходиться/обойтись</td>
+<td>to manage; treat; turn out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обязывать/обязать (+a +inf)</td>
+<td>to oblige s.o. to do sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одерживать/одержать (+a)</td>
+<td>to obtain, gain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освоение</td>
+<td>assimilation, mastery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пение</td>
+<td>singing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переживать/пережить (+a)</td>
+<td>to live through; experience; outlive; suffer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печатать/на- (+a)</td>
+<td>to print</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пешком</td>
+<td>on foot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>планирование</td>
+<td>planning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повар</td>
+<td>cook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поделать (р)</td>
+<td>to do (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>познание</td>
+<td>knowledge, cognition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полёт</td>
+<td>flight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>последствие</td>
+<td>consequence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приблизительно</td>
+<td>approximately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пригодиться (р)</td>
+<td>to come in useful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прогонять/прогнать (+a)</td>
+<td>to drive away; banish, throw out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просвещение</td>
+<td>education; enlightenment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прочность (f)</td>
+<td>stability, solidity, durability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проявляться/проявиться</td>
+<td>to show itself, be revealed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пустынный</td>
+<td>desert (adj), deserted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рана</td>
+<td>wound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расспрашивать/расспросить (+a)</td>
+<td>to question</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рядовой (m) (adj)</td>
+<td>ordinary, rank and file; (as noun) private soldier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свидетельствовать (i) (о +pr)</td>
+<td>to show, be evidence (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слепой</td>
+<td>blind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трактор</td>
+<td>tractor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штаб</td>
+<td>staff (mil); HQ</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>борт</td>
+<td>side (of a ship)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цех</td>
+<td>section of factory, shop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порода</td>
+<td>kind, type, breed; rock (geological)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>германский</td>
+<td>Germanic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>о́рган</td>
+<td>organ (biol, political)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орга́н</td>
+<td>organ (musical instrument)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лаборатория</td>
+<td>laboratory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казак</td>
+<td>Cossack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>металл</td>
+<td>metal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибор</td>
+<td>piece of apparatus, gadget, instrument</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обработка</td>
+<td>treatment, processing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видимый</td>
+<td>visible, evident</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эксплуатация</td>
+<td>exploitation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колонна</td>
+<td>column</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыбак</td>
+<td>fisherman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>производственный</td>
+<td>production (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полицейский</td>
+<td>police (adj); (adj used as noun) policeman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завоевание</td>
+<td>conquest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бригадир</td>
+<td>brigade leader; foreman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>показатель (m)</td>
+<td>index, indicator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>часовой</td>
+<td>hour (adj); watch, clock (adj); (as noun) sentry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слушатель (m)</td>
+<td>listener</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слышный</td>
+<td>audible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срочно</td>
+<td>urgently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ссора</td>
+<td>quarrel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стадия</td>
+<td>stage (of development)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столкновение</td>
+<td>collision, clash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ступенька</td>
+<td>step</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>судно</td>
+<td>vessel, craft</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теряться/по-/рас-</td>
+<td>to get lost; lose one’s head</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увлечение</td>
+<td>enthusiasm; hobby</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удивлённо</td>
+<td>with surprise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умственный</td>
+<td>mental, intellectual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учитывать/учесть (+a)</td>
+<td>to take into account; to take into consideration, bear in mind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чей-то</td>
+<td>someone’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яма</td>
+<td>pit, hole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бег</td>
+<td>running; race</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспокоить/о-/по- (+a)</td>
+<td>to worry (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессмертный</td>
+<td>immortal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веселье</td>
+<td>merriment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взрывать/взорвать (+a)</td>
+<td>to blow up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>витрина</td>
+<td>shop-window; showcase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внучка</td>
+<td>granddaughter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внушать/внушить (+a +d)</td>
+<td>to instil, inspire (sth in s.o.), put sth in s.o.’s head</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возбуждать/возбудить (+a)</td>
+<td>to arouse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воин</td>
+<td>warrior</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гордиться (i) (+inst)</td>
+<td>to be proud of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горько</td>
+<td>bitter(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грустно</td>
+<td>sad(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>густо</td>
+<td>thickly; densely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доставаться/достаться (+d)</td>
+<td>to fall to s.o.’s lot; (coll) catch it (be punished)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дура</td>
+<td>idiot, stupid woman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ежедневно</td>
+<td>every day</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заканчиваться/закончиться</td>
+<td>to end; finish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изобретение</td>
+<td>invention</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>катастрофа</td>
+<td>disaster</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колебаться/по-</td>
+<td>to sway; hesitate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лампочка</td>
+<td>(light) bulb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>легенда</td>
+<td>legend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>летучий</td>
+<td>flying</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мгла</td>
+<td>haze, gloom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>младший</td>
+<td>younger; junior</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мыслить (i)</td>
+<td>to think</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накрывать/накрыть (+a)</td>
+<td>to cover; lay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неплохо</td>
+<td>not bad(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ноль (m)</td>
+<td>zero</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нота</td>
+<td>note (music, diplomatic)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ноты</td>
+<td>sheet music</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обильный</td>
+<td>abundant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оборачиваться/обернуться</td>
+<td>to turn round; turn out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отечественный</td>
+<td>of the fatherland; Russian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отечество</td>
+<td>fatherland</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отставать/отстать (от +g)</td>
+<td>to lag behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ощущение</td>
+<td>sensation, feeling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>памятный</td>
+<td>memorable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>папаша (m)</td>
+<td>dad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>патриотический</td>
+<td>patriotic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передний</td>
+<td>front (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перерыв</td>
+<td>break, interval</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повторяться/повториться</td>
+<td>to be repeated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поди</td>
+<td>probably (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подлец</td>
+<td>scoundrel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подхватывать/подхватить (+a)</td>
+<td>to pick up, take up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>краснеть/по-</td>
+<td>to become red; blush, turn red</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поражать/поразить (+a)</td>
+<td>to strike; astonish; rout</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предполагать/предположить</td>
+<td>to suppose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>придавать/придать (+a +d)</td>
+<td>to impart, give (sth to sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приезд</td>
+<td>arrival</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробираться/пробраться</td>
+<td>to make one’s way through, force one’s way</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протест</td>
+<td>protest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радоваться/об- (+d)</td>
+<td>to be glad (at), be pleased (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радостный</td>
+<td>glad, joyful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разноцветный</td>
+<td>many-coloured</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстреливать/расстрелять (+a)</td>
+<td>to execute (by shooting)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>редактор</td>
+<td>editor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубить (i) (+a)</td>
+<td>to chop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдавать/сдать (+a)</td>
+<td>to hand in, hand over; rent, let; surrender, give up; i: take (exam); p: to pass (exam)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>следствие</td>
+<td>consequence; investigation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смущаться/смутиться</td>
+<td>to be embarrassed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спускать/спустить (+a)</td>
+<td>to lower; release</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сухо</td>
+<td>drily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телевидение</td>
+<td>television (medium)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телевизионный</td>
+<td>television (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тревожно</td>
+<td>anxiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тяжкий</td>
+<td>heavy, serious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увлекать/увлечь (+a)</td>
+<td>to carry away; fascinate, distract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удобно</td>
+<td>comfortably; conveniently; it’s convenient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уход</td>
+<td>departure; (за +inst) caring (for), maintenance (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>церковный</td>
+<td>church (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудак</td>
+<td>eccentric person, crank</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экземпляр</td>
+<td>copy (of book etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юный</td>
+<td>young</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспокойный</td>
+<td>anxious, agitated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бинокль (m)</td>
+<td>binoculars</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верхушка</td>
+<td>top; (coll) the bosses</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взаимоотношение</td>
+<td>interrelation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восемьдесят</td>
+<td>eighty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вреза́ться (i) (в +a)</td>
+<td>to cut into</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выгода</td>
+<td>advantage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вырабатывать/выработать (+a)</td>
+<td>to produce; work out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гладить/по- (+a)</td>
+<td>to stroke; iron</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>городок</td>
+<td>small town</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гудок</td>
+<td>hooter, car horn; hooting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>договариваться/договориться (с +inst)</td>
+<td>to reach agreement (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>досада</td>
+<td>annoyance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дьявол</td>
+<td>devil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жаркий</td>
+<td>hot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забытый</td>
+<td>forgotten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загадка</td>
+<td>mystery; riddle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загрязнение</td>
+<td>pollution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искра</td>
+<td>spark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искренне</td>
+<td>sincerely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполнение</td>
+<td>fulfilment; performance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кидать/кинуть (+a)</td>
+<td>to throw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коллега (m/f)</td>
+<td>colleague</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>куда-нибудь</td>
+<td>anywhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мириться/по-/при- (с +inst)</td>
+<td>to be reconciled with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молитва</td>
+<td>prayer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молчаливый</td>
+<td>taciturn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монах</td>
+<td>monk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наблюдаться (i)</td>
+<td>to be observed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наверх</td>
+<td>upwards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наклоняться/наклониться</td>
+<td>to bend down, stoop, bend over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намечать/наметить (+a)</td>
+<td>to plan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настаивать/настоять (на +pr)</td>
+<td>to insist, get one’s own way</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наставать/настать</td>
+<td>to come (of seasons etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обслуживание</td>
+<td>service</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объединять/объединить (+a)</td>
+<td>to unite, combine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одинаково</td>
+<td>identically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одиннадцать</td>
+<td>eleven</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опасаться (i) (+g)</td>
+<td>to be afraid of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организатор</td>
+<td>organizer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поглядывать (i) (на +a)</td>
+<td>to cast looks at</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полотенце</td>
+<td>towel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>работать/по-</td>
+<td>to work, work for a while</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поразительный</td>
+<td>astonishing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постройка</td>
+<td>building</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преступник</td>
+<td>criminal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привет</td>
+<td>greeting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присутствовать (i)</td>
+<td>to be present</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продажа</td>
+<td>sale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равнодушный (к +d)</td>
+<td>indifferent (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расставаться/расстаться (с +inst)</td>
+<td>to part (with/from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растущий</td>
+<td>growing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рваться/по-/разорваться</td>
+<td>to tear, burst; want strongly (to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сеять/по- (+a)</td>
+<td>to sow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слабость (f)</td>
+<td>weakness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соединяться/соединиться</td>
+<td>to unite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тогдашний</td>
+<td>then (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уборка</td>
+<td>tidying up; harvest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уверять/уверить (+a)</td>
+<td>to assure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угадывать/угадать (+a)</td>
+<td>to guess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удачный</td>
+<td>successful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улучшать/улучшить (+a)</td>
+<td>to improve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утверждать/утвердить (+a)</td>
+<td>to confirm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учёба</td>
+<td>study, studying</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>характеризовать (i/p) (+a)</td>
+<td>to characterize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хозяйский</td>
+<td>owner’s; boss’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шкура</td>
+<td>skin, hide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шуба</td>
+<td>fur coat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автомобильный</td>
+<td>car (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>башня</td>
+<td>tower</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беглый</td>
+<td>quick, fleeting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безработица</td>
+<td>unemployment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>близость (f)</td>
+<td>closeness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдвоём</td>
+<td>together (as a twosome)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взамен (+g)</td>
+<td>in exchange (for), instead (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>врываться/ворваться (в +a)</td>
+<td>to burst in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выбираться/выбраться (из +g)</td>
+<td>to get out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдвигать/выдвинуть (+a)</td>
+<td>to move out; put forward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вылетать/вылететь</td>
+<td>to fly out, take off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вырывать/вырвать (+a)</td>
+<td>to pull out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гвоздь (m)</td>
+<td>nail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гласность (f)</td>
+<td>openness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнездо</td>
+<td>nest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грузовик</td>
+<td>lorry, truck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дежурный</td>
+<td>duty (adj); (as noun) person on duty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дорого</td>
+<td>dearly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружно</td>
+<td>in harmony, simultaneously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жара</td>
+<td>heat, hot weather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здешний</td>
+<td>local, from here</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изображать/изобразить (+a)</td>
+<td>to depict</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испуганный</td>
+<td>frightened</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казённый</td>
+<td>belonging to the State</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>как-нибудь</td>
+<td>somehow; anyhow; sometime (in the future)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>картошка</td>
+<td>potatoes (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кривой</td>
+<td>squint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>куртка</td>
+<td>(short) jacket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лгать/со-</td>
+<td>to lie, tell lies, tell a lie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>марка</td>
+<td>postage stamp; brand, trade mark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>махать/по-/махнуть (+inst)</td>
+<td>to wave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>митинг</td>
+<td>political meeting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>налёт</td>
+<td>raid; thin coating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наличие</td>
+<td>presence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некий</td>
+<td>a certain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неподалёку</td>
+<td>not far away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неприятность (f)</td>
+<td>unpleasantness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обвинение</td>
+<td>accusation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обвинять/обвинить (+a в +pr)</td>
+<td>to accuse (s.o. of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оборот</td>
+<td>turn, revolution; turnover; reverse (of page etc.); turn of phrase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обслуживать/обслужить (+a)</td>
+<td>to serve (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обычай</td>
+<td>custom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обязательный</td>
+<td>compulsory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ого</td>
+<td>oho!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отражение</td>
+<td>reflection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подпись (f)</td>
+<td>signature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подсчитывать/подсчитать (+a)</td>
+<td>to count up, calculate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подчинять/подчинить (+a +d)</td>
+<td>to subordinate, subject (s.o. to s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покидать/покинуть (+a)</td>
+<td>to abandon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полчаса</td>
+<td>half an hour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поправлять/поправить (+a)</td>
+<td>to correct, put right</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посетитель (m)</td>
+<td>visitor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предпринимать/предпринять (+a)</td>
+<td>to undertake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибавлять/прибавить (+a)</td>
+<td>to add</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приговор</td>
+<td>verdict, sentence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разделять/разделить (+a)</td>
+<td>to divide; separate; share</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смеяться/рас-</td>
+<td>to burst out laughing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассуждение</td>
+<td>reasoning, argument</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ресторан</td>
+<td>restaurant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сбрасывать/сбросить (+a)</td>
+<td>to drop; throw off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сволочь (f)</td>
+<td>swine, bastard (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слышно</td>
+<td>audible, audibly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совместный</td>
+<td>joint, combined</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соединять/соединить (+a)</td>
+<td>to unite, join</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соответствие</td>
+<td>accordance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>специальность (f)</td>
+<td>speciality; profession</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срочный</td>
+<td>urgent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старость (f)</td>
+<td>old age</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стремительно</td>
+<td>swiftly; impetuously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стройный</td>
+<td>harmonious; well-proportioned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>схема</td>
+<td>diagram</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>счастливо</td>
+<td>happily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>традиционный</td>
+<td>traditional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тысячелетие</td>
+<td>millennium</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уважаемый</td>
+<td>respected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уголовный</td>
+<td>criminal (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удовлетворять/удовлетворить (+a)</td>
+<td>to satisfy; (+d) be in accordance with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уступать/уступить (+a +d)</td>
+<td>to yield, give up, cede (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>характеристика</td>
+<td>description; reference (for job etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>широта</td>
+<td>width</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безобразие</td>
+<td>ugliness; scandal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспорядочный</td>
+<td>disorderly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благополучие</td>
+<td>well-being</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>британский</td>
+<td>British (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бумажный</td>
+<td>paper (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>важность (f)</td>
+<td>importance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вблизи</td>
+<td>close by</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вглядываться/вглядеться (в +a)</td>
+<td>to gaze at, study, look closely at, peer at</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вековой</td>
+<td>centuries-old</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видеться/у- (c +inst)</td>
+<td>to see one another, see each other</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восстановление</td>
+<td>restoration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вручать/вручить (+a)</td>
+<td>to hand, hand over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всесторонний</td>
+<td>all-round; thorough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гром</td>
+<td>thunder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружеский</td>
+<td>friendly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дума</td>
+<td>thought; duma (Russian parliament)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жажда</td>
+<td>thirst</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забираться/забраться (в/на +a)</td>
+<td>to get, climb (into/onto)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заведение</td>
+<td>institution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задерживать/задержать (+a)</td>
+<td>to delay; arrest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>законный</td>
+<td>legal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затрата</td>
+<td>expense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избегать/избежать (+g or inf)</td>
+<td>to avoid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>извиняться/извиниться (перед +inst)</td>
+<td>to apologize (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>качаться/качнуться</td>
+<td>to rock, swing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кипеть/вс-</td>
+<td>to boil, be boiling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клевета</td>
+<td>slander</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коробка</td>
+<td>box</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лекарство</td>
+<td>medicine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миг</td>
+<td>moment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миновать (i/p)</td>
+<td>to pass, pass by</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>морда</td>
+<td>snout, muzzle; (coll) face</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мутный</td>
+<td>turbid, clouded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарушать/нарушить (+a)</td>
+<td>to disturb, violate, break, infringe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>небывалый</td>
+<td>unprecedented; (coll) inexperienced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некуда</td>
+<td>there is nowhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немалый</td>
+<td>considerable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неправильно</td>
+<td>incorrectly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неправильный</td>
+<td>incorrect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нищета</td>
+<td>poverty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обстоять (i)</td>
+<td>to be</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общежитие</td>
+<td>hostel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>определение</td>
+<td>definition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оратор</td>
+<td>orator, speaker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осторожный</td>
+<td>careful, cautious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отражаться/отразиться</td>
+<td>to be reflected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охранять/охранить (+a)</td>
+<td>to guard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очаг</td>
+<td>hearth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переносить/перенести (+a)</td>
+<td>to transfer, carry over; postpone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повсюду</td>
+<td>everywhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подпольный</td>
+<td>underground (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полдень (m)</td>
+<td>midday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порывать/порвать (+a)</td>
+<td>to tear; break off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поручение</td>
+<td>commission, errand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посреди (+g)</td>
+<td>in the middle (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>требоваться/по-</td>
+<td>to be necessary, be needed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предстоящий</td>
+<td>forthcoming, imminent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привлекать/привлечь (+a)</td>
+<td>to attract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проваливаться/провалиться</td>
+<td>to fall through; (coll) fail (exam); (coll) vanish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>происшествие</td>
+<td>incident, occurrence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пусто</td>
+<td>(it’s) empty; emptily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пустота</td>
+<td>emptiness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решимость (f)</td>
+<td>determination, resoluteness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рождать/родить (+a)</td>
+<td>to give birth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свободно</td>
+<td>freely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>священный</td>
+<td>holy, sacred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смелость (f)</td>
+<td>bravery, courage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>текст</td>
+<td>text</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>товарный</td>
+<td>goods (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>турист</td>
+<td>tourist; hiker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убийство</td>
+<td>murder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убыток</td>
+<td>loss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укладывать/уложить (+a)</td>
+<td>to lay (down); pack, stack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упражнение</td>
+<td>exercise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цивилизация</td>
+<td>civilization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чин</td>
+<td>rank</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шевелиться/по-</td>
+<td>to stir</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автобус</td>
+<td>bus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесспорно</td>
+<td>indisputably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесстрашный</td>
+<td>fearless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благодарность (f)</td>
+<td>gratitude</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брюки (pl)</td>
+<td>trousers</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вождь (m)</td>
+<td>leader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вспышка</td>
+<td>flash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вытекать/вытечь</td>
+<td>to flow out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гладкий</td>
+<td>smooth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грубо</td>
+<td>coarsely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>давить (i) (на +a)</td>
+<td>to press, put pressure on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двадцатый</td>
+<td>twentieth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делиться/раз- (на +a)</td>
+<td>to be divided (into)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дескать</td>
+<td>(indicating reported speech) ‘he said’, ‘they said’ etc. (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дрянь (f)</td>
+<td>rubbish (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завтрак</td>
+<td>breakfast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замечание</td>
+<td>remark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зелень (f)</td>
+<td>greenery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наглядный</td>
+<td>clear, graphic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нагрузка</td>
+<td>load; workload</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надобность (f)</td>
+<td>necessity, need</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недолго</td>
+<td>not (for) long</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недоступный</td>
+<td>inaccessible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>независимо</td>
+<td>independently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неясный</td>
+<td>unclear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нуль (m)</td>
+<td>zero</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ограниченный</td>
+<td>limited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осматривать/осмотреть (+a)</td>
+<td>to examine; look round (sth), inspect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвергать/отвергнуть (+a)</td>
+<td>to reject</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пиво</td>
+<td>beer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побережье</td>
+<td>coast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подальше</td>
+<td>a little further (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ползти/по-</td>
+<td>to crawl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибегать/прибегнуть (к +d)</td>
+<td>to run to; resort to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противный</td>
+<td>disgusting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пушистый</td>
+<td>fluffy, downy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пышный</td>
+<td>luxuriant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбитый</td>
+<td>broken</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сбоку</td>
+<td>from the side</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валиться/с-</td>
+<td>to fall down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>симпатия (к +d)</td>
+<td>liking (for s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сказочный</td>
+<td>fairy-tale (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слабо</td>
+<td>weakly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сладко</td>
+<td>sweetly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>справедливо</td>
+<td>justly, fairly; correctly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сталкиваться/столкнуться (с +inst)</td>
+<td>to collide with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сторонник</td>
+<td>supporter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>типичный</td>
+<td>typical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тонуть/по-/у-</td>
+<td>to sink; drown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трамвай</td>
+<td>tram, streetcar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тротуар</td>
+<td>pavement, sidewalk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увлекаться/увлечься (+inst)</td>
+<td>to be keen on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уводить/увести (+a от +g)</td>
+<td>to lead away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хор</td>
+<td>chorus; choir</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четверо</td>
+<td>four, foursome</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чистота</td>
+<td>cleanliness; purity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>босой</td>
+<td>barefoot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вертеть/по-</td>
+<td>to twirl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всходить/взойти (на +a)</td>
+<td>to ascend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вмешиваться/вмешаться (в +a)</td>
+<td>to interfere (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вольный</td>
+<td>free</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воротник</td>
+<td>collar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдумка</td>
+<td>invention; fabrication, lie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выслушивать/выслушать (+a)</td>
+<td>to hear (s.o.) out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выставлять/выставить (+a)</td>
+<td>to display, put forward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грусть (f)</td>
+<td>sadness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>даваться/даться (+d)</td>
+<td>to be given; come easily (to s.o.), be learnt easily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дата</td>
+<td>date</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дипломат</td>
+<td>diplomat; attaché-case</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>единственно</td>
+<td>only</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жать/с- (+a)</td>
+<td>to squeeze; to harvest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жулик</td>
+<td>petty thief; cheat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завтрашний</td>
+<td>tomorrow’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звенеть/за-</td>
+<td>to ring; (+inst) jingle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>игрушка</td>
+<td>toy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>излагать/изложить (+a)</td>
+<td>to set out, expound, put in words</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исправлять/исправить (+a)</td>
+<td>to correct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кафе (n) (indecl)</td>
+<td>café</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каша</td>
+<td>kasha (porridge made of buckwheat, semolina or oatmeal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коллективный</td>
+<td>collective</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контора</td>
+<td>office</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маршрут</td>
+<td>route</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>могущество</td>
+<td>power, might</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наделать (р) (+g)</td>
+<td>to make; (coll) to do</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наружу</td>
+<td>outside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невиданный</td>
+<td>unprecedented</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невысокий</td>
+<td>low, short</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недостаточный</td>
+<td>insufficient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незначительный</td>
+<td>insignificant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необычный</td>
+<td>unusual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неподвижно</td>
+<td>motionlessly, still</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нервный</td>
+<td>nervous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ничуть</td>
+<td>not in the least (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ножка</td>
+<td>leg; stem (of wineglass, mushroom)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облегчать/облегчить (+a)</td>
+<td>to lighten; simplify; make easier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обрывать/оборвать (+a)</td>
+<td>to tear off; interrupt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обрабатывать/обработать (+a)</td>
+<td>to process, work on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обувь (f)</td>
+<td>footwear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ожидание</td>
+<td>waiting; expectation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опора</td>
+<td>support</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдельно</td>
+<td>separately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отбирать/отобрать (+a)</td>
+<td>to take away; select</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрываться/оторваться (от +g)</td>
+<td>to be torn off, break away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрицательный</td>
+<td>negative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчаянный</td>
+<td>desperate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очутиться (р)</td>
+<td>to find oneself</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>песенка</td>
+<td>song</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побольше</td>
+<td>a bit more</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быть/по-</td>
+<td>to stay for a while</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подсказывать/подсказать (+a)</td>
+<td>to prompt, suggest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>советоваться/по- (с +inst)</td>
+<td>to consult (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>претензия</td>
+<td>claim</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проезжать/проехать</td>
+<td>to drive through or past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развивать/развить (+a)</td>
+<td>to develop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрушать/разрушить (+a)</td>
+<td>to destroy, ruin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассмотрение</td>
+<td>examination, scrutiny</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реветь/за-</td>
+<td>to roar, howl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рекомендовать (i/p) (+a)</td>
+<td>to recommend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>риск</td>
+<td>risk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рукопись (f)</td>
+<td>manuscript</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ручной</td>
+<td>hand (adj); tame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рама</td>
+<td>frame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдаваться/сдаться</td>
+<td>to surrender, give up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скрытый</td>
+<td>hidden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>согласие</td>
+<td>agreement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сходиться/сойтись</td>
+<td>to meet; form a liaison with; agree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солнышко</td>
+<td>sun (dim)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страдание</td>
+<td>suffering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сходство</td>
+<td>similarity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сытый</td>
+<td>replete, full</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убедительно</td>
+<td>convincingly, earnestly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убийца (m/f)</td>
+<td>murderer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удерживаться/удержаться</td>
+<td>to stand firm; restrain os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укреплять/укрепить (+a)</td>
+<td>to strengthen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уносить/унести (+a)</td>
+<td>to carry away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упрямо</td>
+<td>stubbornly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>услуга</td>
+<td>service, favour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>храм</td>
+<td>temple, church</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частый</td>
+<td>frequent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яйцо</td>
+<td>egg</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блюдо</td>
+<td>dish, course (of meal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вероятность (f)</td>
+<td>probability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветерок</td>
+<td>breeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трудящийся</td>
+<td>labouring  (participle)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мелодия</td>
+<td>melody</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посадка</td>
+<td>boarding (of plane etc.); landing; planting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сало</td>
+<td>fat, lard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устраиваться/устроиться</td>
+<td>to make arrangements; settle down; get a job; work out well</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>химия</td>
+<td>chemistry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выть/за-</td>
+<td>to howl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самостоятельность (f)</td>
+<td>independence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старичок</td>
+<td>(little) old man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тенденция</td>
+<td>tendency</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застой</td>
+<td>stagnation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юбилей</td>
+<td>jubilee, anniversary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>административный</td>
+<td>administrative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перчатка</td>
+<td>glove (with fingers)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздумье</td>
+<td>meditation, thought</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>большевик</td>
+<td>Bolshevik</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хозяйственный</td>
+<td>economic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>химический</td>
+<td>chemical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таблица</td>
+<td>table (of figures)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фашист</td>
+<td>Fascist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лесной</td>
+<td>forest (adj); forestry (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>металлический</td>
+<td>metallic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резерв</td>
+<td>reserve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>винтовка</td>
+<td>rifle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атом</td>
+<td>atom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конструкция</td>
+<td>construction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совхоз</td>
+<td>state farm, sovkhoz</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>органический</td>
+<td>organic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>материя</td>
+<td>matter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фундамент</td>
+<td>foundation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частица</td>
+<td>small part; particle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чертёж</td>
+<td>technical drawing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строение</td>
+<td>construction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сырьё</td>
+<td>raw material(s)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гвардия</td>
+<td>Guards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пакет</td>
+<td>packet; bag (paper or plastic)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пистолет</td>
+<td>pistol</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>социалистический</td>
+<td>socialist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отряд</td>
+<td>detachment (organized group of soldiers or workers)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палуба</td>
+<td>deck (of a ship)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>артиллерия</td>
+<td>artillery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объединение</td>
+<td>union, association</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ядерный</td>
+<td>nuclear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буржуазный</td>
+<td>bourgeois</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>партизан</td>
+<td>partisan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>технологический</td>
+<td>technological</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>физика</td>
+<td>physics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>научно-исследовательский</td>
+<td>scientific-research (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>геолог</td>
+<td>geologist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дрова (n) (pl)</td>
+<td>firewood</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>итальянский</td>
+<td>Italian (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диктатура</td>
+<td>dictatorship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машинный</td>
+<td>machine (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разведчик</td>
+<td>secret agent; scout, prospector</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>академический</td>
+<td>academic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отказывать/отказать (+d в +pr)</td>
+<td>to refuse (s.o. sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сетка</td>
+<td>net; string-bag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сменяться/смениться</td>
+<td>to be replaced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совестно (+d)</td>
+<td>ashamed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солома</td>
+<td>straw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соперник</td>
+<td>rival</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таковой</td>
+<td>such</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телеграф</td>
+<td>telegraph</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>формирование</td>
+<td>formation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юридический</td>
+<td>legal, law (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>банка</td>
+<td>jar, can</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авиация</td>
+<td>aviation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>актуальный</td>
+<td>topical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аристократия</td>
+<td>aristocracy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баржа</td>
+<td>barge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>батальон</td>
+<td>battalion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>башка (very coll)</td>
+<td>head</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>богатырь (m)</td>
+<td>bogatyr, hero</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ботинок</td>
+<td>(low) boot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вагончик</td>
+<td>small wagon, coach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промежуток</td>
+<td>interval; space, gap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бетон</td>
+<td>concrete</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горящий</td>
+<td>burning (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диплом</td>
+<td>diploma, degree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конституция</td>
+<td>constitution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>листва</td>
+<td>foliage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медь (f)</td>
+<td>copper (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нету (+g)</td>
+<td>there isn’t/aren’t (= нет) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обыкновенно</td>
+<td>usually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проволока</td>
+<td>wire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>путешественник</td>
+<td>traveller</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>функция</td>
+<td>function</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агентство</td>
+<td>agency</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бульвар</td>
+<td>avenue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>газовый</td>
+<td>gas (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издатель (m)</td>
+<td>publisher</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кабы</td>
+<td>if (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кнопка</td>
+<td>button, knob; drawing-pin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>курица</td>
+<td>hen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веточка</td>
+<td>twig, sprig</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взаимодействие</td>
+<td>interaction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взволнованно</td>
+<td>anxiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вздох</td>
+<td>sigh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влажный</td>
+<td>damp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возиться (i) (с +inst)</td>
+<td>to fiddle (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отводить/отвести (+a)</td>
+<td>to take aside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вплотную (к)</td>
+<td>close up (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всматриваться/всмотреться (в +a)</td>
+<td>to look closely at</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всячески</td>
+<td>in every way possible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глазок</td>
+<td>small eye; peephole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>головка</td>
+<td>small head</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грамм</td>
+<td>gram(me)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грань (f)</td>
+<td>border, verge; facet, edge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дар</td>
+<td>gift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дипломатический</td>
+<td>diplomatic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дистанция</td>
+<td>distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доверять/доверить (+d)</td>
+<td>to trust (s.o.); (+a +d) entrust (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>донской</td>
+<td>(of the river) Don</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>драма</td>
+<td>drama</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жених</td>
+<td>fiancé</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жилой</td>
+<td>dwelling (adj), residential</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заворачивать/завернуть (+а)</td>
+<td>to wrap; (за +а) turn (a corner)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заключённый</td>
+<td>(as noun) prisoner, convict</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заслуживать/заслужить</td>
+<td>to merit, achieve by merit, deserve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затягивать/затянуть</td>
+<td>to tighten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звёздочка</td>
+<td>small star; asterisk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идеологический</td>
+<td>ideological</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>индустрия</td>
+<td>industry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инструкция</td>
+<td>instructions</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карьера</td>
+<td>career</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>князь (m)</td>
+<td>prince</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ковш</td>
+<td>scoop, ladle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>командирский</td>
+<td>commander’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конкурс</td>
+<td>competition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кот</td>
+<td>tomcat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ликвидировать (i/p)</td>
+<td>to liquidate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метро (indecl)</td>
+<td>metro, underground</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мрамор</td>
+<td>marble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мужественный</td>
+<td>manly, courageous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наверняка</td>
+<td>for sure; safely, without taking risks</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надолго</td>
+<td>for a long time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насмешливо</td>
+<td>mockingly, sarcastically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насыпь (f)</td>
+<td>embankment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начальный</td>
+<td>initial, primary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недра (pl)</td>
+<td>depths, bowels (of the earth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неприятно</td>
+<td>(it’s) unpleasant; unpleasantly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>няня</td>
+<td>nurse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обучение (+d)</td>
+<td>teaching (of sth); training (in sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обходить/обойти (+a)</td>
+<td>to go round; avoid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опаздывать/опоздать (на +a)</td>
+<td>to be late (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оросительный</td>
+<td>irrigation (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отличать/отличить (+a)</td>
+<td>to distinguish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паспорт</td>
+<td>passport</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пачка</td>
+<td>packet, pack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пашня</td>
+<td>ploughed field</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пёс</td>
+<td>dog (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плановый</td>
+<td>planned, planning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плоскость (f)</td>
+<td>flatness; plane (surface)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-вашему</td>
+<td>in your opinion; as you want</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подбородок</td>
+<td>chin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвода</td>
+<td>cart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кланяться/поклониться</td>
+<td>to bow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поперечный</td>
+<td>transverse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>популярный</td>
+<td>popular</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>последовательно</td>
+<td>consistently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посмеиваться (i)</td>
+<td>to chuckle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предусматривать/предусмотреть</td>
+<td>to envisage, stipulate, foresee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преобразование</td>
+<td>transformation; reform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протестовать/за- (против +g)</td>
+<td>to protest (against)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противоположный</td>
+<td>opposite; contrary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радиостанция</td>
+<td>radio station</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разделение</td>
+<td>division</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размышлять/размыслить (о +pr)</td>
+<td>to ponder (on)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рай</td>
+<td>paradise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расширять/расширить (+a)</td>
+<td>to broaden, expand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>редкость (f)</td>
+<td>rarity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родня</td>
+<td>relatives</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ручей</td>
+<td>brook, stream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сводиться/свестись (к +d)</td>
+<td>to reduce (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серебро</td>
+<td>silver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сказываться/сказаться</td>
+<td>to have an effect (на +pr) on; proclaim oneself</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слесарь (m)</td>
+<td>metal worker, fitter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сменять/сменить (+a)</td>
+<td>to replace, change</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сниться/при-</td>
+<td>to appear in a dream, see in a dream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ссылка</td>
+<td>internal exile (inside Russia)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соседство</td>
+<td>vicinity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосна</td>
+<td>pine-tree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стесняться/по-</td>
+<td>to be shy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>судебный</td>
+<td>judicial, legal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торжество</td>
+<td>celebration; triumph</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угнетение</td>
+<td>oppression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уговаривать/уговорить (+a)</td>
+<td>to persuade, urge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>узор</td>
+<td>pattern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>украинский</td>
+<td>Ukrainian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уникальный</td>
+<td>unique</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уставляться/уставиться (в +a)</td>
+<td>to fix one’s gaze (on), stare (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устойчивый</td>
+<td>stable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>численность (f)</td>
+<td>total number, quantity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шарик</td>
+<td>(small) ball</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эксперимент</td>
+<td>experiment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>энергетический</td>
+<td>power, energy (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этакий</td>
+<td>such (= такой) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>японец</td>
+<td>Japanese man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весить (i)</td>
+<td>to weigh (intrans)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жидкий</td>
+<td>liquid; thin, feeble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>матушка</td>
+<td>mother (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парадный</td>
+<td>ceremonial; main</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>построение</td>
+<td>construction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбойник</td>
+<td>brigand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ребятишки</td>
+<td>children, kids (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>статуя</td>
+<td>statue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тракторный</td>
+<td>tractor (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>азиатский</td>
+<td>Asian (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ансамбль (m)</td>
+<td>ensemble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>близнец</td>
+<td>twin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>владение</td>
+<td>possession, ownership</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земледeлец</td>
+<td>farmer, peasant farmer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бровь (f)</td>
+<td>eyebrow; brow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правящий</td>
+<td>ruling (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расположение</td>
+<td>arrangement; location; liking; inclination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рельс</td>
+<td>rail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реформа</td>
+<td>reform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>речной</td>
+<td>river (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>руль (m)</td>
+<td>steering-wheel; helm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>степной</td>
+<td>steppe (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сынок</td>
+<td>sonny (form of address)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теплота</td>
+<td>warmth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трение</td>
+<td>friction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тундра</td>
+<td>tundra (treeless northern wastes)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>установление</td>
+<td>establishment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>языковой</td>
+<td>linguistic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яркость (f)</td>
+<td>brightness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>амбар</td>
+<td>barn; storehouse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аспирант</td>
+<td>postgraduate (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бабий</td>
+<td>women’s (coll; sexist)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесплодный</td>
+<td>barren; fruitless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворчать (i)</td>
+<td>to grumble; growl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диаметр</td>
+<td>diameter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дореволюционный</td>
+<td>pre-revolutionary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каторга</td>
+<td>hard labour, penal servitude</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>компас</td>
+<td>compass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лечение</td>
+<td>healing, treatment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мерзавец</td>
+<td>scoundrel (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набережная (f) (adj)</td>
+<td>embankment; sea-front</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накопление</td>
+<td>accumulation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оглядывать/оглянуть (+a)</td>
+<td>to inspect, look over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парадокс</td>
+<td>paradox</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видать/по- (+a)</td>
+<td>to see (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приподнимать/приподнять (+a)</td>
+<td>to raise slightly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разорение</td>
+<td>ruin, devastation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполком</td>
+<td>executive committee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баланс</td>
+<td>balance (econ)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стеклянный</td>
+<td>glass (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старшина (m)</td>
+<td>sergeant-major; leader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полковник</td>
+<td>colonel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глина</td>
+<td>clay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>производительный</td>
+<td>productive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гимназия</td>
+<td>grammar school, high school</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пуговица</td>
+<td>button</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комбинат</td>
+<td>combine, industrial complex</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сундук</td>
+<td>trunk, chest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мельница</td>
+<td>mill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тракторист</td>
+<td>tractor driver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>букет</td>
+<td>bouquet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окоп</td>
+<td>trench</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сезон</td>
+<td>season</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паровоз</td>
+<td>locomotive, steam engine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юбилейный</td>
+<td>anniversary (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ось (f)</td>
+<td>axis; axle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арестованный</td>
+<td>arrested, person arrested</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валенок</td>
+<td>felt boot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>животноводство</td>
+<td>stock-raising</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стрельба</td>
+<td>shooting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выработка</td>
+<td>working-out; production</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гонка</td>
+<td>race</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заводской</td>
+<td>factory (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прислуга</td>
+<td>servants</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разряд</td>
+<td>discharge; category</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдова</td>
+<td>widow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>последовательный</td>
+<td>consistent; successive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>психологический</td>
+<td>psychological</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пуд</td>
+<td>pood (16.38 kg)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цилиндр</td>
+<td>cylinder; top hat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>француз</td>
+<td>Frenchman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лейтенант</td>
+<td>lieutenant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агрегат</td>
+<td>unit, assembly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>калитка</td>
+<td>gate, garden gate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отверстие</td>
+<td>opening, aperture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пленум</td>
+<td>plenary session</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комплексный</td>
+<td>complex, consisting of several parts</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машинист</td>
+<td>engine-driver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мамаша</td>
+<td>mother (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лунный</td>
+<td>lunar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приказание</td>
+<td>order, command</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благосостояние</td>
+<td>well-being, prosperity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комплекс</td>
+<td>complex</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рота</td>
+<td>company (of soldiers)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>областной</td>
+<td>oblast (adj), provincial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>офицерский</td>
+<td>officer’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новогодний</td>
+<td>new year (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ведомство</td>
+<td>department (of government)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>композитор</td>
+<td>composer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конструктор</td>
+<td>constructor, designer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пианино (indecl)</td>
+<td>(upright) piano</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воробей</td>
+<td>sparrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плакат</td>
+<td>poster</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробка</td>
+<td>cork; plug; fuse; traffic jam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>производиться/произвестись</td>
+<td>to be produced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благополучно</td>
+<td>safely, well</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>качественный</td>
+<td>qualitative; good quality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>космический</td>
+<td>(outer) space</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пучок</td>
+<td>bundle; bun (hairdo)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>себестоимость (f)</td>
+<td>cost, cost price</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разложение</td>
+<td>decomposition, disintegration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>револьвер</td>
+<td>revolver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ток</td>
+<td>electric current</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ферма</td>
+<td>farm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шахта</td>
+<td>mine, pit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наружный</td>
+<td>outer, external</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>братство</td>
+<td>brotherhood</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деление</td>
+<td>division</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ликвидация</td>
+<td>liquidation, elimination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изготовлять/изготовить (+a)</td>
+<td>to manufacture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плавание</td>
+<td>swimming; sailing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сени (pl)</td>
+<td>entrance hall (of peasant hut)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сенатор</td>
+<td>senator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>первичный</td>
+<td>primary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шашка</td>
+<td>sabre; (pl) draughts, checkers (board game)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оболочка</td>
+<td>cover, envelope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погон</td>
+<td>shoulder-strap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посев</td>
+<td>sowing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снабжение</td>
+<td>supply, supplying</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>господствующий</td>
+<td>ruling, predominant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>командующий (+inst)</td>
+<td>(as noun) commander (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>польский</td>
+<td>Polish (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>груша</td>
+<td>pear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жила</td>
+<td>vein</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стадо</td>
+<td>herd</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барыня</td>
+<td>lady</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водяной</td>
+<td>water (adj), aquatic, water-powered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идиот</td>
+<td>idiot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интеллигент</td>
+<td>member of intelligentsia; professional; intellectual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кладбище</td>
+<td>cemetery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нагибаться/нагнуться</td>
+<td>to bend down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грузить/по- (+a)</td>
+<td>to load</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погружать/погрузить</td>
+<td>to immerse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смесь (f)</td>
+<td>mixture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уличный</td>
+<td>street (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впредь</td>
+<td>henceforth, in future</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свёрток</td>
+<td>package, bundle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>содержаться (i)</td>
+<td>to be maintained; be contained</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равновесие</td>
+<td>balance, equilibrium</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хата</td>
+<td>peasant house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экипаж</td>
+<td>carriage; crew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>овраг</td>
+<td>ravine, gully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фуражка</td>
+<td>peaked cap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бухта</td>
+<td>bay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>козёл</td>
+<td>goat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>якорь (m)</td>
+<td>anchor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комбайн</td>
+<td>combine harvester</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сани (pl)</td>
+<td>sledge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>император</td>
+<td>emperor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полярный</td>
+<td>polar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рояль (m)</td>
+<td>(grand) piano</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земледелие</td>
+<td>agriculture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>должный</td>
+<td>due, proper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>песчаный</td>
+<td>sandy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пехота</td>
+<td>infantry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>залив</td>
+<td>bay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>путёвка</td>
+<td>voucher for travel and accommodation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сплочение</td>
+<td>uniting, strengthening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпускник</td>
+<td>final-year student; graduate; school-leaver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механизация</td>
+<td>mechanization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механизатор</td>
+<td>mechanization expert; machine servicer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>госпиталь (m)</td>
+<td>(military) hospital</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конгресс</td>
+<td>congress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубка</td>
+<td>felling; chopping; deck cabin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огурец</td>
+<td>cucumber</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посол</td>
+<td>ambassador</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветеран</td>
+<td>veteran</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воинский</td>
+<td>military</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порошок</td>
+<td>powder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удобрение</td>
+<td>fertilizer; fertilizing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аппаратура</td>
+<td>apparatus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>батька (m)</td>
+<td>dad, father (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паренёк</td>
+<td>lad (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>декрет</td>
+<td>decree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плотина</td>
+<td>dam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проговорить (р)</td>
+<td>to say</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ранг</td>
+<td>rank</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безумие</td>
+<td>madness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессмертие</td>
+<td>immortality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>центнер</td>
+<td>100 kilogrammes, centner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идеология</td>
+<td>ideology</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ядро</td>
+<td>nucleus; ball</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>питательный</td>
+<td>nourishing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корма</td>
+<td>stern (of ship)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окраска</td>
+<td>colouring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>архитектура</td>
+<td>architecture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зрительный</td>
+<td>visual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>турнир</td>
+<td>tournament</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>причал</td>
+<td>mooring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тратить/по- (+a)</td>
+<td>to spend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шторм</td>
+<td>gale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корешок</td>
+<td>back (of bookbinding); small root; counterfoil; (coll) pal, mate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мина</td>
+<td>mine, shell (mil)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рюмка</td>
+<td>wineglass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крючок</td>
+<td>hook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>химик</td>
+<td>chemist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ваза</td>
+<td>vase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зародыш</td>
+<td>foetus; embryo</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сотрудничество</td>
+<td>collaboration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жидкость (f)</td>
+<td>liquid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>физик</td>
+<td>physicist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спортсмен</td>
+<td>sportsman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>архитектурный</td>
+<td>architectural</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покров</td>
+<td>cover, shroud</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коллекция</td>
+<td>collection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миролюбивый</td>
+<td>peace-loving</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пленный (m) (adj)</td>
+<td>captive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теплоход</td>
+<td>motor-vessel, motor-ship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>алмазный</td>
+<td>diamond (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>космос</td>
+<td>cosmos, space</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скоростной</td>
+<td>high-speed, express</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автоматизация</td>
+<td>automation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вулкан</td>
+<td>volcano</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выше</td>
+<td>higher, above</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старец</td>
+<td>elder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>адмирал</td>
+<td>admiral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охлаждение</td>
+<td>cooling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>социалист</td>
+<td>socialist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>минус</td>
+<td>minus; disadvantage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видение</td>
+<td>vision</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лыжи (pl)</td>
+<td>skis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сборный</td>
+<td>collapsible, prefabricated; mixed, combined (team)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кислород</td>
+<td>oxygen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пещера</td>
+<td>cave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общечеловеческий</td>
+<td>universal, of all mankind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каюта</td>
+<td>cabin (ship)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пузырёк</td>
+<td>bubble; phial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равнина</td>
+<td>plain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девчата (pl)</td>
+<td>girls (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продолжительный</td>
+<td>prolonged</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водохранилище</td>
+<td>reservoir</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воздействие</td>
+<td>influence, pressure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заповедник</td>
+<td>reserve, nature-reserve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чемпионат</td>
+<td>championship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сердитый</td>
+<td>angry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тулуп</td>
+<td>sheepskin coat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>активность (f)</td>
+<td>activity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>анализировать/про- (+a)</td>
+<td>to analyse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аплодировать/за- (+d)</td>
+<td>to applaud (s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ассортимент</td>
+<td>assortment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барабан</td>
+<td>drum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боковой</td>
+<td>side (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болтать/по-</td>
+<td>to shake, stir; (coll) chatter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>варить/за- (+a)</td>
+<td>to boil, cook by boiling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влиять/по- (на +a)</td>
+<td>to influence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влюблённый (в +a)</td>
+<td>in love (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внимательный (к)</td>
+<td>attentive, considerate (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водитель (m)</td>
+<td>driver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водить/по- (+a)</td>
+<td>to lead, (p) to lead about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возвращаться/возвратиться</td>
+<td>to return</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возрастающий</td>
+<td>growing, increasing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вполголоса</td>
+<td>in an undertone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выражаться/выразиться</td>
+<td>to express os; (coll) swear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грешный</td>
+<td>sinful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дача</td>
+<td>dacha, holiday cottage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двойной</td>
+<td>double, twofold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диск</td>
+<td>disk; discus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>днём</td>
+<td>by day; in the afternoon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доброволец</td>
+<td>volunteer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>догадка</td>
+<td>guess, conjecture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>допрос</td>
+<td>interrogation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>древесный</td>
+<td>wood (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>живопись (f)</td>
+<td>painting, paintings</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завершать/завершить (+a)</td>
+<td>to complete</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заманчивый</td>
+<td>tempting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заросль (f)</td>
+<td>thicket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заряд</td>
+<td>charge, cartridge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>здравоохранение</td>
+<td>healthcare, health service</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казнь (f)</td>
+<td>execution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капитальный</td>
+<td>main, most important</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>картофель (m)</td>
+<td>potatoes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кирпичный</td>
+<td>brick (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клад</td>
+<td>treasure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>компьютер</td>
+<td>computer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конный</td>
+<td>horse (adj), equestrian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коричневый</td>
+<td>brown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>купол</td>
+<td>cupola</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лавочка</td>
+<td>small shop; small bench</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лад</td>
+<td>harmony, tune; manner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лечить/вы- (+a)</td>
+<td>to treat, cure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миллиметр</td>
+<td>millimetre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>младенец</td>
+<td>baby</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намёк</td>
+<td>hint, allusion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напевать/напеть</td>
+<td>to sing; sing quietly, hum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насквозь</td>
+<td>through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>небрежно</td>
+<td>carelessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизбежность (f)</td>
+<td>inevitability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нелёгкий</td>
+<td>difficult; heavy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нелепый</td>
+<td>absurd</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необычайный</td>
+<td>exceptional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неожиданность (f)</td>
+<td>surprise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неплохой</td>
+<td>not bad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нетерпеливо</td>
+<td>impatiently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нефтяной</td>
+<td>oil (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обижать/обидеть (+a)</td>
+<td>to offend, hurt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обнаруживаться/обнаружиться</td>
+<td>to be revealed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обрыв</td>
+<td>precipice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одиночество</td>
+<td>loneliness, solitude</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одобрять/одобрить (+a)</td>
+<td>to approve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опасно</td>
+<td>dangerously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опера</td>
+<td>opera</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опрокидывать/опрокинуть (+a)</td>
+<td>to knock over, overturn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орошение</td>
+<td>irrigation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отбрасывать/отбросить (+a)</td>
+<td>to throw off; discard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откос</td>
+<td>slope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охотничий</td>
+<td>hunting (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палата</td>
+<td>chamber; ward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палач</td>
+<td>executioner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палочка</td>
+<td>small stick, baton</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парижский</td>
+<td>Parisian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пейзаж</td>
+<td>landscape</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перегрузка</td>
+<td>overload</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переплёт</td>
+<td>binding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвергать/подвергнуть (+a +d)</td>
+<td>to subject (s.o. to sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подряд</td>
+<td>in succession; contract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожелание</td>
+<td>wish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покойник</td>
+<td>dead person, the deceased</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-разному</td>
+<td>in different ways</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-своему</td>
+<td>in one’s own way</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потребитель (m)</td>
+<td>consumer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почин</td>
+<td>initiative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приближаться/приблизиться (к +d)</td>
+<td>to approach; draw near</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>признаваться/признаться (в +pr)</td>
+<td>to confess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принципиальный</td>
+<td>of principle, fundamental</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>провод</td>
+<td>wire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прожектор</td>
+<td>searchlight; floodlight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простота</td>
+<td>simplicity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прочно</td>
+<td>solidly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прошедший</td>
+<td>past (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пузырь (m)</td>
+<td>bubble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разгром</td>
+<td>crushing defeat; devastation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разоблачать/разоблачить (+a)</td>
+<td>to expose, unmask</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разом</td>
+<td>at once, at one go; in a flash (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрывать/разорвать (+a)</td>
+<td>to tear up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распространять/распространить (+a)</td>
+<td>to spread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассеянный</td>
+<td>absent-minded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ремень (m)</td>
+<td>belt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>робко</td>
+<td>timidly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свист</td>
+<td>whistling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свойственный (+d)</td>
+<td>characteristic (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдерживать/сдержать (+a)</td>
+<td>to hold back, restrain, keep (promise)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сев</td>
+<td>sowing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скандал</td>
+<td>scandal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сломить (р) (+a)</td>
+<td>to break</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>случайность (f)</td>
+<td>chance, chance occurrence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собачий</td>
+<td>dog’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>советник</td>
+<td>adviser</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>согласно (+d)</td>
+<td>according to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сокращать/сократить (+a)</td>
+<td>to shorten; reduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солидный</td>
+<td>solid, sound; reliable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спокойствие</td>
+<td>calmness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сражение</td>
+<td>battle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стадион</td>
+<td>stadium</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стан</td>
+<td>figure (human); camp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стойкость (f)</td>
+<td>firmness, steadfastness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стремительный</td>
+<td>rapid; dynamic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таить (i) (+a)</td>
+<td>to conceal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таскать/по- (+a)</td>
+<td>to drag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>татарин</td>
+<td>Tatar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ужинать/по-</td>
+<td>to have supper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>употреблять/употребить (+a)</td>
+<td>to use</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усиление</td>
+<td>strengthening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устранять/устранить (+a)</td>
+<td>to remove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фу</td>
+<td>(expressing disgust) ugh!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудовищный</td>
+<td>monstrous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чуждый</td>
+<td>(+d) alien (to); (+g) devoid (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шоссе (n) (indecl)</td>
+<td>highway</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шумный</td>
+<td>noisy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эра</td>
+<td>era</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эффективный</td>
+<td>effective</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ясность (f)</td>
+<td>clarity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>адвокат</td>
+<td>lawyer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>активист</td>
+<td>(political) activist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>архитектор</td>
+<td>architect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бал</td>
+<td>ball (dance)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беднота</td>
+<td>the poor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блокнот</td>
+<td>notepad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валиться/по-/с-</td>
+<td>to fall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ввиду (+g)</td>
+<td>in view of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веко</td>
+<td>eyelid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весной</td>
+<td>in spring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вешалка</td>
+<td>coat hanger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вздрагивать/вздрогнуть</td>
+<td>to start, flinch, shudder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внук</td>
+<td>grandson</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вопреки (+d)</td>
+<td>in spite of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вор</td>
+<td>thief</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворот</td>
+<td>collar; winch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вот-вот</td>
+<td>just about to, on the point of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быть вправе (+inf)</td>
+<td>to have a right to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вспоминаться (i)</td>
+<td>to be remembered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>встречный</td>
+<td>oncoming</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выращивать/вырастить (+a)</td>
+<td>to grow (sth), rear, cultivate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глухо</td>
+<td>indistinctly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>господствовать (i) (над +inst)</td>
+<td>to dominate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гребень (m)</td>
+<td>comb, crest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>даль (f)</td>
+<td>distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дворник</td>
+<td>caretaker, janitor; (coll) windscreen wiper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деревенский</td>
+<td>village, country (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>длиться (i)</td>
+<td>to last</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жалость (f)</td>
+<td>pity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жёсткий</td>
+<td>harsh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заблуждение</td>
+<td>delusion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загадочный</td>
+<td>mysterious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заговор</td>
+<td>plot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загораться/загореться</td>
+<td>to catch fire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задумчивый</td>
+<td>thoughtful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>залезать/залезть (в/на +a)</td>
+<td>to climb, get (into/onto)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заодно</td>
+<td>together; (coll) at the same time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заполнять/заполнить (+a)</td>
+<td>to fill in, fill up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заработок</td>
+<td>earnings</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заслуженный</td>
+<td>deserved; distinguished</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зимой</td>
+<td>in winter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>злоба</td>
+<td>spite, malice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>извлекать/извлечь (+a)</td>
+<td>to extract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>излишний</td>
+<td>superfluous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изобилие</td>
+<td>abundance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>икона</td>
+<td>icon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>индивидуальный</td>
+<td>individual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>индустриальный</td>
+<td>industrial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исключать/исключить (+a)</td>
+<td>to exclude</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каникулы (f) (pl)</td>
+<td>holidays, vacation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капелька</td>
+<td>droplet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кидаться/кинуться</td>
+<td>to throw os, rush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кое-где</td>
+<td>here and there</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>количественный</td>
+<td>quantitative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комендант</td>
+<td>warden (of hostel); commandant, governor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конфликт</td>
+<td>conflict</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контакт</td>
+<td>contact</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корка</td>
+<td>crust; rind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корреспонденция</td>
+<td>correspondence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>летом</td>
+<td>in summer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>максимальный</td>
+<td>maximal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машиностроение</td>
+<td>mechanical engineering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>местность (f)</td>
+<td>locality, district</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мундир</td>
+<td>uniform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набирать/набрать (+a)</td>
+<td>to gather, assemble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накапливать/накопить (+a)</td>
+<td>to accumulate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>налетать/налететь (на +a)</td>
+<td>to swoop on; run into</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наряд</td>
+<td>attire, costume; order, warrant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настойчивый</td>
+<td>insistent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>находка</td>
+<td>find</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неоднократно</td>
+<td>repeatedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нервничать (i)</td>
+<td>to be nervous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нисколько</td>
+<td>not at all</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обидно</td>
+<td>it hurts, it’s annoying</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>овладение (+inst)</td>
+<td>mastery (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ограничиваться/ограничиться (+inst)</td>
+<td>to limit oneself (to); be limited (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орех</td>
+<td>nut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отделять/отделить (+a)</td>
+<td>to separate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отпирать/отпереть (+a)</td>
+<td>to unlock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отправление</td>
+<td>dispatch; departure (of train)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ощущать/ощутить (+a)</td>
+<td>to feel, sense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паника</td>
+<td>panic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пахать (i) (+a)</td>
+<td>to plough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>первенство</td>
+<td>first place (in competition); championship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пласт</td>
+<td>layer; stratum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плетень (m)</td>
+<td>hurdle, wattle (fence)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плотник</td>
+<td>carpenter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поближе</td>
+<td>a bit closer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подчинение</td>
+<td>submission, subjection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожарный</td>
+<td>fire (adj); (as noun) fireman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поклон</td>
+<td>bow (greeting)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поляна</td>
+<td>glade, clearing, forest meadow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порождать/породить (+a)</td>
+<td>to beget, engender, generate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поскорее</td>
+<td>a little faster; hurry up!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посматривать (i) (на +a)</td>
+<td>to look (at) from time to time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почитать (i/p) (+a)</td>
+<td>i: to respect; p: to read a little</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поэма</td>
+<td>long poem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>презрение</td>
+<td>scorn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преимущественно</td>
+<td>primarily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приспособление</td>
+<td>adaptation; device</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приход</td>
+<td>arrival</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проверка</td>
+<td>check(ing), inspection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пролетать/пролететь</td>
+<td>to fly through or past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просыпаться/проснуться</td>
+<td>to wake up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассыпаться</td>
+<td>to scatter; crumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растворяться/раствориться</td>
+<td>to dissolve; to open</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теряться/рас-</td>
+<td>to get lost; panic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реальность (f)</td>
+<td>reality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рекорд</td>
+<td>record</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>речка</td>
+<td>small river</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>руководствоваться (i) (+inst)</td>
+<td>to be guided (by)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сбор</td>
+<td>collection, gathering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сводка</td>
+<td>report, bulletin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдача</td>
+<td>handing over; change (money returned)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семьдесят</td>
+<td>seventy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сено</td>
+<td>hay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сердечный</td>
+<td>heart (adj); heartfelt; warm-hearted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ситуация</td>
+<td>situation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сияние</td>
+<td>radiance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скважина</td>
+<td>chink, hole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ломать/с- (+a)</td>
+<td>to break, fracture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>составной</td>
+<td>composite; component</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ссылаться/сослаться (на +a)</td>
+<td>to refer to, quote; plead (give as an excuse)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>твёрдость (f)</td>
+<td>firmness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тетрадка</td>
+<td>exercise book</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тираж</td>
+<td>number of copies; draw (lottery)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торжественно</td>
+<td>ceremonially; festively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тощий</td>
+<td>emaciated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>треск</td>
+<td>crack; crash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трещина</td>
+<td>crack, cleft</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>труп</td>
+<td>corpse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>украшать/украсить (+a)</td>
+<td>to adorn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упорно</td>
+<td>persistently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фокус</td>
+<td>focus; trick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>формула</td>
+<td>formula</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>футбольный</td>
+<td>football (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлебный</td>
+<td>bread (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хло́пок</td>
+<td>cotton</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлопо́к</td>
+<td>clap, bang</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цикл</td>
+<td>cycle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экспериментальный</td>
+<td>experimental</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>анархия</td>
+<td>anarchy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>банда</td>
+<td>band, gang</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бетонный</td>
+<td>concrete (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бремя (n)</td>
+<td>burden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вертеться (i)</td>
+<td>to rotate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виноват</td>
+<td>guilty; sorry! (short adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вольно</td>
+<td>freely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восемнадцать</td>
+<td>eighteen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вредно</td>
+<td>harmful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдержка</td>
+<td>self-control; excerpt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вынужденный</td>
+<td>forced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>галстук</td>
+<td>tie, necktie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>географический</td>
+<td>geographical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гитара</td>
+<td>guitar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глиняный</td>
+<td>clay (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горка</td>
+<td>hillock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дверца</td>
+<td>small door, car door</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девяносто</td>
+<td>ninety</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>демонстрация</td>
+<td>demonstration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достояние</td>
+<td>property</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>драгоценность (f)</td>
+<td>jewel; something valuable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дрогнуть (р)</td>
+<td>to shake, waver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дрогнуть/про-</td>
+<td>to be chilled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружок</td>
+<td>friend (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ёлка</td>
+<td>fir tree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ерунда</td>
+<td>nonsense; trifling matter (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жечь/с- (+a)</td>
+<td>to burn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завершение</td>
+<td>completion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зависть (f)</td>
+<td>envy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завязывать/завязать (+a)</td>
+<td>to tie; start, get involved in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задыхаться/задохнуться</td>
+<td>to suffocate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заезжать/заехать</td>
+<td>to call in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заключительный</td>
+<td>final, concluding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>законодательство</td>
+<td>legislation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заливать/залить (+a +inst)</td>
+<td>to flood (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заносить/занести (+a)</td>
+<td>to bring in; raise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запрещать/запретить</td>
+<td>(+d) to forbid (s.o.); (+a) ban (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зрелище</td>
+<td>spectacle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иголка</td>
+<td>needle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избавляться/избавиться (от +g)</td>
+<td>to escape from; get rid of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изложение</td>
+<td>exposition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исследовать (i/p) (+a)</td>
+<td>to investigate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>историк</td>
+<td>historian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>касса</td>
+<td>cash desk; ticket-office</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клин</td>
+<td>wedge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>когда-либо</td>
+<td>at any time; ever</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контрольный</td>
+<td>checking, monitoring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крохотный</td>
+<td>tiny (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>купеческий</td>
+<td>merchant (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>манёвр</td>
+<td>manoeuvre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>математика</td>
+<td>mathematics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медицина</td>
+<td>medicine, medical studies</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мобилизовать (i/p) (+a)</td>
+<td>to mobilize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набор</td>
+<td>set, collection; recruitment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наглядно</td>
+<td>clearly, graphically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>налаживать/наладить (+a)</td>
+<td>to put in working order, set going, adjust, put in order</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хмуриться/на-</td>
+<td>to frown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>национальность (f)</td>
+<td>nationality, ethnic group</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недоумение</td>
+<td>bewilderment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неловкий</td>
+<td>awkward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непримиримый</td>
+<td>irreconcilable; uncompromising</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>овощи (m) (pl)</td>
+<td>vegetables</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ограда</td>
+<td>fence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>определённо</td>
+<td>definitely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оригинальный</td>
+<td>original</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осуществляться/осуществиться</td>
+<td>to be brought about, be fulfilled, be put into effect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отстаивать/отстоять (+a)</td>
+<td>to defend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отцовский</td>
+<td>paternal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переменять/переменить (+a)</td>
+<td>to change; transform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перила (pl)</td>
+<td>handrail, banisters</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печально</td>
+<td>sad(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вредить/по- (+d)</td>
+<td>to harm, damage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позор</td>
+<td>disgrace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полезно</td>
+<td>(it is) useful; usefully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поляк</td>
+<td>Pole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порыв</td>
+<td>gust; impulse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предназначать/предназначить (на +a/для +g)</td>
+<td>to intend for, earmark (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предпочитать (i) (+a +d)</td>
+<td>to prefer sth to sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прекращаться/прекратиться</td>
+<td>to cease</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преодоление</td>
+<td>overcoming</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преподаватель (m)</td>
+<td>teacher, lecturer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приглашение</td>
+<td>invitation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прикосновение</td>
+<td>contact</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присоединяться/присоединиться (к +d)</td>
+<td>to join, join (a group)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проделывать/проделать (+a)</td>
+<td>to make, do, accomplish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>профиль (m)</td>
+<td>profile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прыжок</td>
+<td>jump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равняться/с-</td>
+<td>(на +a) to emulate; (+d) be equal to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развёртываться/развернуться</td>
+<td>to unroll, unfold; expand; swing round (make a U-turn)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрез</td>
+<td>cut, section</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разъяснять/разъяснить (+a)</td>
+<td>to explain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>располагаться/расположиться</td>
+<td>to take up position; settle oneself; make os comfortable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расширяться/расшириться</td>
+<td>to broaden, expand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>режиссёр</td>
+<td>producer (theatre), director (cinema)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>религиозный</td>
+<td>religious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>робкий</td>
+<td>timid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рухнуть (р)</td>
+<td>to collapse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самостоятельно</td>
+<td>independently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>связанный</td>
+<td>connected; bound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сделка</td>
+<td>deal, transaction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скучать (i)</td>
+<td>to be bored; (по +d) miss (s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соблюдать/соблюсти (+a)</td>
+<td>to keep to, adhere to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совпадать/совпасть (с +inst)</td>
+<td>to coincide (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сознавать/сознать (+a)</td>
+<td>to acknowledge, be aware of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соскакивать/соскочить (с +g)</td>
+<td>to jump off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>состязание</td>
+<td>competition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стойка</td>
+<td>bar, counter; stance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стрелка</td>
+<td>arrow; hand (of clock)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>струна</td>
+<td>string (of instrument)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>супруга</td>
+<td>spouse (wife)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сходный</td>
+<td>similar; (coll) fair (of price)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тревожный</td>
+<td>worrying; worried</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туго</td>
+<td>tight(ly); difficult, hardly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убеждённый</td>
+<td>convinced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угрюмый</td>
+<td>sullen, gloomy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упрекать/упрекнуть (+a в +pr)</td>
+<td>to accuse (s.o. of), reproach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усердно</td>
+<td>conscientiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устало</td>
+<td>wearily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ух</td>
+<td>ooh!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>филиал</td>
+<td>branch (of organization)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>холодильник</td>
+<td>refrigerator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>худо</td>
+<td>bad, badly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цепляться/за- (за +a)</td>
+<td>to clutch (at); catch (on)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частота</td>
+<td>frequency</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чердак</td>
+<td>attic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чётко</td>
+<td>clearly, distinctly, precisely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>швырять/швырнуть (+a or +inst)</td>
+<td>to fling, hurl, throw (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шевелить/по- (+a or +inst)</td>
+<td>to stir, move</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шёлковый</td>
+<td>silk (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шерсть (f)</td>
+<td>wool; hair (of animal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экскурсия</td>
+<td>excursion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юбка</td>
+<td>skirt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ястреб</td>
+<td>hawk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авангард</td>
+<td>vanguard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>архив</td>
+<td>archive(s)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ахать/ахнуть</td>
+<td>to gasp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесспорный</td>
+<td>indisputable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бешено</td>
+<td>madly, furiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>былой</td>
+<td>former, past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вводиться/ввестись</td>
+<td>to be introduced, brought in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>великолепно</td>
+<td>splendid(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взвод</td>
+<td>platoon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>видимость (f)</td>
+<td>visibility; appearance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>висок</td>
+<td>temple (ear to forehead)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вкладывать/вложить (+a)</td>
+<td>to insert; invest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вкусный</td>
+<td>tasty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выбегать/выбежать (из +g)</td>
+<td>to run out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вымысел</td>
+<td>fabrication, fantasy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гад</td>
+<td>swine, rat (of person) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горючее (n) (adj)</td>
+<td>fuel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грамотный</td>
+<td>literate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>граната</td>
+<td>shell; grenade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>греметь/за-</td>
+<td>to roar, resound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>греть/по- (+a)</td>
+<td>to heat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дискуссия</td>
+<td>discussion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дичь (f)</td>
+<td>game, wildfowl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дрожащий</td>
+<td>trembling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ей-богу</td>
+<td>truly, indeed (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>желудок</td>
+<td>stomach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забивать/забить (+a)</td>
+<td>to begin to beat; hammer in; block; cram</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задевать/задеть (+a)</td>
+<td>to touch; catch (on sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замечательно</td>
+<td>remarkable; remarkably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>записной</td>
+<td>note (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>засуха</td>
+<td>drought</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затруднение</td>
+<td>difficulty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>значок</td>
+<td>badge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избыток</td>
+<td>abundance; surplus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изобретать/изобрести (+a)</td>
+<td>to invent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изумительный</td>
+<td>amazing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изящный</td>
+<td>elegant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исход</td>
+<td>outcome, end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>календарь (m)</td>
+<td>calendar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карточка</td>
+<td>card</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клясться/по-</td>
+<td>to swear, vow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коалиция</td>
+<td>coalition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комментарий</td>
+<td>commentary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>котелок</td>
+<td>pot; bowler hat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>круто</td>
+<td>steeply; sharply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>латинский</td>
+<td>Latin (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>литься/по-</td>
+<td>to pour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лихой</td>
+<td>dashing, daring; skilful (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маска</td>
+<td>mask</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мел</td>
+<td>chalk; whitewash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мировоззрение</td>
+<td>outlook, philosophy of life</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мучить/за-/из- (+a)</td>
+<td>to torment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мяч</td>
+<td>ball (for games)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наедине</td>
+<td>in private; alone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наибольший</td>
+<td>largest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намечаться/наметиться</td>
+<td>to be planned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насмешка</td>
+<td>taunt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недовольный (+inst)</td>
+<td>dissatisfied (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизменно</td>
+<td>invariably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немедленный</td>
+<td>immediate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необыкновенно</td>
+<td>unusually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непонятно</td>
+<td>incomprehensible/ly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нетерпение</td>
+<td>impatience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неудача</td>
+<td>failure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обозначать/обозначить (+a)</td>
+<td>to mark, designate, denote, mean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оглядывать/оглядеть (+a)</td>
+<td>to look over, inspect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ограничивать/ограничить (+a)</td>
+<td>to limit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одобрение</td>
+<td>approval</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ознакомляться/ознакомиться (с +inst)</td>
+<td>to acquaint oneself with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осуждать/осудить (+a)</td>
+<td>to condemn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отбивать/отбить (+a)</td>
+<td>to repulse; remove; break off; beat off, get by force</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отважный</td>
+<td>courageous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палатка</td>
+<td>tent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пена</td>
+<td>foam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>первобытный</td>
+<td>primitive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переживание</td>
+<td>experience, emotional experience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>петля</td>
+<td>loop; hinge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>платформа</td>
+<td>platform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плодородный</td>
+<td>fertile, fruitful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поверх (+g)</td>
+<td>above</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повседневный</td>
+<td>everyday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвёртываться/подвернуться</td>
+<td>(coll) to turn up, crop up; be rolled up; be sprained, twisted (foot)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делиться/по- (+inst c +inst)</td>
+<td>to share (sth with s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подлый</td>
+<td>mean, underhand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подполье</td>
+<td>underground organization; cellar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подражать (i) (+d)</td>
+<td>to imitate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покачиваться (i)</td>
+<td>to rock, sway</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покоиться (i) (на +pr)</td>
+<td>to rest, repose (on)</td>
+<td align="right">4</td>
+<td> </td>
+</tr>
+<tr>
+<td>покупка</td>
+<td>purchase</td>
+<td align="right">6</td>
+<td> </td>
+</tr>
+<tr>
+<td>полночь</td>
+<td>midnight</td>
+<td align="right">6</td>
+<td> </td>
+</tr>
+<tr>
+<td>помещаться/поместиться</td>
+<td>to be located; find space, go in, fit in; install os</td>
+<td align="right">7</td>
+<td> </td>
+</tr>
+<tr>
+<td>порок</td>
+<td>vice; defect</td>
+<td align="right">8</td>
+<td> </td>
+</tr>
+<tr>
+<td>портить/ис-</td>
+<td>to spoil, damage</td>
+<td align="right">8</td>
+<td> </td>
+</tr>
+<tr>
+<td>посещение (+g)</td>
+<td>visit (to), attendance (at)</td>
+<td align="right">9</td>
+<td> </td>
+</tr>
+<tr>
+<td>посредством (+g)</td>
+<td>by means of</td>
+<td align="right">9</td>
+<td> </td>
+</tr>
+<tr>
+<td>посылка</td>
+<td>parcel; errand; sending</td>
+<td align="right">10</td>
+<td> </td>
+</tr>
+<tr>
+<td>предлог</td>
+<td>pretext; preposition</td>
+<td align="right">11</td>
+<td> </td>
+</tr>
+<tr>
+<td>представляться/представиться</td>
+<td>to introduce os; present itself, occur</td>
+<td align="right">11</td>
+<td> </td>
+</tr>
+<tr>
+<td>прерывать/прервать (+a)</td>
+<td>to interrupt</td>
+<td align="right">12</td>
+<td> </td>
+</tr>
+<tr>
+<td>привязывать/привязать (+a к +d)</td>
+<td>to attach (sth to sth)</td>
+<td align="right">12</td>
+<td> </td>
+</tr>
+<tr>
+<td>приёмник</td>
+<td>radio set</td>
+<td align="right">12</td>
+<td> </td>
+</tr>
+<tr>
+<td>проза</td>
+<td>prose</td>
+<td align="right">13</td>
+<td> </td>
+</tr>
+<tr>
+<td>прокладывать/проложить (+a)</td>
+<td>to lay, construct (a road)</td>
+<td align="right">14</td>
+<td> </td>
+</tr>
+<tr>
+<td>прощальный</td>
+<td>farewell (adj), parting</td>
+<td align="right">14</td>
+<td> </td>
+</tr>
+<tr>
+<td>психология</td>
+<td>psychology</td>
+<td align="right">14</td>
+<td> </td>
+</tr>
+<tr>
+<td>путешествовать/по-</td>
+<td>to travel</td>
+<td align="right">15</td>
+<td> </td>
+</tr>
+<tr>
+<td>пятница</td>
+<td>Friday</td>
+<td align="right">15</td>
+<td> </td>
+</tr>
+<tr>
+<td>разглядеть (р) (+a)</td>
+<td>to make out, perceive</td>
+<td align="right">16</td>
+<td> </td>
+</tr>
+<tr>
+<td>раздел</td>
+<td>division; section</td>
+<td align="right">16</td>
+<td> </td>
+</tr>
+<tr>
+<td>разыскивать/разыскать (+a)</td>
+<td>to seek out, search for</td>
+<td align="right">17</td>
+<td> </td>
+</tr>
+<tr>
+<td>раскалённый</td>
+<td>scorching, burning hot</td>
+<td align="right">19</td>
+<td> </td>
+</tr>
+<tr>
+<td>распространённый</td>
+<td>widespread, common</td>
+<td align="right">19</td>
+<td> </td>
+</tr>
+<tr>
+<td>рассеивать/рассеять (+a)</td>
+<td>to scatter</td>
+<td align="right">19</td>
+<td> </td>
+</tr>
+<tr>
+<td>таять/рас-</td>
+<td>to melt</td>
+<td align="right">19</td>
+<td> </td>
+</tr>
+<tr>
+<td>растерянный</td>
+<td>perplexed, bewildered</td>
+<td align="right">20</td>
+<td> </td>
+</tr>
+<tr>
+<td>ревновать (i)</td>
+<td>to be jealous</td>
+<td align="right">21</td>
+<td> </td>
+</tr>
+<tr>
+<td>репутация</td>
+<td>reputation</td>
+<td align="right">21</td>
+<td> </td>
+</tr>
+<tr>
+<td>рисовать/на- (+a)</td>
+<td>to draw</td>
+<td align="right">21</td>
+<td> </td>
+</tr>
+<tr>
+<td>селение</td>
+<td>settlement, village</td>
+<td align="right">21</td>
+<td> </td>
+</tr>
+<tr>
+<td>силуэт</td>
+<td>silhouette</td>
+<td align="right">22</td>
+<td> </td>
+</tr>
+<tr>
+<td>синева</td>
+<td>blue colour, blueness</td>
+<td align="right">22</td>
+<td> </td>
+</tr>
+<tr>
+<td>скидывать/скинуть (+a)</td>
+<td>to throw off (coll)</td>
+<td align="right">22</td>
+<td> </td>
+</tr>
+<tr>
+<td>складка</td>
+<td>fold, crease</td>
+<td align="right">22</td>
+<td> </td>
+</tr>
+<tr>
+<td>склонный (к +d or +inf)</td>
+<td>inclined (to)</td>
+<td align="right">23</td>
+<td> </td>
+</tr>
+<tr>
+<td>слезать/слезть (с +g)</td>
+<td>to climb down, climb off</td>
+<td align="right">23</td>
+<td> </td>
+</tr>
+<tr>
+<td>совместно</td>
+<td>jointly</td>
+<td align="right">23</td>
+<td> </td>
+</tr>
+<tr>
+<td>содружество</td>
+<td>commonwealth</td>
+<td align="right">23</td>
+<td> </td>
+</tr>
+<tr>
+<td>стихия</td>
+<td>element, elemental force; chaos</td>
+<td align="right">23</td>
+<td> </td>
+</tr>
+<tr>
+<td>студенческий</td>
+<td>student (adj)</td>
+<td align="right">24</td>
+<td> </td>
+</tr>
+<tr>
+<td>стыдиться/по- (+g)</td>
+<td>to be ashamed of</td>
+<td align="right">27</td>
+<td> </td>
+</tr>
+<tr>
+<td>сумка</td>
+<td>bag, handbag</td>
+<td align="right">27</td>
+<td> </td>
+</tr>
+<tr>
+<td>сурово</td>
+<td>severely</td>
+<td align="right">27</td>
+<td> </td>
+</tr>
+<tr>
+<td>схватка</td>
+<td>fight, tussle</td>
+<td align="right">29</td>
+<td> </td>
+</tr>
+<tr>
+<td>темнеть/по-</td>
+<td>to get dark, go dark</td>
+<td align="right">29</td>
+<td> </td>
+</tr>
+<tr>
+<td>тётка</td>
+<td>aunt; (coll) woman</td>
+<td align="right">30</td>
+<td> </td>
+</tr>
+<tr>
+<td>техник</td>
+<td>technician</td>
+<td align="right">30</td>
+<td> </td>
+</tr>
+<tr>
+<td>тоненький</td>
+<td>slim</td>
+<td align="right">30</td>
+<td> </td>
+</tr>
+<tr>
+<td>топить/по- (+a)</td>
+<td>to stoke; heat; (p) sink (sth), drown (s.o.)</td>
+<td align="right">31</td>
+<td> </td>
+</tr>
+<tr>
+<td>трижды</td>
+<td>thrice, three times</td>
+<td align="right">31</td>
+<td> </td>
+</tr>
+<tr>
+<td>трубочка</td>
+<td>small pipe, tube</td>
+<td align="right">32</td>
+<td> </td>
+</tr>
+<tr>
+<td>трус</td>
+<td>coward</td>
+<td align="right">32</td>
+<td> </td>
+</tr>
+<tr>
+<td>трясти/по- (+a)</td>
+<td>to shake</td>
+<td align="right">32</td>
+<td>itt</td>
+</tr>
+<tr>
+<td>удаляться/удалиться</td>
+<td>to move away, withdraw</td>
+<td align="right">33</td>
+<td> </td>
+</tr>
+<tr>
+<td>уделять/уделить (+a +d)</td>
+<td>to allot, give</td>
+<td align="right">34</td>
+<td> </td>
+</tr>
+<tr>
+<td>узелок</td>
+<td>small knot; small bundle</td>
+<td align="right">35</td>
+<td> </td>
+</tr>
+<tr>
+<td>указанный</td>
+<td>indicated, specified</td>
+<td align="right">35</td>
+<td> </td>
+</tr>
+<tr>
+<td>украшение</td>
+<td>decoration</td>
+<td align="right">35</td>
+<td> </td>
+</tr>
+<tr>
+<td>уменьшаться/уменьшиться</td>
+<td>to diminish, decrease</td>
+<td align="right">36</td>
+<td> </td>
+</tr>
+<tr>
+<td>умница (m/f) </td>
+<td>clever person (coll)</td>
+<td align="right">37</td>
+<td> </td>
+</tr>
+<tr>
+<td>унылый</td>
+<td>sad, cheerless</td>
+<td align="right">37</td>
+<td> </td>
+</tr>
+<tr>
+<td>упрёк</td>
+<td>reproach</td>
+<td align="right">37</td>
+<td> </td>
+</tr>
+<tr>
+<td>усиливать/усилить (+a)</td>
+<td>to strengthen</td>
+<td align="right">37</td>
+<td> </td>
+</tr>
+<tr>
+<td>усталый</td>
+<td>tired</td>
+<td align="right">38</td>
+<td> </td>
+</tr>
+<tr>
+<td>утка</td>
+<td>duck; hoax</td>
+<td align="right">38</td>
+<td> </td>
+</tr>
+<tr>
+<td>факультет</td>
+<td>faculty</td>
+<td align="right">38</td>
+<td> </td>
+</tr>
+<tr>
+<td>целоваться/по-</td>
+<td>to kiss (each other)</td>
+<td align="right">40</td>
+<td> </td>
+</tr>
+<tr>
+<td>шутливо</td>
+<td>jokingly, facetiously</td>
+<td align="right">44</td>
+<td> </td>
+</tr>
+<tr>
+<td>электричество</td>
+<td>electricity</td>
+<td align="right">45</td>
+<td> </td>
+</tr>
+<tr>
+<td>яблоня</td>
+<td>apple-tree</td>
+<td align="right">45</td>
+<td> </td>
+</tr>
+<tr>
+<td>абстрактный</td>
+<td>abstract</td>
+<td align="right">45</td>
+<td> </td>
+</tr>
+<tr>
+<td>агитация</td>
+<td>agitation</td>
+<td align="right">46</td>
+<td> </td>
+</tr>
+<tr>
+<td>администрация</td>
+<td>administration</td>
+<td align="right">47</td>
+<td> </td>
+</tr>
+<tr>
+<td>аккуратный</td>
+<td>exact, punctual; tidy</td>
+<td align="right">44</td>
+<td> </td>
+</tr>
+<tr>
+<td>армянский</td>
+<td>Armenian (adj)</td>
+<td align="right">32</td>
+<td> </td>
+</tr>
+<tr>
+<td>бережно</td>
+<td>carefully</td>
+<td align="right">24</td>
+<td> </td>
+</tr>
+<tr>
+<td>бродяга (m)</td>
+<td>tramp, down-and-out</td>
+<td align="right">20</td>
+<td> </td>
+</tr>
+<tr>
+<td>великан</td>
+<td>giant</td>
+<td align="right">20</td>
+<td> </td>
+</tr>
+<tr>
+<td>венгерский</td>
+<td>Hungarian</td>
+<td align="right">48</td>
+<td> </td>
+</tr>
+<tr>
+<td>вложение</td>
+<td>enclosure (in letter); investment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возникновение</td>
+<td>beginning, origin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волшебный</td>
+<td>magic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>враждебный</td>
+<td>hostile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вред</td>
+<td>harm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выборы (m pl)</td>
+<td>election</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гадость (f)</td>
+<td>filth; dirty trick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>геологический</td>
+<td>geological</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гимнастёрка</td>
+<td>soldier’s tunic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнёт</td>
+<td>oppression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>граф</td>
+<td>count (title)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>график</td>
+<td>graph; schedule</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грош</td>
+<td>half-kopeck, farthing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>губерния</td>
+<td>tsarist province (now область)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>демократ</td>
+<td>democrat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дорожный</td>
+<td>road (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>духовенство</td>
+<td>clergy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>едкий</td>
+<td>acrid, pungent; sarcastic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жадно</td>
+<td>greedily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жилище</td>
+<td>dwelling, habitation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заветный</td>
+<td>cherished, intimate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замена</td>
+<td>replacement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заново</td>
+<td>anew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>западноевропейский</td>
+<td>Western European</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запевать/запеть</td>
+<td>to start singing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затрачивать/затратить (+a)</td>
+<td>to spend, expend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звонкий</td>
+<td>ringing, clear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знаток</td>
+<td>expert</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ирония</td>
+<td>irony</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исповедь (f)</td>
+<td>confession</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кожаный</td>
+<td>leather (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колония</td>
+<td>colony</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конский</td>
+<td>horse (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конфета</td>
+<td>sweet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кружиться/за-</td>
+<td>to whirl, spin round; begin to spin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кто-либо</td>
+<td>anyone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>купаться/ис-</td>
+<td>to bathe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кучка</td>
+<td>small heap; small group</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лапа</td>
+<td>paw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>липа</td>
+<td>lime tree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ловушка</td>
+<td>trap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лопаться/лопнуть</td>
+<td>to burst</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любопытно</td>
+<td>curiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>материк</td>
+<td>mainland</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мгновенно</td>
+<td>instantaneously, instantly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метель (f)</td>
+<td>snowstorm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мостовая (f)</td>
+<td>roadway</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мышка</td>
+<td>armpit; mouse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наводить/навести (+a)</td>
+<td>to guide (to); evoke, cause</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>налог</td>
+<td>tax</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напряжённость (f)</td>
+<td>tension</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>национализм</td>
+<td>nationalism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неверно</td>
+<td>false(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>негодяй</td>
+<td>rascal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недаром</td>
+<td>not for nothing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недоверие</td>
+<td>mistrust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некто</td>
+<td>someone, a certain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ненужный</td>
+<td>unnecessary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непререкаемый</td>
+<td>unquestionable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новинка</td>
+<td>novelty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обедать/по-</td>
+<td>to dine, have a meal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обрываться/оборваться</td>
+<td>to snap; stop suddenly; stop short</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образованный</td>
+<td>educated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оживление</td>
+<td>excitement, animation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>относительный</td>
+<td>relative (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отныне</td>
+<td>henceforth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отодвигать/отодвинуть (+a)</td>
+<td>to move aside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчаянно</td>
+<td>desperately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>официант</td>
+<td>waiter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оформление</td>
+<td>registration; putting in required form</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пальма</td>
+<td>palm tree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>патриотизм</td>
+<td>patriotism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>педагогический</td>
+<td>pedagogical, education (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перебирать/перебрать (+a)</td>
+<td>to sort out; look through; go over; sort through; to take in excess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переписка</td>
+<td>correspondence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перерезать (i) (+a)</td>
+<td>to cut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печаль (f)</td>
+<td>sorrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плюс</td>
+<td>plus; advantage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плясать/с-</td>
+<td>to dance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погреб</td>
+<td>cellar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подмигивать/подмигнуть (+d)</td>
+<td>to wink (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подсчёт</td>
+<td>calculation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подъезд</td>
+<td>entrance, doorway</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покорно</td>
+<td>humbly, obediently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полвека</td>
+<td>half a century</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поправка</td>
+<td>correction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>попросту</td>
+<td>simply (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>последовательность (f)</td>
+<td>sequence; consistency</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смеяться/по-</td>
+<td>to laugh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посредине (+g)</td>
+<td>in the middle (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пояснять/пояснить (+a)</td>
+<td>to explain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правильность (f)</td>
+<td>correctness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превосходство</td>
+<td>superiority</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предъявлять/предъявить (+a +d)</td>
+<td>to show, present (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>придерживаться (i) (+g)</td>
+<td>to keep to, adhere to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прилетать/прилететь</td>
+<td>to arrive (by air)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примесь (f)</td>
+<td>admixture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>провокация</td>
+<td>provocation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проповедь (f)</td>
+<td>sermon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пророк</td>
+<td>prophet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противоречить (i) (+d)</td>
+<td>to contradict (s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>процветание</td>
+<td>flourishing; prosperity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>птичий</td>
+<td>bird’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пьянство</td>
+<td>drunkenness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радуга</td>
+<td>rainbow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>громить/раз- (+a)</td>
+<td>to rout; wreck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскрываться/раскрыться</td>
+<td>to open; be revealed, open up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расправа</td>
+<td>reprisal; harsh treatment; punishment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассматриваться (i)</td>
+<td>to be considered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ресница</td>
+<td>eyelash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ритм</td>
+<td>rhythm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыбный</td>
+<td>fish (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сбиваться/сбиться</td>
+<td>to slip; go wrong, get confused; huddle together</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>своевременный</td>
+<td>timely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдержанный</td>
+<td>restrained</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>склоняться/склониться</td>
+<td>to bend, bow; be declined</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скотина</td>
+<td>cattle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сноха</td>
+<td>daughter-in-law (of husband’s father)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сообщаться/сообщиться</td>
+<td>to be communicated; communicate with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прогноз</td>
+<td>forecast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спираль (f)</td>
+<td>spiral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>справка</td>
+<td>piece of information; certificate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спрос</td>
+<td>demand (opposite of supply)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сражаться/сразиться (с +inst)</td>
+<td>to fight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>топать/топнуть</td>
+<td>to stamp (one’s feet); (coll) go (=идти)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трибуна</td>
+<td>platform; stand (in stadium)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трястись (i)</td>
+<td>to shake; tremble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тусклый</td>
+<td>dim</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тьфу</td>
+<td>(euphemism for spitting; expressing dislike or scorn) yuk!, ugh!, pah! (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убедительный</td>
+<td>convincing; earnest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удача</td>
+<td>success</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ускорение</td>
+<td>acceleration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>успокаивать/успокоить (+a)</td>
+<td>to calm, soothe, quieten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уступка</td>
+<td>concession</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фактически</td>
+<td>in fact; practically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>церемония</td>
+<td>ceremony</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цирк</td>
+<td>circus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четверг</td>
+<td>Thursday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чувствоваться/по-</td>
+<td>to be felt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудесно</td>
+<td>wonderfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шептаться (i)</td>
+<td>to whisper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шумно</td>
+<td>noisily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>электроэнергия</td>
+<td>electric power</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>элементарный</td>
+<td>elementary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>энергичный</td>
+<td>energetic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>энтузиазм</td>
+<td>enthusiasm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этак</td>
+<td>this way, thus; approximately (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безупречный</td>
+<td>irreproachable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безусловный</td>
+<td>unconditional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>берёзка</td>
+<td>little birch tree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесполезно</td>
+<td>uselessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>биологический</td>
+<td>biological</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бор</td>
+<td>pine wood, coniferous forest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>борщ</td>
+<td>borsch, beetroot soup</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>борющийся</td>
+<td>struggling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бочка</td>
+<td>barrel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выявлять/выявить (+a)</td>
+<td>to reveal, expose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бюджет</td>
+<td>budget</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валять (i)</td>
+<td>to drag; to roll</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верность (f)</td>
+<td>faithfulness, loyalty; truth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вертикальный</td>
+<td>vertical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взбираться/взобраться</td>
+<td>to climb up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вздор</td>
+<td>nonsense  (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виться/с-</td>
+<td>to wind, twine, twist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вишнёвый</td>
+<td>cherry (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влага</td>
+<td>damp, moisture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влюбляться/влюбиться (в +a)</td>
+<td>to fall in love with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возглавлять/возглавить (+a)</td>
+<td>to head, lead</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возмущённо</td>
+<td>indignantly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волевой</td>
+<td>strong-willed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воображать/вообразить</td>
+<td>to imagine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воронка</td>
+<td>funnel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воспринимать/воспринять (+a)</td>
+<td>to perceive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вскидывать/вскинуть (+a на +a)</td>
+<td>to throw (upwards, up onto)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вторник</td>
+<td>Tuesday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вуз</td>
+<td>university, institute (higher education establishment)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вылезать/вылезть</td>
+<td>to climb out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выручать/выручить (+a)</td>
+<td>to rescue; make (money)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высадка</td>
+<td>landing, disembarkation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высылать/выслать (+a)</td>
+<td>to send out; exile, deport</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>головной</td>
+<td>head (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горечь (f)</td>
+<td>bitterness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горох</td>
+<td>peas</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грузовой</td>
+<td>goods (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двенадцатый</td>
+<td>twelfth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девичий</td>
+<td>girl’s, maiden’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делить/раз- (+a)</td>
+<td>to divide, share</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деваться/деться</td>
+<td>to get to, vanish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>досрочно</td>
+<td>ahead of schedule</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достигнутый</td>
+<td>achieved</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жар</td>
+<td>heat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>законодательный</td>
+<td>legislative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избранный</td>
+<td>selected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>измерение</td>
+<td>measurement; dimension</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>индийский</td>
+<td>Indian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инспектор</td>
+<td>inspector</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интервью (n indecl)</td>
+<td>interview</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искоса</td>
+<td>sideways (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искусственно</td>
+<td>artificially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истёкший</td>
+<td>past, preceding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>канадский</td>
+<td>Canadian (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>керосин</td>
+<td>kerosene</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колокольня</td>
+<td>bell-tower</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копаться (i)</td>
+<td>to rummage; dawdle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>критик</td>
+<td>critic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лауреат</td>
+<td>prize-winner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любезный</td>
+<td>obliging</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любимец</td>
+<td>favourite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мелькать/мелькнуть</td>
+<td>to be (briefly) visible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миссия</td>
+<td>mission</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многолетний</td>
+<td>lasting many years; long-lasting, perennial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>могущественный</td>
+<td>powerful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мода</td>
+<td>fashion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молиться/по-</td>
+<td>to pray</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мудрость (f)</td>
+<td>wisdom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наполовину</td>
+<td>half, by half</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настоящее</td>
+<td>the present</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недовольно</td>
+<td>discontentedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необычайно</td>
+<td>exceptionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нива</td>
+<td>field, cornfield</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ноготь (m)</td>
+<td>fingernail, toenail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ноздря</td>
+<td>nostril</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>носок</td>
+<td>sock; toe of boot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нянька</td>
+<td>nurse (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обсуждаться/обсудиться</td>
+<td>to be discussed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огненный</td>
+<td>fiery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ожидаться (i)</td>
+<td>to be expected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>око</td>
+<td>eye (bookish, poetic)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оперативный</td>
+<td>energetic; operative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>описанный</td>
+<td>described</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оплата</td>
+<td>payment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организованный</td>
+<td>organized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осваивать/освоить (+a)</td>
+<td>to master</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остро</td>
+<td>sharply, intensely</td>
+<td align="right">49</td>
+<td> </td>
+</tr>
+<tr>
+<td>отвратительный</td>
+<td>repulsive</td>
+<td align="right">2</td>
+<td> </td>
+</tr>
+<tr>
+<td>отделка</td>
+<td>finishing, fitting-out, decoration</td>
+<td align="right">23</td>
+<td> </td>
+</tr>
+<tr>
+<td>открытка</td>
+<td>postcard</td>
+<td align="right">23</td>
+<td> </td>
+</tr>
+<tr>
+<td>отрывать/оторвать (+a от +g)</td>
+<td>to tear off, tear away</td>
+<td align="right">28</td>
+<td> </td>
+</tr>
+<tr>
+<td>отступление</td>
+<td>digression; retreat</td>
+<td align="right">46</td>
+<td> </td>
+</tr>
+<tr>
+<td>отчасти</td>
+<td>partly</td>
+<td align="right">46</td>
+<td> </td>
+</tr>
+<tr>
+<td>очертание</td>
+<td>outline</td>
+<td align="right">34</td>
+<td> </td>
+</tr>
+<tr>
+<td>пепел</td>
+<td>ash, ashes</td>
+<td align="right">50</td>
+<td> </td>
+</tr>
+<tr>
+<td>передаваться/передаться</td>
+<td>to be transmitted</td>
+<td align="right">14</td>
+<td> </td>
+</tr>
+<tr>
+<td>перелистывать/перелистать (+a)</td>
+<td>to leaf through</td>
+<td align="right">26</td>
+<td> </td>
+</tr>
+<tr>
+<td>петух</td>
+<td>cock</td>
+<td align="right">24</td>
+<td> </td>
+</tr>
+<tr>
+<td>планировать/за- (+a)</td>
+<td>to plan</td>
+<td align="right">3</td>
+<td> </td>
+</tr>
+<tr>
+<td>подавляющий</td>
+<td>overwhelming</td>
+<td align="right">12</td>
+<td> </td>
+</tr>
+<tr>
+<td>подбегать/подбежать (к +d)</td>
+<td>to run up (to)</td>
+<td align="right">16</td>
+<td> </td>
+</tr>
+<tr>
+<td>поднос</td>
+<td>tray</td>
+<td align="right">27</td>
+<td> </td>
+</tr>
+<tr>
+<td>поднятый</td>
+<td>raised</td>
+<td align="right">27</td>
+<td> </td>
+</tr>
+<tr>
+<td>подозрительно</td>
+<td>suspiciously</td>
+<td align="right">29</td>
+<td> </td>
+</tr>
+<tr>
+<td>показание</td>
+<td>testimony; reading (on instrument)</td>
+<td align="right">31</td>
+<td> </td>
+</tr>
+<tr>
+<td>поливать/полить (+inst +a)</td>
+<td>to pour (liquid on sth)</td>
+<td align="right">32</td>
+<td> </td>
+</tr>
+<tr>
+<td>помиловать (р) (+a)</td>
+<td>to pardon</td>
+<td align="right">32</td>
+<td> </td>
+</tr>
+<tr>
+<td>по-новому</td>
+<td>in a new way</td>
+<td align="right">32</td>
+<td> </td>
+</tr>
+<tr>
+<td>поставка</td>
+<td>delivery</td>
+<td align="right">33</td>
+<td> </td>
+</tr>
+<tr>
+<td>тушить/по- (+a)</td>
+<td>to extinguish; stew</td>
+<td align="right">33</td>
+<td> </td>
+</tr>
+<tr>
+<td>почерк</td>
+<td>handwriting</td>
+<td align="right">35</td>
+<td> </td>
+</tr>
+<tr>
+<td>почтённый</td>
+<td>respected</td>
+<td align="right">35</td>
+<td> </td>
+</tr>
+<tr>
+<td>пощада</td>
+<td>mercy</td>
+<td align="right">35</td>
+<td> </td>
+</tr>
+<tr>
+<td>предлагаться/предложиться</td>
+<td>to be offered</td>
+<td align="right">36</td>
+<td> </td>
+</tr>
+<tr>
+<td>предполагаться/предположиться</td>
+<td>to be proposed, intended</td>
+<td align="right">38</td>
+<td> </td>
+</tr>
+<tr>
+<td>представать/предстать (перед +inst)</td>
+<td>to appear (before)</td>
+<td align="right">38</td>
+<td> </td>
+</tr>
+<tr>
+<td>прелесть (f)</td>
+<td>charm</td>
+<td align="right">40</td>
+<td> </td>
+</tr>
+<tr>
+<td>пресс-конференция</td>
+<td>press conference</td>
+<td align="right">40</td>
+<td> </td>
+</tr>
+<tr>
+<td>прижиматься/прижаться (к +d)</td>
+<td>to squeeze up against; press os (to), snuggle up (to)</td>
+<td align="right">43</td>
+<td> </td>
+</tr>
+<tr>
+<td>приманка</td>
+<td>bait; inducement</td>
+<td align="right">44</td>
+<td> </td>
+</tr>
+<tr>
+<td>принципиально</td>
+<td>on principle; fundamentally</td>
+<td align="right">45</td>
+<td> </td>
+</tr>
+<tr>
+<td>приобретение</td>
+<td>acquisition</td>
+<td align="right">45</td>
+<td> </td>
+</tr>
+<tr>
+<td>приоткрывать/приоткрыть (+a)</td>
+<td>to open slightly</td>
+<td align="right">46</td>
+<td> </td>
+</tr>
+<tr>
+<td>прихожая</td>
+<td>entrance hall</td>
+<td align="right">46</td>
+<td> </td>
+</tr>
+<tr>
+<td>произвол</td>
+<td>arbitrariness, abuse of power</td>
+<td align="right">47</td>
+<td> </td>
+</tr>
+<tr>
+<td>противоречивый</td>
+<td>contradictory</td>
+<td align="right">47</td>
+<td> </td>
+</tr>
+<tr>
+<td>путём (+g)</td>
+<td>by means of</td>
+<td align="right">48</td>
+<td> </td>
+</tr>
+<tr>
+<td>различать/различить (+a)</td>
+<td>to distinguish</td>
+<td align="right">49</td>
+<td> </td>
+</tr>
+<tr>
+<td>разлагать/разложить</td>
+<td>to analyze, decompose, expand, corrupt, demoralize, break down</td>
+<td align="right">49</td>
+<td> </td>
+</tr>
+<tr>
+<td>раскладывать/разложить</td>
+<td>to put away, lay, set up, distribute, lay out; spread</td>
+<td align="right">50</td>
+<td> </td>
+</tr>
+<tr>
+<td>разлука</td>
+<td>separation</td>
+<td align="right">50</td>
+<td> </td>
+</tr>
+<tr>
+<td>ранее</td>
+<td>earlier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рациональный</td>
+<td>rational</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резолюция</td>
+<td>resolution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ремонтный</td>
+<td>repair (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>римский</td>
+<td>Roman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рисковать/рискнуть (+inst)</td>
+<td>to risk, take a risk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>росток</td>
+<td>sprout, shoot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рулевой</td>
+<td>steering (adj); helmsman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свинец</td>
+<td>lead (metal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семилетний</td>
+<td>seven-year; seven-year-old</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скользить (i)</td>
+<td>to slide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сколько-нибудь (+g)</td>
+<td>any, any quantity of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скопление</td>
+<td>accumulation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смертельный</td>
+<td>fatal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снабжать/снабдить (+a +inst)</td>
+<td>to supply (s.o. with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собственник</td>
+<td>owner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совокупность (f)</td>
+<td>totality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>созданный</td>
+<td>created</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соломенный</td>
+<td>straw (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочувствовать (i) (+d)</td>
+<td>to sympathize (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>специфический</td>
+<td>specific</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ставка</td>
+<td>rate; stake (gambling); headquarters (mil)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стихотворение</td>
+<td>poem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столичный</td>
+<td>capital (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столовый</td>
+<td>table (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суета</td>
+<td>bustle, fuss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сукин</td>
+<td>bitch’s (poss adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>танцевальный</td>
+<td>dance (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>театральный</td>
+<td>theatrical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>типография</td>
+<td>printing-house, press</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тыкать/ткнуть (+inst в +a or +a в +a)</td>
+<td>to prod, jab (sth into sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>товарищеский</td>
+<td>comradely; friendly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трагедия</td>
+<td>tragedy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трепать/по-</td>
+<td>to rumple, tousle; pat; (coll) natter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тропинка</td>
+<td>path</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тупой</td>
+<td>blunt; stupid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упор</td>
+<td>prop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>употребление</td>
+<td>use</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утрачивать/утратить (+a)</td>
+<td>to lose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учащийся</td>
+<td>student (active participle)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фельетон</td>
+<td>satirical article</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хаос</td>
+<td>chaos</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хищник</td>
+<td>beast of prey; bird of prey; predator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хохот</td>
+<td>loud laughter, guffaw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хранение</td>
+<td>keeping; storage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>храниться/со-</td>
+<td>to be kept</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хребет</td>
+<td>spine; ridge; mountain range</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хрупкий</td>
+<td>fragile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целина</td>
+<td>virgin soil, virgin land</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целое</td>
+<td>the whole; integer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цепочка</td>
+<td>small chain; series</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чересчур</td>
+<td>too, excessive(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чернила (n pl)</td>
+<td>ink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чёткий</td>
+<td>clear, precise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чистить/по- (+a)</td>
+<td>to clean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шестнадцать</td>
+<td>sixteen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щи (pl)</td>
+<td>cabbage soup</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экономист</td>
+<td>economist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эксплуатировать (i)</td>
+<td>to exploit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авось</td>
+<td>perhaps</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авторский</td>
+<td>author’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>актриса</td>
+<td>actress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>алый</td>
+<td>scarlet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ангел</td>
+<td>angel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>анкета</td>
+<td>questionnaire, form</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>античный</td>
+<td>ancient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арбуз</td>
+<td>water melon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>банкир</td>
+<td>banker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бегство</td>
+<td>flight, escape</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бедность (f)</td>
+<td>poverty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бензин</td>
+<td>petrol</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесплатный</td>
+<td>free (of charge)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспокойно</td>
+<td>restlessly; disturbing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блистательный</td>
+<td>brilliant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болезненный</td>
+<td>unhealthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брызги (f) (pl)</td>
+<td>spray</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдобавок (к +d)</td>
+<td>in addition (to) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веление</td>
+<td>command</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вероятный</td>
+<td>probable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>владыка (m)</td>
+<td>master, ruler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возбуждённый</td>
+<td>aroused, excited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восприятие</td>
+<td>perception</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вражеский</td>
+<td>enemy (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всевозможный</td>
+<td>all kinds of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вытеснять/вытеснить (+a)</td>
+<td>to force out, displace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнилой</td>
+<td>rotten, decayed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гонять/по- (+a)</td>
+<td>to drive, make (s.o.) run</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>государь (m)</td>
+<td>sovereign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грабить/о- (+a)</td>
+<td>to rob, pillage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двигать/двинуть (+a or +inst)</td>
+<td>to move, set in motion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дворянин</td>
+<td>nobleman, member of the gentry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деятельный</td>
+<td>active</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добровольный</td>
+<td>voluntary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доносить/донести (+a до +g) </td>
+<td>to carry (sth to); (+a +d) report (sth to s.o.); (на +a) inform (on s.o.), denounce (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружина</td>
+<td>militia</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дымок</td>
+<td>puff of smoke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жевать/про- (+a)</td>
+<td>to chew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>житейский</td>
+<td>worldly; everyday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загонять/загнать (+a)</td>
+<td>to drive in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заголовок</td>
+<td>title, heading</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душить/за- (+a)</td>
+<td>to strangle, suffocate, stifle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зажимать/зажать (+a)</td>
+<td>to squeeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заиграть (р) (+a)</td>
+<td>to start playing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заказывать/заказать (+a)</td>
+<td>to order (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закусывать/закусить</td>
+<td>to have a snack, have some food</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запрещение</td>
+<td>prohibition, ban</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земляной</td>
+<td>earthen, earth (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знакомить/по- (+a с +inst)</td>
+<td>to introduce (s.o. to s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>известность (f)</td>
+<td>fame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издеваться (i) (над +inst)</td>
+<td>to mock (s.o.), make fun of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполнительный</td>
+<td>executive (adj); efficient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кабина</td>
+<td>cabin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>камин</td>
+<td>fireplace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кампания</td>
+<td>campaign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каток</td>
+<td>skating-rink; roller</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колбаса</td>
+<td>sausage, salami</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колос</td>
+<td>ear (of corn)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>командировка</td>
+<td>business trip, study trip, assignment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>костыль (m)</td>
+<td>crutch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крепнуть/о-</td>
+<td>to get stronger, get stronger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кружка</td>
+<td>mug, tankard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крупинка</td>
+<td>grain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крыться/по- (в +pr)</td>
+<td>to lie (in), be concealed (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кубок</td>
+<td>goblet, bowl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лишаться/лишиться (+g)</td>
+<td>to be deprived of, lose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лужа</td>
+<td>puddle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мальчишеский</td>
+<td>boyish; childish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мёд</td>
+<td>honey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мигать/мигнуть</td>
+<td>to blink, wink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молоток</td>
+<td>hammer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молочный</td>
+<td>milk (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мрачно</td>
+<td>gloomily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мысленно</td>
+<td>mentally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наваливаться/навалиться (на +a)</td>
+<td>to fall on; lean on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надзор (за +inst)</td>
+<td>supervision; surveillance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надлежащий</td>
+<td>proper, fitting, appropriate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наказывать/наказать (+a)</td>
+<td>to punish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накидывать/накинуть (+a)</td>
+<td>to throw on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нападать/напасть (на +a)</td>
+<td>to attack; come upon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>направленный</td>
+<td>directed; purposeful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пугать/на- (+a)</td>
+<td>to frighten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарастать/нарасти</td>
+<td>to grow (on); increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насущный</td>
+<td>vital, essential</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начисто</td>
+<td>completely (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незаметный</td>
+<td>imperceptible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизменный</td>
+<td>invariable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неограниченный</td>
+<td>unlimited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нервно</td>
+<td>nervously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неустанно</td>
+<td>tirelessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обзор</td>
+<td>survey, review</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окрашивать/окрасить (+a)</td>
+<td>to paint, colour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окрестность (f)</td>
+<td>environs, vicinity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрицательно</td>
+<td>negatively; unfavourably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отсталый</td>
+<td>backward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>официально</td>
+<td>officially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пень (m)</td>
+<td>tree-stump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переезжать/переехать</td>
+<td>to drive across; move (house)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пересекать/пересечь (+a)</td>
+<td>to intersect, cross, cut across</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>писаться (i)</td>
+<td>to be written; be spelt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плевать/плюнуть</td>
+<td>to spit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поговорка</td>
+<td>saying, proverbial phrase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>губить/по- (+a)</td>
+<td>to destroy, ruin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подавленный</td>
+<td>suppressed; depressed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подносить/поднести (+a)</td>
+<td>to take to; (+d) present to, bring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подъезжать/подъехать (к +d)</td>
+<td>to drive up to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покупатель (m)</td>
+<td>customer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полнота</td>
+<td>fullness; stoutness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поминать/помянуть (+a)</td>
+<td>to mention; recall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-настоящему</td>
+<td>properly, in the right way</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>популярность (f)</td>
+<td>popularity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поучительный</td>
+<td>instructive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почтительно</td>
+<td>respectfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превосходный</td>
+<td>superb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предвидеть (i) (+a)</td>
+<td>to foresee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>престол</td>
+<td>throne</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привычно</td>
+<td>in the customary way, as usual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приготовление</td>
+<td>preparation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приезжий</td>
+<td>non-resident, passing through, visiting; (as noun) newcomer, visitor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приключение</td>
+<td>adventure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проспект</td>
+<td>avenue (wide street)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятиться/по-</td>
+<td>to back away, step back</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равнодушно</td>
+<td>with indifference</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радовать/об- (+a)</td>
+<td>to gladden, please</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разгар</td>
+<td>height, climax</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздражать/раздражить (+a)</td>
+<td>to irritate, annoy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разочарование</td>
+<td>disappointment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскидываться/раскинуться</td>
+<td>to stretch out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распад</td>
+<td>disintegration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рёв</td>
+<td>roar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>революционер</td>
+<td>revolutionary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родственный</td>
+<td>family (adj), kindred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рычать/за-</td>
+<td>to growl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самодеятельность (f)</td>
+<td>individual initiative; amateur activity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сбыт</td>
+<td>sale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>варить/сварить (+a)</td>
+<td>to boil, cook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сваривать/сварить</td>
+<td>to weld</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свинцовый</td>
+<td>lead (adj), leaden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сговариваться/сговориться (с +inst)</td>
+<td>to make an arrangement (with s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдвиг</td>
+<td>shift, displacement; change, improvement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>седло</td>
+<td>saddle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сжимать/сжать (+a)</td>
+<td>to squeeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скупой</td>
+<td>miserly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершенство</td>
+<td>perfection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>созревать/созреть</td>
+<td>to mature, ripen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солёный</td>
+<td>salted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солидарность (f)</td>
+<td>solidarity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопровождаться (i) (+inst)</td>
+<td> to be accompanied by</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопротивляться (i) (+d)</td>
+<td>to resist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срываться/сорваться</td>
+<td>to break away; (coll) fail, go wrong</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ссориться/по- (с +inst)</td>
+<td>to quarrel (with s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стихийный</td>
+<td>elemental; spontaneous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страстно</td>
+<td>passionately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>страстный</td>
+<td>passionate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строчка</td>
+<td>line (of text); stitch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стягивать/стянуть (+a)</td>
+<td>to tighten; pull off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>табуретка</td>
+<td>stool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тайком</td>
+<td>secretly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>творение</td>
+<td>creation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>текущий</td>
+<td>current (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>терпение</td>
+<td>patience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тополь (m)</td>
+<td>poplar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тост</td>
+<td>toast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увозить/увезти (+a)</td>
+<td>to take away (by transport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увлекательный</td>
+<td>fascinating, absorbing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увы</td>
+<td>alas!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удивлять/удивить (+a)</td>
+<td>to surprise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устав</td>
+<td>regulations, statutes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>установленный</td>
+<td>established, prescribed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устоять (р)</td>
+<td>to remain standing; hold out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>учебник</td>
+<td>textbook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлопоты (pl)</td>
+<td>trouble, efforts</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цемент</td>
+<td>cement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чайный</td>
+<td>tea (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чинить/по- (+a)</td>
+<td>to repair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чуять/по- (+a)</td>
+<td>to scent, smell; sense, feel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ширина</td>
+<td>width; gauge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эпизод</td>
+<td>episode</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яростный</td>
+<td>furious, frenzied</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авария</td>
+<td>breakdown; accident</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авторитетный</td>
+<td>authoritative, trustworthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>адский</td>
+<td>hellish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>актив</td>
+<td>the activists; assets (financial)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аппетит</td>
+<td>appetite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арабский</td>
+<td>Arab (adj), Arabian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>астрономический</td>
+<td>astronomic(al)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>балка</td>
+<td>beam, girder; gully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безжалостно</td>
+<td>pitilessly, ruthlessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беззвучно</td>
+<td>soundlessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безоговорочный</td>
+<td>unconditional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белокурый</td>
+<td>blond, fair-haired</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>берёзовый</td>
+<td>birch (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесконечность (f)</td>
+<td>infinity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессильный</td>
+<td>powerless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессовестный</td>
+<td>shameless, unscrupulous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>битый</td>
+<td>beaten; broken; whipped</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бородка</td>
+<td>small beard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бывало</td>
+<td>used to, would (repetition) (particle) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ванна</td>
+<td>bath</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вежливый</td>
+<td>polite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верблюд</td>
+<td>camel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вертикально</td>
+<td>vertically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виновник</td>
+<td>culprit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внутрь (+g)</td>
+<td>inside; inwards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возглас</td>
+<td>exclamation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возрождение</td>
+<td>rebirth, revival, renaissance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восторженный</td>
+<td>enthusiastic, rapturous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восхищение</td>
+<td>rapture, admiration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впадина</td>
+<td>hollow, depression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выкладывать/выложить (+a)</td>
+<td>to lay out, put out, set out; (+a +inst) face, cover (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вырезать (+a)</td>
+<td>to cut out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гасить/по- (+a)</td>
+<td>to put out, extinguish; cancel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гибнуть/по-</td>
+<td>to perish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глобус</td>
+<td>globe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глубинный</td>
+<td>deep; deep-water; remote</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гневный</td>
+<td>angry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>громада</td>
+<td>mass, bulk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грубость (f)</td>
+<td>rudeness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грызть (i) (+a)</td>
+<td>to gnaw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диалог</td>
+<td>dialogue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деловито</td>
+<td>in a businesslike way, energetically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>демонстрировать (i/p)</td>
+<td>to demonstrate; (+a) show, display</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дёшево</td>
+<td>cheaply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диапазон</td>
+<td>range, scope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дипломатия</td>
+<td>diplomacy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доводиться/довестись (+d +inf)</td>
+<td>to chance to, manage to, have occasion to (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доживать/дожить (до +g)</td>
+<td>to live (till)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достопримечательность (f)</td>
+<td>sight, place worth seeing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>древность (f)</td>
+<td>antiquity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>желанный</td>
+<td>wished for, welcome</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>женатый</td>
+<td>married (of man)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жестокость (f)</td>
+<td>cruelty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забавный</td>
+<td>amusing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закреплять/закрепить (+a)</td>
+<td>to fasten, secure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запрещённый</td>
+<td>forbidden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запускать/запустить (+a)</td>
+<td>to launch, throw; start up; thrust; start</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застывать/застыть</td>
+<td>to harden, thicken, congeal; (coll) become stiff</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затевать/затеять (+a)</td>
+<td>to undertake, start, organize (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затихать/затихнуть</td>
+<td>to die down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>захват</td>
+<td>seizure, capture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>захватчик</td>
+<td>invader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зловещий</td>
+<td>ominous, sinister</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зрачок</td>
+<td>pupil (of eye)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>игла</td>
+<td>needle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изобретатель (m)</td>
+<td>inventor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>калоша or галоша</td>
+<td>galosh, overshoe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>камешек</td>
+<td>pebble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>караул</td>
+<td>guard, watch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каска</td>
+<td>helmet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кисть (f)</td>
+<td>bunch (fruit); brush; tassel; hand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клятва</td>
+<td>oath</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кое-кто</td>
+<td>somebody; certain people</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комедия</td>
+<td>comedy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кончик</td>
+<td>tip, point</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>критиковать (i) (+a)</td>
+<td>to criticize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крутиться (i)</td>
+<td>to turn, spin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крыть/по- (+a)</td>
+<td>to cover</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кубический</td>
+<td>cubic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>курносый</td>
+<td>snub-nosed (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лапоть (m)</td>
+<td>bast sandal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ласка</td>
+<td>caress; weasel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лев</td>
+<td>lion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ленивый</td>
+<td>lazy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лить (i) (+a)</td>
+<td>to pour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лук</td>
+<td>onions</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>местечко</td>
+<td>place; small town</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метаться (i)</td>
+<td>to rush about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>меховой</td>
+<td>fur (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>микроскоп</td>
+<td>microscope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молоденький</td>
+<td>young and attractive; very young</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монтаж</td>
+<td>assembling, installation, mounting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мудрый</td>
+<td>wise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>музыкант</td>
+<td>musician</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набивать/набить (+a +inst)</td>
+<td>to stuff (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наговаривать/наговорить (на +a) </td>
+<td>(coll) to slander s.o.; (+a or +g) say a lot of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нажимать/нажать (+a or на +a)</td>
+<td>to press</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намерен (+inf)</td>
+<td>intend (to) (short adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наслаждение</td>
+<td>physical pleasure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наследие</td>
+<td>legacy, heritage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наследство</td>
+<td>inheritance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настойчивость (f)</td>
+<td>persistence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настраивать/настроить (+a)</td>
+<td>to tune, adjust; (на +a) put s.o. in the mood (for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невероятный</td>
+<td>improbable; incredible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>негде</td>
+<td>there is nowhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недалёкий</td>
+<td>near; dim, dull-witted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недобрый</td>
+<td>hostile; evil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нейтральный</td>
+<td>neutral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необъятный</td>
+<td>immense, boundless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ниточка</td>
+<td>thread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облегчение</td>
+<td>(feeling of) relief; making lighter; simplification</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обозреватель (m)</td>
+<td>observer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обретать/обрести (+a)</td>
+<td>to find (bookish)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общение (с +inst)</td>
+<td>social intercourse, contact (with people)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оканчиваться/окончиться</td>
+<td>to end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оправдание</td>
+<td>justification; acquittal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опушка</td>
+<td>edge (of a forest)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>особа</td>
+<td>person; personage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отзыв</td>
+<td>opinion, response; review, criticism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отливать/отлить (+a)</td>
+<td>to pour off; cast (metal); (no p) (+inst) be streaked with (a colour)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отмечаться/отметиться</td>
+<td>to register, sign one’s name</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отыскивать/отыскать (+a)</td>
+<td>to seek out, seek and find</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пассажирский</td>
+<td>passenger (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>первоначальный</td>
+<td>initial, original</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>первостепенный</td>
+<td>paramount</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переглядываться/переглянуться (с +inst)</td>
+<td>to exchange glances (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перспективный</td>
+<td>promising, having prospects; long-term</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пирог</td>
+<td>pie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>питать/на- (+a)</td>
+<td>to feed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повидать (р) (+a)</td>
+<td>to see (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подаваться/податься</td>
+<td>to move, shift; be served (of food)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подготовительный</td>
+<td>preparatory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позабывать/позабыть (+a оr о +pr)</td>
+<td>to forget (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коситься/по-</td>
+<td>to become crooked; (на +a) look sideways at</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поликлиника</td>
+<td>clinic, health centre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полководец</td>
+<td>military leader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полушубок</td>
+<td>half-length sheepskin coat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посольство</td>
+<td>embassy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предание</td>
+<td>legend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предпочитать/предпочесть (+a +d)</td>
+<td>to prefer (sth to sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предрассудок</td>
+<td>prejudice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибытие</td>
+<td>arrival (bookish)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>призвание</td>
+<td>calling, vocation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примитивный</td>
+<td>primitive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принадлежность (f)</td>
+<td>(к +d) membership (of); (pl) equipment, accessories</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принц</td>
+<td>prince</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присматриваться/присмотреться (к +d)</td>
+<td>to look closely (at); get used (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приспособлять/приспособить (+a)</td>
+<td>to adapt (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробегать/пробежать</td>
+<td>to run (past/through/a certain distance)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продаваться/продаться</td>
+<td>to be sold; sell os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продумывать/продумать</td>
+<td>to think through, over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прохладный</td>
+<td>cool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прощание</td>
+<td>farewell, parting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятнадцатый</td>
+<td>fifteenth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развивающийся</td>
+<td>developing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развязывать/развязать (+a)</td>
+<td>to untie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздавливать/раздавить (+a)</td>
+<td>to crush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размахивать (i) (+inst)</td>
+<td>to swing (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размышление</td>
+<td>reflection, thought</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ранение</td>
+<td>wounding, wound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распадаться/распасться</td>
+<td>to fall apart, break up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распахивать/распахнуть (+a)</td>
+<td>to throw open</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распускать/распустить (+a)</td>
+<td>to dismiss, disband; let out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расставлять/расставить (+a)</td>
+<td>to place; distribute, set out; move apart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рекомендация</td>
+<td>recommendation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рог</td>
+<td>horn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыбка</td>
+<td>small fish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыцарь (m)</td>
+<td>knight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>салфетка</td>
+<td>napkin; tissue; serviette</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сбегать/сбежать</td>
+<td>to run down, run away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдвигать/сдвинуть (+a)</td>
+<td>to shift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серебристый</td>
+<td>silvery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сигара</td>
+<td>cigar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>систематически</td>
+<td>systematically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скакать/по-</td>
+<td>to skip; gallop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скрипеть/про-</td>
+<td>to squeak, creak, crunch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скульптура</td>
+<td>sculpture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сложность (f)</td>
+<td>complexity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снаряжение</td>
+<td>equipment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снижать/снизить (+a)</td>
+<td>to lower, reduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершенствовать/у- (+a)</td>
+<td>to perfect, improve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>создатель (m)</td>
+<td>creator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сознательно</td>
+<td>consciously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сокол</td>
+<td>falcon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сокращаться/сократиться</td>
+<td>to decrease, be reduced, get shorter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сотый</td>
+<td>hundredth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соус</td>
+<td>sauce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочувствие</td>
+<td>sympathy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стонать (i)</td>
+<td>to groan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>странник</td>
+<td>wanderer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сугроб</td>
+<td>snowdrift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сулить/по- (+a)</td>
+<td>to promise (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>термин</td>
+<td>term (specialist word)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>терпеливо</td>
+<td>patiently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>террор</td>
+<td>terror</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>томиться (i)</td>
+<td>to languish, suffer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тосковать (i)</td>
+<td>to be miserable; (пo +d) yearn for, miss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>точить (i) (+a)</td>
+<td>to sharpen; gnaw at, corrode</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тройка</td>
+<td>three; group of three; troika</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туфля</td>
+<td>shoe, house shoe, slipper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убеждённо</td>
+<td>with conviction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уборная (f)</td>
+<td>lavatory; dressing-room (in theatre)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угощать/угостить (+a +inst)</td>
+<td>to treat (s.o. to sth), entertain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ударный</td>
+<td>urgent; attacking; percussion (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упадок</td>
+<td>decline</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ронять/уронить (+a)</td>
+<td>to drop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усваивать/усвоить (+a)</td>
+<td>to adopt, acquire (habit); master, learn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устой</td>
+<td>foundation, support</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ущелье</td>
+<td>ravine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>физиономия</td>
+<td>physiognomy, face; shape</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хвастаться/по- (+inst)</td>
+<td>to boast (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хозяйничать (i)</td>
+<td>to be in charge; throw one’s weight about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хоронить/по- (+a)</td>
+<td>to bury</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>царить (i)</td>
+<td>to reign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шить/с- (+a)</td>
+<td>to sew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экий</td>
+<td>what (a) (=какой) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эстетический</td>
+<td>aesthetic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ядовитый</td>
+<td>poisonous; venomous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аграрный</td>
+<td>agrarian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аптека</td>
+<td>chemist’s, drugstore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ассоциация</td>
+<td>association</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атаковать ((i/p)) (+a)</td>
+<td>to attack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>балет</td>
+<td>ballet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бархат</td>
+<td>velvet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>басня</td>
+<td>fable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безумный</td>
+<td>mad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессонный</td>
+<td>sleepless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесшумно</td>
+<td>noiselessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бодрость (f)</td>
+<td>cheerfulness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бомбардировка</td>
+<td>bombardment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боязнь (f)</td>
+<td>fear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бриться/по-</td>
+<td>to shave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бунт</td>
+<td>revolt, rebellion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>велосипед</td>
+<td>bicycle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вереница</td>
+<td>file, line, string</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весло</td>
+<td>oar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взаимопонимание</td>
+<td>mutual understanding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вихрь (m)</td>
+<td>whirlwind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>включение</td>
+<td>inclusion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вооружать/вооружить (+a)</td>
+<td>to arm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воскресный</td>
+<td>Sunday (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вращаться (i)</td>
+<td>to revolve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вспомогательный</td>
+<td>auxiliary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вторжение</td>
+<td>invasion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выбивать/выбить (+a)</td>
+<td>to knock out, dislodge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выглядывать/выглянуть</td>
+<td>to look out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выгодно</td>
+<td>advantageously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вызываться/вызваться</td>
+<td>to volunteer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпивать/выпить</td>
+<td>to drink (alcohol)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высовываться/высунуться</td>
+<td>to push os forward; lean out; poke one’s head out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вытянутый</td>
+<td>stretched</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гадать (i)</td>
+<td>to guess; tell fortunes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>галерея</td>
+<td>gallery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>годовщина</td>
+<td>anniversary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голубь (m)</td>
+<td>pigeon, dove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горсть (f)</td>
+<td>handful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гостиная (f) adj</td>
+<td>sitting-room</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>груда</td>
+<td>heap, pile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дальневосточный</td>
+<td>Far Eastern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дежурство</td>
+<td>(period of) duty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>действенный</td>
+<td>effective</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диктовать/про- (+a)</td>
+<td>to dictate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диссертация</td>
+<td>dissertation, thesis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добровольно</td>
+<td>voluntarily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>досрочный</td>
+<td>early, ahead of schedule</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>живописный</td>
+<td>picturesque</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жилищный</td>
+<td>housing (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жирный</td>
+<td>fat, fatty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жрать/со- (very coll)</td>
+<td>to eat (very coll), gobble up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забегать/забежать</td>
+<td>to run in; call in; run off, (coll) drop in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забегать (р)</td>
+<td>to start rushing around</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забываться/забыться</td>
+<td>to be forgotten; doze off; forget os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загорелый</td>
+<td>suntanned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зарастать/зарасти</td>
+<td>to become overgrown; heal (of wound)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зарплата</td>
+<td>pay, wages, salary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затягиваться/затянуться (+inst)</td>
+<td>to be covered (by); drag on; inhale (when smoking); heal (of wound); tighten one’s belt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заявка</td>
+<td>claim, official demand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земляк</td>
+<td>person from same area</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избиратель (m)</td>
+<td>voter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инженерный</td>
+<td>engineering (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ихний</td>
+<td>their (very coll) (= их)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казна</td>
+<td>(State) Treasury</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капать/капнуть</td>
+<td>to drip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карета</td>
+<td>horse-drawn carriage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>квалифицированный</td>
+<td>qualified, skilled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кепка</td>
+<td>cloth cap (soft, with peak)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клиент</td>
+<td>client</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коварный</td>
+<td>crafty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комбинация</td>
+<td>combination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конёк</td>
+<td>small horse; hobby</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конкурент</td>
+<td>competitor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контролировать/про- (+a)</td>
+<td>to check</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копыто</td>
+<td>hoof</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кофе (m) (indecl)</td>
+<td>coffee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кошелёк</td>
+<td>purse (for money)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>критический</td>
+<td>critical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>листочек</td>
+<td>small leaf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ловкий</td>
+<td>dexterous, skilful, smart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ловкость (f)</td>
+<td>dexterity, smartness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ломаться/с-</td>
+<td>to break; (coll) put on airs; (coll) be awkward, make difficulties</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>малость (f)</td>
+<td>a bit, a little</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>малыш </td>
+<td>child (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>массив</td>
+<td>massif, mountain-range; large area (of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>материнский</td>
+<td>maternal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мечтание</td>
+<td>day-dreaming</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миля</td>
+<td>mile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>минимум</td>
+<td>minimum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мирно</td>
+<td>peacefully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>морозный</td>
+<td>frosty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мучаться/за-</td>
+<td>to be tormented; worry, torment os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мыло</td>
+<td>soap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наблюдатель (m)</td>
+<td>observer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навык</td>
+<td>skill, technique</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надлежать (i) (+d of person +inf)</td>
+<td>it is necessary (= надо)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накладывать/наложить (+a на +a)</td>
+<td>to lay sth on sth, put on, superimpose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насмешливый</td>
+<td>sarcastic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>натиск</td>
+<td>onslaught; pressure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>натыкаться/наткнуться (на +a)</td>
+<td>to run into, stumble upon, meet unexpectedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начинание</td>
+<td>undertaking, initiative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неважно</td>
+<td>not very well; it doesn’t matter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невежество</td>
+<td>ignorance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неверный</td>
+<td>incorrect; uncertain; unfaithful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>негодование</td>
+<td>indignation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недоразумение</td>
+<td>misunderstanding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некрасивый</td>
+<td>ugly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неловкость (f)</td>
+<td>clumsiness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неспособный</td>
+<td>incapable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нестерпимо</td>
+<td>unbearably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неудачный</td>
+<td>unsuccessful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>низ</td>
+<td>bottom, lower part</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новичок</td>
+<td>novice, beginner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нормально</td>
+<td>normal, OK</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>носиться (i)</td>
+<td>to rush around; float, drift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обезьяна</td>
+<td>monkey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>овёс</td>
+<td>oats</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огорчаться/огорчиться</td>
+<td>to be sad, distressed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одиночка (m/f)</td>
+<td>person on his or her own, single person</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ожесточённый</td>
+<td>embittered, bitter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оживать/ожить</td>
+<td>to revive, come to life</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оранжевый</td>
+<td>orange (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организационный</td>
+<td>organizational</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осёл</td>
+<td>donkey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осмеливаться/осмелиться (+inf)</td>
+<td>to dare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осматриваться/осмотреться</td>
+<td>to look round, see where one is, get one’s bearings</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осторожность (f)</td>
+<td>caution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остриё</td>
+<td>point, spike</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отпор</td>
+<td>repulse, rebuff</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчество</td>
+<td>patronymic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парламент</td>
+<td>parliament</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парус</td>
+<td>sail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перечислять/перечислить (+a)</td>
+<td>to enumerate; transfer (money)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>питаться (i) (+inst)</td>
+<td>to feed (on)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>племянник</td>
+<td>nephew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повышаться/повыситься</td>
+<td>to rise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подавлять/подавить (+a)</td>
+<td>to suppress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подобие</td>
+<td>resemblance, likeness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подросток</td>
+<td>juvenile, youth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подчинённый</td>
+<td>subordinate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подчиняться/подчиниться (+d)</td>
+<td>to submit, be subject to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пожениться (р)</td>
+<td>to get married (of a couple)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поздравление</td>
+<td>congratulation; greeting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ползать/по-</td>
+<td>to crawl about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>положенный</td>
+<td>agreed, fixed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поменьше</td>
+<td>a little less</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понемногу</td>
+<td>little by little</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поразительно</td>
+<td>strikingly, astonishingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-русски</td>
+<td>in Russian; in Russian style</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поставщик</td>
+<td>supplier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>похоже (на +a)</td>
+<td>it looks like; it seems (= кажется)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поцелуй</td>
+<td>kiss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правительственный</td>
+<td>government (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предотвращать/предотвратить (+a)</td>
+<td>to prevent, avert</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предсказывать/предсказать (+a)</td>
+<td>to predict</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>презирать (i) (+a)</td>
+<td>to despise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>претендент (на +a)</td>
+<td>claimant, aspirant (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привлекательный</td>
+<td>attractive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приговаривать/приговорить (+a к +d)</td>
+<td>to sentence (s.o. to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>призрак</td>
+<td>ghost</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прорыв</td>
+<td>breach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просиживать/просидеть</td>
+<td>to sit (for a specified time)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прослеживать/проследить (+a)</td>
+<td>to track, trace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прощаться/проститься (с +inst)</td>
+<td>to say goodbye (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пускаться/пуститься (в +a or +inf)</td>
+<td>to set out, start, embark (on sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>путать/с- (+a)</td>
+<td>to confuse, mix up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>работница</td>
+<td>female worker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развёртывать/развернуть (+a)</td>
+<td>to unfold; expand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздеваться/раздеться</td>
+<td>to undress, get undressed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размещать/разместить (+a)</td>
+<td>to accommodate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разногласие</td>
+<td>disagreement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстрел</td>
+<td>execution (by firing squad)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рваный</td>
+<td>torn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ревность (f)</td>
+<td>jealousy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыбачий</td>
+<td>fishing (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рычаг</td>
+<td>lever</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>санаторий</td>
+<td>sanatorium</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сближение</td>
+<td>rapprochement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сгорать/сгореть</td>
+<td>to burn, burn out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>систематический</td>
+<td>systematic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скрипка</td>
+<td>violin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>словарь (m)</td>
+<td>dictionary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>служебный</td>
+<td>working</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смирный</td>
+<td>docile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снаружи</td>
+<td>outside, from outside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>современность (f)</td>
+<td>the present age</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>согласовывать/согласовать (+a)</td>
+<td>to coordinate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соседка</td>
+<td>(female) neighbour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соскучиться (р)</td>
+<td>to get bored; (пo +d) miss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спохватываться/спохватиться</td>
+<td>to remember suddenly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спрашиваться (i)</td>
+<td>to be asked</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срам</td>
+<td>shame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стискивать/стиснуть (+a)</td>
+<td>to squeeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сугубо</td>
+<td>especially; exclusively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хвататься/схватиться (за +a)</td>
+<td>to seize; (c +inst) grapple with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>творить/со- (+a)</td>
+<td>to create</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>твориться (i)</td>
+<td>to be going on, happen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тезис</td>
+<td>thesis, proposition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толковать/ис- (+a)</td>
+<td>to interpret, explain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трагический</td>
+<td>tragic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трепетать (i)</td>
+<td>to tremble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тропа</td>
+<td>path</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туманный</td>
+<td>misty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>турецкий</td>
+<td>Turkish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тюремный</td>
+<td>prison (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увольнять/уволить (+a)</td>
+<td>to dismiss, fire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увольнение</td>
+<td>dismissal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красть/у- (+a)</td>
+<td>to steal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укрываться/укрыться (от +g)</td>
+<td>to take refuge (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умело</td>
+<td>skilfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умолять/умолить (+a)</td>
+<td>to implore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усиливаться/усилиться</td>
+<td>to grow stronger, increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ускорять/ускорить (+a)</td>
+<td>to accelerate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устанавливаться/установиться</td>
+<td>to become established</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устремляться/устремиться</td>
+<td>to rush, dash; be fixed on, aspire to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утешать/утешить (+a)</td>
+<td>to console</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фонтан</td>
+<td>fountain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>формально</td>
+<td>formally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фрукт</td>
+<td>fruit, piece of fruit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хвалить/по- (+a)</td>
+<td>to praise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хитрость (f)</td>
+<td>cunning, guile (noun); ruse; (coll) ingenuity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлынуть (р)</td>
+<td>to gush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хомут</td>
+<td>horse’s collar; burden, yoke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хулиган</td>
+<td>hooligan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чаёк</td>
+<td>tea (dim), nice cup of tea</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чаща</td>
+<td>thicket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>что-либо</td>
+<td>anything</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шайка</td>
+<td>tub; gang</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шерстяной</td>
+<td>woollen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аналогичный</td>
+<td>analogous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арифметика</td>
+<td>arithmetic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арсенал</td>
+<td>arsenal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атеист</td>
+<td>atheist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бандит</td>
+<td>bandit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бдительность (f)</td>
+<td>vigilance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беззаветный</td>
+<td>selfless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безнадёжно</td>
+<td>hopelessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безработный</td>
+<td>unemployed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белеть/по-</td>
+<td>to grow white, be white</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белизна</td>
+<td>whiteness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бескорыстный</td>
+<td>unconcerned with personal gain, disinterested, unselfish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспомощный</td>
+<td>helpless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспощадно</td>
+<td>mercilessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болван</td>
+<td>blockhead, idiot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бомбардировщик</td>
+<td>bomber (aeroplane)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брань (f)</td>
+<td>swearing, abuse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брести/по-</td>
+<td>to plod along</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бриллиант</td>
+<td>(cut) diamond</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брошенный</td>
+<td>abandoned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>будни (pl)</td>
+<td>weekdays</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бывалый</td>
+<td>experienced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вата</td>
+<td>cotton wool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдохновенный</td>
+<td>inspired</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ведать (i) (+inst) </td>
+<td>to manage, be in charge of; (+a) know</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вежливо</td>
+<td>politely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веять (i)</td>
+<td>to blow (wind), flutter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вешать/взвесить (+a)</td>
+<td>to weigh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>визг</td>
+<td>scream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виновный</td>
+<td>guilty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вникать/вникнуть (в +a)</td>
+<td>to investigate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возлагать/возложить (+a на +a)</td>
+<td>to lay on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воплощение</td>
+<td>embodiment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восходящий</td>
+<td>rising</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всенародный</td>
+<td>national</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вскрикивать/вскрикнуть</td>
+<td>to cry out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>втрое</td>
+<td>three times (as much)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вывеска</td>
+<td>signboard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вывозить/вывезти (+a)</td>
+<td>to transport away; export</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выговор</td>
+<td>reprimand; pronunciation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выносливость (f)</td>
+<td>ability to endure, stamina</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вытягиваться/вытянуться</td>
+<td>to stretch out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вышибать/вышибить (+a)</td>
+<td>to knock out, kick out (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гарнизон</td>
+<td>garrison</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глыба</td>
+<td>large lump (of rock, ice etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гордо</td>
+<td>proudly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грамота</td>
+<td>literacy; document, deed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грек</td>
+<td>Greek (man)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грива</td>
+<td>mane</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грозно</td>
+<td>threateningly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двойка</td>
+<td>the number two; fail (mark in exam)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дельный</td>
+<td>businesslike</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>демократизация</td>
+<td>democratization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>детишки (pl)</td>
+<td>children (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>довоенный</td>
+<td>prewar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>довольствоваться (i) (+inst)</td>
+<td>to be satisfied (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достигаться/достичься</td>
+<td>to be achieved</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>досуг</td>
+<td>leisure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жестяной</td>
+<td>tin (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жутко</td>
+<td>dreadfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завоёванный</td>
+<td>conquered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замирать/замереть</td>
+<td>to stand still, die away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орать/за-</td>
+<td>to start yelling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>засовывать/засунуть (+a в +a)</td>
+<td>to thrust (sth into sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шуметь/за-</td>
+<td>to make a noise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зеленоватый</td>
+<td>greenish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>землетрясение</td>
+<td>earthquake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>злиться/обо- (на +a)</td>
+<td>to be angry, get angry (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>злость (f)</td>
+<td>spite, bad temper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знающий</td>
+<td>knowledgeable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>золочёный</td>
+<td>gilded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интонация</td>
+<td>intonation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искусно</td>
+<td>skilfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искусный</td>
+<td>skilful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполинский</td>
+<td>giant (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казнить (i/p)</td>
+<td>to execute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капуста</td>
+<td>cabbage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карабкаться/вс-</td>
+<td>to clamber (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кататься/по-</td>
+<td>to roll around; take a trip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>квалификация</td>
+<td>qualification</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клён</td>
+<td>maple</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кол</td>
+<td>stake (wood)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коллегия</td>
+<td>board (administrative body)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колоть/за- (+a)</td>
+<td>to chop; stab</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конверт</td>
+<td>envelope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кооператив</td>
+<td>cooperative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копия</td>
+<td>copy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коробочка</td>
+<td>small box</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кремлёвский</td>
+<td>Kremlin (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>критически</td>
+<td>critically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лаять/за-</td>
+<td>to bark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ливень (m)</td>
+<td>downpour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лень (f)</td>
+<td>laziness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лошадиный</td>
+<td>equine, horse (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лукавый</td>
+<td>sly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>люстра</td>
+<td>chandelier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лютый</td>
+<td>fierce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>малиновый</td>
+<td>raspberry (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>манить/по- (+a)</td>
+<td>to beckon, lure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>матовый</td>
+<td>mat(t), dull</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мачта</td>
+<td>mast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мороженое</td>
+<td>ice-cream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мусор</td>
+<td>litter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мыслящий</td>
+<td>thinking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наживать/нажить (+a)</td>
+<td>to gain, make (money)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наказание</td>
+<td>punishment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накал</td>
+<td>intense heat; intensity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намного</td>
+<td>by a lot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плевать/на- (на +a)</td>
+<td>to spit; not to give a damn about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недоставать/недостать (+g)</td>
+<td>to be lacking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нежность (f)</td>
+<td>tenderness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незадолго (до +g)</td>
+<td>not long before</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ненавистный</td>
+<td>hated, hateful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неопределённый</td>
+<td>indefinite, vague</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нерешительно</td>
+<td>indecisively, hesitantly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несправедливость (f)</td>
+<td>injustice, unfairness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неудачник</td>
+<td>failure (person)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обедня</td>
+<td>mass (church service)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обещание</td>
+<td>promise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обнажать/обнажить (+a)</td>
+<td>to bare, expose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обозрение</td>
+<td>surveying, survey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обочина</td>
+<td>roadside, kerb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обход</td>
+<td>evasion, going round</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объединяться/объединиться (с +inst)</td>
+<td>to unite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объективно</td>
+<td>objectively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>океанский</td>
+<td>oceanic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окошечко</td>
+<td>little window</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окружение</td>
+<td>encirclement, surrounding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опасение</td>
+<td>fear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опомниться (р)</td>
+<td>to come to one’s senses</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оправдываться/оправдаться</td>
+<td>to justify os; make excuses</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освещённый</td>
+<td>illuminated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отблеск</td>
+<td>reflection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отпечаток</td>
+<td>imprint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охотиться (i) (на +a)</td>
+<td>to hunt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очнуться (р)</td>
+<td>to regain consciousness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пазуха</td>
+<td>bosom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>партнёр</td>
+<td>partner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перегородка</td>
+<td>partition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пережиток</td>
+<td>survival, relic (of the past)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>креститься/пере-</td>
+<td>to be baptized; (p) cross os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перекрещиваться</td>
+<td>to intersect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переменяться/перемениться</td>
+<td>to change</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переулок</td>
+<td>lane</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пила</td>
+<td>saw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пирамида</td>
+<td>pyramid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пламенный</td>
+<td>burning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плач</td>
+<td>weeping</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плита</td>
+<td>stove, cooker; slab</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поведывать/поведать (+a)</td>
+<td>to relate, tell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подавление</td>
+<td>suppression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвести (p) (к +d)</td>
+<td>to lead up (to); (coll) let down (disappoint)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подлость (f)</td>
+<td>mean behaviour; dirty trick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подозрение</td>
+<td>suspicion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подружка</td>
+<td>(female) friend (dim)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поза</td>
+<td>pose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порох</td>
+<td>gunpowder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постановка</td>
+<td>placing, setting; staging (of a play etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стареть/по-</td>
+<td>to grow old</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поступление</td>
+<td>joining (an organization); arrival (of goods)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потрясение</td>
+<td>shock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прах</td>
+<td>dust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превосходить/превзойти (+a)</td>
+<td>to surpass, excel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преданность (f)</td>
+<td>devotion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предварительно</td>
+<td>beforehand, in advance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предоставление</td>
+<td>giving, granting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предшественник</td>
+<td>predecessor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>премьер-министр</td>
+<td>prime minister</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преобразовывать/преобразовать (+a)</td>
+<td>to reform; transform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преследование</td>
+<td>pursuit; persecution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пресловутый</td>
+<td>notorious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преувеличивать/преувеличить (+a)</td>
+<td>to exaggerate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибивать/прибить (к +d)</td>
+<td>to nail, fix (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приветствие</td>
+<td>greeting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прикрытие</td>
+<td>cover, screen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приличный</td>
+<td>decent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принятие</td>
+<td>taking, acceptance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принятый</td>
+<td>accepted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прислоняться/прислониться (к +d)</td>
+<td>to lean (against)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прогулка</td>
+<td>walk; outing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прославленный</td>
+<td>renowned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проступать/проступить</td>
+<td>to come through, show through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протекать/протечь</td>
+<td>to flow; pass (of time); leak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противоположность (f)</td>
+<td>opposite, antithesis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прошлогодний</td>
+<td>last year’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прощение</td>
+<td>pardon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>публичный</td>
+<td>public</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>путаться/с-</td>
+<td>to get mixed up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пьяница (m/f)</td>
+<td>drunkard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радиоприёмник</td>
+<td>radio (set)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбиваться/разбиться</td>
+<td>to break (into pieces), get broken</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбрасывать/разбросать (+a)</td>
+<td>to scatter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздумывать/раздумать</td>
+<td>to change one’s mind; (i only) (o +pr) ponder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрушаться/разрушиться</td>
+<td>to fall apart, be destroyed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расистский</td>
+<td>racist (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстраивать/расстроить (+a)</td>
+<td>to upset</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ребро</td>
+<td>rib; edge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рожа</td>
+<td>face (very coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роса</td>
+<td>dew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>русло</td>
+<td>bed (of river), channel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самодержавие</td>
+<td>autocracy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капиталистический</td>
+<td>capitalist (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свисток</td>
+<td>whistle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свод</td>
+<td>arch, vault (roof); collection of texts</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семейство</td>
+<td>family</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сирена</td>
+<td>siren</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мышца</td>
+<td>muscle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сливаться/слиться</td>
+<td>to merge, join together</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смиряться/смириться (с +inst)</td>
+<td>to submit; resign oneself (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смуглый</td>
+<td>dark (of complexion)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снижаться/снизиться</td>
+<td>to come down, fall, go down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соблюдение</td>
+<td>observance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>содействие</td>
+<td>assistance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>созывать/созвать (+a)</td>
+<td>to convene</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сознаваться/сознаться (в +pr)</td>
+<td>to confess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соответственно</td>
+<td>correspondingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>специализация</td>
+<td>specialization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ставиться/пo-</td>
+<td>to be placed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стимулирование</td>
+<td>stimulation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стирать/вы- (+a)</td>
+<td>to wash (clothes); rub off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стоящий</td>
+<td>worthwhile (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стратегический</td>
+<td>strategic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суверенитет</td>
+<td>sovereignty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сук</td>
+<td>bough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суматоха</td>
+<td>confusion, turmoil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сыпаться (i)</td>
+<td>to pour out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таиться (i)</td>
+<td>to be concealed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>такси</td>
+<td>taxi</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толкаться (i)</td>
+<td>to push, jostle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толща</td>
+<td>thickness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>топот</td>
+<td>sound of footsteps, patter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трактир</td>
+<td>inn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трибунал</td>
+<td>tribunal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трудоёмкий</td>
+<td>labour-intensive, laborious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угождать/угодить (+d) </td>
+<td>to please; (coll) get into, end up (p only)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удобство</td>
+<td>convenience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>могила</td>
+<td>grave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уклад</td>
+<td>organization, structure (of life, society)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укол</td>
+<td>jab, injection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умно</td>
+<td>intelligently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упоминать/упомянуть (+a or о +pr)</td>
+<td>to mention</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упрямый</td>
+<td>stubborn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усаживаться/усесться</td>
+<td>to sit down, settle down, take a seat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устойчивость (f)</td>
+<td>stability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ухватиться (за +a)</td>
+<td>to grasp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уцелеть (р)</td>
+<td>to survive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фестиваль (m)</td>
+<td>festival</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>финансы (m pl)</td>
+<td>finances</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хитро</td>
+<td>cunningly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлестать/хлестнуть (+a)</td>
+<td>to whip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хмель (m)</td>
+<td>hops (for beer); tipsiness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хоккей</td>
+<td>(ice-)hockey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>холостой</td>
+<td>unmarried</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>человечек</td>
+<td>little man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чугун</td>
+<td>cast iron</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шипеть (i)</td>
+<td>to hiss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шпион</td>
+<td>spy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эшелон</td>
+<td>echelon; special train</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яблочко</td>
+<td>little apple</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ясли (pl)</td>
+<td>creche</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>акция</td>
+<td>share (in company)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>анекдот</td>
+<td>anecdote, joke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аристократический</td>
+<td>aristocratic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ассамблея</td>
+<td>assembly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>багровый</td>
+<td>crimson</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барометр</td>
+<td>barometer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барьер</td>
+<td>barrier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безнадёжный</td>
+<td>hopeless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безымянный</td>
+<td>nameless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белорусский</td>
+<td>Belorussian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>береговой</td>
+<td>coastal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспартийный</td>
+<td>without party affiliation, independent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессмысленно</td>
+<td>pointlessly, meaninglessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесстрашие</td>
+<td>fearlessness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бич</td>
+<td>whip; scourge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благой</td>
+<td>good</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бред</td>
+<td>delirium; rubbish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брить/по- (+a)</td>
+<td>to shave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брюхо</td>
+<td>paunch (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бурно</td>
+<td>stormily; energetically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бурьян</td>
+<td>weeds, tall weeds</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бушевать (i)</td>
+<td>to rage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верховой</td>
+<td>riding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вестибюль (m)</td>
+<td>lobby</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весы (m pl)</td>
+<td>scales</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветхий</td>
+<td>ancient, dilapidated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вечеринка</td>
+<td>party</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взвешивать/взвесить (+a)</td>
+<td>to weigh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влезать/влезть</td>
+<td>to climb in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внедрять/внедрить (+a в +a)</td>
+<td>to inculcate; introduce; put into practice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воспитательный</td>
+<td>educational</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вращение</td>
+<td>rotation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вспоминаться/вспомниться</td>
+<td>to be recalled, come to mind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вторично</td>
+<td>secondarily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вторичный</td>
+<td>second; secondary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вцепляться/вцепиться (в +a)</td>
+<td>to grip, grip hold of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вымывать/вымыть (+a)</td>
+<td>to wash (thoroughly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выходка</td>
+<td>bad behaviour, escapade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гарантия</td>
+<td>guarantee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гараж</td>
+<td>garage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гласить (i)</td>
+<td>to announce, say</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глушь (f)</td>
+<td>backwoods, the sticks</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грядущий</td>
+<td>future (bookish)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>десант</td>
+<td>landing (mil, by air or sea)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дефицитный</td>
+<td>scarce, in short supply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>директива</td>
+<td>directive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>днище</td>
+<td>bottom (of vessel)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доезжать/доехать (до +g)</td>
+<td>to reach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>долой (+a)</td>
+<td>down with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>допрашивать/допросить (+a)</td>
+<td>to interrogate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дорожить (+inst)</td>
+<td>to value</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дразнить (i) (+a)</td>
+<td>to tease</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дремать (i)</td>
+<td>to doze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружный</td>
+<td>amicable; simultaneous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дуэль (f)</td>
+<td>duel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дымка</td>
+<td>haze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дыра</td>
+<td>hole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жильё</td>
+<td>accommodation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забавно</td>
+<td>amusingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заблудиться (р)</td>
+<td>to lose one’s way</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заваливать/завалить (+a +inst)</td>
+<td>to block, cram</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заинтересовываться/заинтересоваться (+inst)</td>
+<td>to become interested in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запоминаться/запомниться</td>
+<td>to stick in one’s memory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зарево</td>
+<td>glow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затоплять/затопить (+a)</td>
+<td>to light (stove); to flood, sink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>защитный</td>
+<td>protective</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звонко</td>
+<td>ringingly, clearly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зеркальный</td>
+<td>mirror (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знаменательный</td>
+<td>significant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>значиться (i)</td>
+<td>to be, figure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>золотистый</td>
+<td>golden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избавлять/избавить (+a от +g)</td>
+<td>to save (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>извержение</td>
+<td>eruption</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>извне</td>
+<td>from outside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изменник</td>
+<td>traitor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>измерять/измерить (+a)</td>
+<td>to measure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изнутри</td>
+<td>from inside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изоляция</td>
+<td>isolation; insulation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изумление</td>
+<td>amazement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполняться/исполниться</td>
+<td>to be fulfilled, be completed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>как-никак</td>
+<td>nevertheless, all the same (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кислый</td>
+<td>sour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клоп</td>
+<td>bedbug</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клочок</td>
+<td>tuft, scrap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кнут</td>
+<td>whip, knout</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колыхаться (i)</td>
+<td>to sway; flutter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>командный</td>
+<td>command (adj), commanding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>косвенный</td>
+<td>oblique</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>котёл</td>
+<td>boiler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крестик</td>
+<td>little cross</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кровный</td>
+<td>blood (adj); vital</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кузнец</td>
+<td>blacksmith</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кукушка</td>
+<td>cuckoo</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>легкомысленный</td>
+<td>frivolous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лёгкость (f)</td>
+<td>easiness; lightness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лживый</td>
+<td>mendacious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>логический</td>
+<td>logical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>манифест</td>
+<td>manifesto; proclamation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миллионный</td>
+<td>millionth; containing a million</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мнимый</td>
+<td>imaginary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набираться/набраться (+g)</td>
+<td>to collect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нагонять/нагнать (+a)</td>
+<td>to overtake, catch up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накануне</td>
+<td>(on) the day before</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напиток</td>
+<td>drink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напор</td>
+<td>pressure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарастающий</td>
+<td>growing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насильственный</td>
+<td>violent, forcible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насос</td>
+<td>pump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нашествие</td>
+<td>invasion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невероятно</td>
+<td>improbably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невинный</td>
+<td>innocent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неграмотный</td>
+<td>illiterate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недоуменно</td>
+<td>uncomprehendingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некоторые</td>
+<td>some, certain (people)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немыслимо</td>
+<td>unthinkably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неохотно</td>
+<td>unwillingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неразрывно</td>
+<td>inseparably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несправедливый</td>
+<td>unjust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неуверенно</td>
+<td>uncertainly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нефтяник</td>
+<td>oil worker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нехороший</td>
+<td>bad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нечистый</td>
+<td>unclean, impure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неясно</td>
+<td>unclearly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оборудовать ((i/p)) (+a)</td>
+<td>to equip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обряд</td>
+<td>rite, ceremony</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объявление</td>
+<td>announcement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объятие</td>
+<td>embrace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>овладевать (i) (+inst)</td>
+<td>to master; take possession of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одалживать/одолжить (+a +d)</td>
+<td>to lend (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оживляться/оживиться</td>
+<td>to become lively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>особняк</td>
+<td>detached house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>острота</td>
+<td>sharpness; witticism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осуждение</td>
+<td>condemnation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвозить/отвезти (+a)</td>
+<td>to transport away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвлекать/отвлечь (+a)</td>
+<td>to distract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвращение</td>
+<td>disgust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдача</td>
+<td>return; performance, dedication (at work)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отдельность</td>
+<td>jointing; parting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откуда-то</td>
+<td>from somewhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отменять/отменить (+a)</td>
+<td>to abolish, cancel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отсутствовать (i)</td>
+<td>to be absent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очищать/очистить (+a)</td>
+<td>to clean, purify</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парад</td>
+<td>parade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парикмахерская</td>
+<td>hairdresser’s, barber’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перекидывать/перекинуть (+a через +a)</td>
+<td>to throw over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плащ</td>
+<td>raincoat; cloak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плести (i) (+a)</td>
+<td>to weave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повреждение</td>
+<td>damage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поганый</td>
+<td>foul, vile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погибший</td>
+<td>lost, ruined</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>положено</td>
+<td>one is supposed to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погружаться/погрузиться (в +a)</td>
+<td>to immerse os (in sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поднятие</td>
+<td>raising</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подробный</td>
+<td>detailed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подчёркиваться/подчеркнуться</td>
+<td>to be emphasized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позорный</td>
+<td>disgraceful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покачивать/покачать (+a or +inst)</td>
+<td>to rock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покорный</td>
+<td>humble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покрышка</td>
+<td>covering; (coll) lid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пологий</td>
+<td>gently sloping</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>получше</td>
+<td>a little better</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мириться/по- (с +inst)</td>
+<td>to make peace, be reconciled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понижение</td>
+<td>lowering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>послевоенный</td>
+<td>postwar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поспешно</td>
+<td>hastily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потомок</td>
+<td>descendant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>походка</td>
+<td>gait, walk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>правитель (m)</td>
+<td>ruler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предавать/предать (+a +d)</td>
+<td>to betray; hand over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предчувствие</td>
+<td>presentiment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прелестный</td>
+<td>charming</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>престиж</td>
+<td>prestige</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пригодный</td>
+<td>useful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приготовляться/приготовиться (+inf or к +d)</td>
+<td>to get ready</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прилично</td>
+<td>decently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приписывать/приписать (+a +d)</td>
+<td>to ascribe (sth to sth/s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приспосабливаться/приспособиться (к +d)</td>
+<td>to adapt (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>притворяться/притвориться (+inst)</td>
+<td>to pretend (to be sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>притихать/притихнуть</td>
+<td>to quieten down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробиваться/пробиться</td>
+<td>to force one’s way through, fight one’s way through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>провал</td>
+<td>failure, collapse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проводник</td>
+<td>guide, conductor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продовольствие</td>
+<td>provisions</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промышленник</td>
+<td>industrialist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проноситься/пронестись</td>
+<td>to rush through/past</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропитывать/пропитать (+a)</td>
+<td>to feed; saturate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шептать/про-</td>
+<td>to whisper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прядь (f)</td>
+<td>lock of hair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пряник</td>
+<td>biscuit or cake with spices</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пулемётный</td>
+<td>machine-gun (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>путаница</td>
+<td>confusion, mix-up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пылающий</td>
+<td>flaming, blazing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равномерно</td>
+<td>uniformly, evenly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развалина</td>
+<td>ruin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздавать/раздать (+а)</td>
+<td>to distribute, give out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздвигать/раздвинуть (+a)</td>
+<td>to move apart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздражение</td>
+<td>irritation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разлагаться/разложиться</td>
+<td>to decompose, disintegrate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разумно</td>
+<td>sensibly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассеянно</td>
+<td>absent-mindedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расцвет</td>
+<td>bloom; flourishing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расценивать/расценить (+а)</td>
+<td>to assess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реализация</td>
+<td>implementation; sale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резиновый</td>
+<td>rubber (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ремесло</td>
+<td>trade (profession)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реплика</td>
+<td>rejoinder, retort</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родство</td>
+<td>kinship</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рожь (f)</td>
+<td>rye</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роскошь (f)</td>
+<td>luxury</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>русый</td>
+<td>light brown (hair)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ручаться/поручиться (за +а)</td>
+<td>to vouch for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рывок</td>
+<td>jerk; spurt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сваливать/свалить (+а)</td>
+<td>to throw down; pile up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светло</td>
+<td>it’s light</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сетовать/по- (о +pr/на +а)</td>
+<td>to lament, complain (about)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сжатый</td>
+<td>compressed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скатываться/скатиться</td>
+<td>to roll down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скверный</td>
+<td>lousy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сколь</td>
+<td>so</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слон</td>
+<td>elephant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смешивать/смешать (+а)</td>
+<td>to confuse, mix</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смущать/смутить (+a)</td>
+<td>to embarrass; disturb; trouble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смущение</td>
+<td>embarrassment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снежинка</td>
+<td>snowflake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>согревать/согреть (+a)</td>
+<td>to warm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>созидательный</td>
+<td>creative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соотношение</td>
+<td>correlation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопка</td>
+<td>knoll, mound; volcano</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопровождение</td>
+<td>accompaniment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосновый</td>
+<td>pine (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спотыкаться/споткнуться (о +a)</td>
+<td>to trip, stumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спуск</td>
+<td>descent; slope; release</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старина</td>
+<td>bygone times; (coll) old fellow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старомодный</td>
+<td>old-fashioned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стаскивать/стащить (+a)</td>
+<td>to drag off; (coll) pinch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стойкий</td>
+<td>stable; steadfast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>столбик</td>
+<td>small column</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сторожевой</td>
+<td>watch, guard (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стоянка</td>
+<td>stop; parking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трусить/с- (перед or +g)</td>
+<td>to be cowardly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ездить/съ-</td>
+<td>to travel there and back</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таблетка</td>
+<td>pill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тайно</td>
+<td>secretly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таможенный</td>
+<td>customs (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>твердить (i) (+a)</td>
+<td>to repeat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теплица</td>
+<td>hothouse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>травить (i) (+a)</td>
+<td>to exterminate, poison; damage; hunt; persecute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>транспортный</td>
+<td>transport (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тропический</td>
+<td>tropical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трофей</td>
+<td>trophy; booty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тур</td>
+<td>round (sport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туристский</td>
+<td>tourist (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тяга</td>
+<td>locomotion; (к +d) thirst for, attraction towards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удалять/удалить (+a)</td>
+<td>to send away, remove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удивлённый</td>
+<td>surprised</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>указ</td>
+<td>decree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умываться/умыться</td>
+<td>to wash os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>унижение</td>
+<td>humiliation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упомянутый</td>
+<td>previously mentioned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ураган</td>
+<td>hurricane</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>формальный</td>
+<td>formal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>характерно</td>
+<td>characteristically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хмурый</td>
+<td>gloomy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>храбрый</td>
+<td>brave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цементный</td>
+<td>cement (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чаша</td>
+<td>cup; chalice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>черпать/черпнуть (+a из +g)</td>
+<td>to scoop, draw (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>честность (f)</td>
+<td>honesty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четвёрка</td>
+<td>four; group of four</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чугунный</td>
+<td>cast-iron (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шанс</td>
+<td>chance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шапочка</td>
+<td>small hat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шёлк</td>
+<td>silk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шибко</td>
+<td>very (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шут</td>
+<td>jester, clown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щедро</td>
+<td>generously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щёлкать/щёлкнуть (+а) </td>
+<td>to flick; (+inst) click, crack, snap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эгоизм</td>
+<td>egoism, selfishness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>энергично</td>
+<td>energetically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>энтузиаст</td>
+<td>enthusiast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юмор</td>
+<td>humour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юношеский</td>
+<td>youthful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>январский</td>
+<td>January (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>амнистия</td>
+<td>amnesty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>асфальт</td>
+<td>asphalt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аэропорт</td>
+<td>airport</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баловать/из- (+a)</td>
+<td>to spoil (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баррикада</td>
+<td>barricade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барский</td>
+<td>lord’s, barin&#39;s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безлюдный</td>
+<td>lacking people, unfrequented</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безразлично</td>
+<td>indifferently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесповоротно</td>
+<td>irreversibly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспредельный</td>
+<td>boundless, unlimited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесцеремонно</td>
+<td>unceremoniously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благородство</td>
+<td>nobility</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блаженный</td>
+<td>blessed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болтовня</td>
+<td>chatter, gossip (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бомбёжка</td>
+<td>bombardment (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брезгливо</td>
+<td>squeamishly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бронза</td>
+<td>bronze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бутылочка</td>
+<td>small bottle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валун</td>
+<td>boulder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>варежка</td>
+<td>mitten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веселиться/по-</td>
+<td>to make merry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветчина</td>
+<td>ham</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взаимно</td>
+<td>mutually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виновато</td>
+<td>guiltily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внешне</td>
+<td>outwardly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внешность (f)</td>
+<td>exterior</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возражение</td>
+<td>objection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волжский</td>
+<td>Volga (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воровать/с- (+a)</td>
+<td>to steal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворочать (+a)</td>
+<td>to move (sth heavy); (+inst) have control of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворочаться (i)</td>
+<td>to turn, toss and turn (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впадать/впасть (в +a)</td>
+<td>to fall in/into</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>враз</td>
+<td>all together (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вручную</td>
+<td>by hand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вставлять/вставить (в +a)</td>
+<td>to insert</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вступление</td>
+<td>introduction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>втроём</td>
+<td>as a threesome</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выносливый</td>
+<td>resilient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высаживаться/высадиться</td>
+<td>to disembark, land</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высказываться/высказаться</td>
+<td>to speak out, state one’s opinion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вычислять/вычислить (+a)</td>
+<td>to calculate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гармонический</td>
+<td>harmonious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гладко</td>
+<td>smoothly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голубоватый</td>
+<td>light-bluish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гуманный</td>
+<td>humane</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>давным-давно </td>
+<td>ages ago (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дворянский</td>
+<td>gentry (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дёргать/дёрнуть (+a)</td>
+<td>to tug</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>детектив</td>
+<td>detective story</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дико</td>
+<td>wildly; absurd</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добавка</td>
+<td>addition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>докатываться/докатиться (до +g)</td>
+<td>to roll to, come to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>домишко (m)</td>
+<td>shack, hovel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дополнительно</td>
+<td>additionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доставка</td>
+<td>delivery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достойно</td>
+<td>worthily, properly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дурацкий</td>
+<td>idiotic, stupid (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душно</td>
+<td>stuffy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дымить (i)</td>
+<td>to smoke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жаждать (i) (+g)</td>
+<td>to thirst for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забава</td>
+<td>amusement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завеса</td>
+<td>screen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заданный</td>
+<td>set, assigned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зажиточный</td>
+<td>well-off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закрываться/закрыться</td>
+<td>to be closed; close down; cover os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закупка</td>
+<td>purchase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>занимательный</td>
+<td>entertaining, interesting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запугивать/запугать (+a)</td>
+<td>to intimidate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запутанный</td>
+<td>confused, tangled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заседать (i)</td>
+<td>to sit, be in session</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застревать/застрять</td>
+<td>to get stuck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заход</td>
+<td>sunset; call (at a place)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зачастую</td>
+<td>often (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звуковой</td>
+<td>sound (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>змея</td>
+<td>snake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иго</td>
+<td>yoke (oppression)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>игрушечный</td>
+<td>toy (adj); tiny</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идеальный</td>
+<td>ideal (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изобразительный</td>
+<td>graphic; decorative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иронически</td>
+<td>ironically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искренно</td>
+<td>sincerely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истребитель (m)</td>
+<td>fighter (plane)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исходный</td>
+<td>initial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каблук</td>
+<td>heel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>канава</td>
+<td>ditch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кандидатура</td>
+<td>candidature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капризный</td>
+<td>capricious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кара</td>
+<td>punishment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>караулить (i) (+a)</td>
+<td>to guard; lie in wait for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>категорически</td>
+<td>categorically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клок</td>
+<td>rag, shred, tuft</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конкретно</td>
+<td>concretely, specifically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>косынка</td>
+<td>headscarf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кофта</td>
+<td>blouse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крайность (f)</td>
+<td>extreme</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красавец</td>
+<td>handsome man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крошечный</td>
+<td>tiny</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крылатый</td>
+<td>winged</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кувшин</td>
+<td>jug, pitcher</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>куриный</td>
+<td>hen’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лазить/по-</td>
+<td>to climb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ленточка</td>
+<td>small ribbon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лиловый</td>
+<td>violet, lilac</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лихо</td>
+<td>dashingly, with spirit (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лихорадка</td>
+<td>fever; rash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ломка</td>
+<td>breaking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лохматый</td>
+<td>shaggy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лыжник</td>
+<td>skier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лыжный</td>
+<td>ski (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>майский</td>
+<td>May (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мамочка</td>
+<td>mummy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>математик</td>
+<td>mathematician</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>меньшинство</td>
+<td>minority</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метла</td>
+<td>broom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миллионер</td>
+<td>millionaire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>милостыня</td>
+<td>alms</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миниатюрный</td>
+<td>miniature (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>модный</td>
+<td>fashionable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монастырь (m)</td>
+<td>monastery; convent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мускул</td>
+<td>muscle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мучительно</td>
+<td>excruciatingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>назло</td>
+<td>out of spite; (+d) to spite (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наименование</td>
+<td>designation, name</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напряжённо</td>
+<td>with strain, intensively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарушаться/нарушиться</td>
+<td>to be broken, be infringed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наследник</td>
+<td>heir</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насчитывать (i) (+а)</td>
+<td>to number, total</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невыносимый</td>
+<td>intolerable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неизмеримо</td>
+<td>immeasurably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ненадолго</td>
+<td>not for long</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неохота</td>
+<td>reluctance; (coll) (+d) to be unwilling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неприятель (m)</td>
+<td>enemy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неторопливо</td>
+<td>unhurriedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неторопливый</td>
+<td>unhurried</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неуловимый</td>
+<td>elusive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нехватка</td>
+<td>shortage (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нечаянно</td>
+<td>accidentally; unexpectedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новенький</td>
+<td>brand-new, nice and new</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>носилки (f pl)</td>
+<td>stretcher</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>носовой</td>
+<td>nose (adj), nasal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обилие</td>
+<td>abundance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обобщать/обобщить (+а)</td>
+<td>to generalize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обгонять/обогнать (+a)</td>
+<td>to overtake, outstrip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обожать (i) (+а)</td>
+<td>to adore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обрез</td>
+<td>cut edge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обхватывать/обхватить (+а)</td>
+<td>to encompass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ограничение</td>
+<td>limitation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ограниченность (f)</td>
+<td>narrowness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>однородный</td>
+<td>homogeneous, of one type</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одолевать/одолеть (+а)</td>
+<td>to overcome</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ожерелье</td>
+<td>necklace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озарять/озарить (+a)</td>
+<td>to illuminate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озорство</td>
+<td>naughtiness (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оккупация</td>
+<td>occupation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>округ</td>
+<td>okrug, region</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окурок</td>
+<td>cigarette end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опровергать/опровергнуть (+a)</td>
+<td>to refute, disprove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пустеть/о-</td>
+<td>to empty, become empty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орёл</td>
+<td>eagle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>основательно</td>
+<td>solidly, soundly, thoroughly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откидываться/откинуться</td>
+<td>to lean back</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отмахиваться/отмахнуться (от +g)</td>
+<td>to brush off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отмена</td>
+<td>abolition, cancellation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отметка</td>
+<td>note, mark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрабатывать/отработать (+a)</td>
+<td>to work off (debt etc.), work (shift etc.), finish working</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отставка</td>
+<td>retirement, resignation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отход</td>
+<td>departure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчётливый</td>
+<td>clear, distinct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парашют</td>
+<td>parachute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парнишка (m) </td>
+<td>lad (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>педагог</td>
+<td>pedagogue, teacher</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переворачивать/перевернуть (+a)</td>
+<td>to turn over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передвижение</td>
+<td>movement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передразнивать/передразнить (+a)</td>
+<td>to mimic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перемещаться/переместиться</td>
+<td>to move</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перемещение</td>
+<td>displacement, shifting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перепутывать/перепутать (+a)</td>
+<td>to tangle, confuse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пересматривать/пересмотреть (+a)</td>
+<td>to reconsider</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>персонаж</td>
+<td>character</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>персональный</td>
+<td>personal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побеждённый</td>
+<td>defeated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поблёскивать (i)</td>
+<td>to gleam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повестка</td>
+<td>notification</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повторный</td>
+<td>repeated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повязка</td>
+<td>bandage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погоня</td>
+<td>pursuit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвигаться/подвинуться</td>
+<td>to move; advance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поджигать/поджечь (+a)</td>
+<td>to set fire to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подол</td>
+<td>hem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подрывать/подорвать (+a)</td>
+<td>to undermine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подтверждение</td>
+<td>confirmation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подтягивать/подтянуть (+a)</td>
+<td>to tighten; pull up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позавчера</td>
+<td>the day before yesterday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пола</td>
+<td>flap (of coat etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полено</td>
+<td>log</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ломать/по- (+а)</td>
+<td>to break</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полотно</td>
+<td>canvas (painting); linen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полуостров</td>
+<td>peninsula</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порабощение</td>
+<td>enslavement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посвистывать/посвистеть</td>
+<td>to whistle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поселяться/поселиться</td>
+<td>to take up residence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пособие</td>
+<td>financial assistance; textbook, educational aid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постепенный</td>
+<td>gradual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потрясать/потрясти (+a)</td>
+<td>to shake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потрясающий</td>
+<td>staggering, astonishing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>похвала</td>
+<td>praise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почтовый</td>
+<td>postal, mail (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>править (i) (+inst)</td>
+<td>to rule</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>праздновать (i) (+a)</td>
+<td>to celebrate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предназначаться/предназначиться (для +g or на +a)</td>
+<td>to be intended for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прекращать (i) (+a)</td>
+<td>to stop, discontinue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибегать/прибежать</td>
+<td>to run up, come running</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приближение</td>
+<td>approach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибирать/прибрать (+a)</td>
+<td>to tidy up; (coll) take over, pocket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привязываться/привязаться (к +d)</td>
+<td>to become attached to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прилавок</td>
+<td>counter (in shop)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примечательный</td>
+<td>noteworthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примиряться/примириться (с +inst) </td>
+<td>to be reconciled with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>припоминать/припомнить (+a)</td>
+<td>to remember, recall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приставлять/приставить (+a к +d)</td>
+<td>to place sth against sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приставать/пристать (к +d)</td>
+<td>to stick to, adhere (to); pester</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>провозглашать/провозгласить (+a)</td>
+<td>to proclaim</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проглатывать/проглотить (+a)</td>
+<td>to swallow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продавец</td>
+<td>salesman, shop assistant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продолжить (p) (+a)</td>
+<td>to prolong</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проливать/пролить (+a)</td>
+<td>to spill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молчать/про-</td>
+<td>to keep silent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проскакивать/проскочить</td>
+<td>to rush past; slip through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прославляться/прославиться</td>
+<td>to become famous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просматривать/просмотреть (+a)</td>
+<td>to look over; overlook, look through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просчёт</td>
+<td>miscalculation; counting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противостоять (i) (+d)</td>
+<td>to resist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проход</td>
+<td>passage; passageway</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равномерный</td>
+<td>even, uniform</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равноправие</td>
+<td>equality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разваливаться/развалиться</td>
+<td>to fall to pieces</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развёртывание</td>
+<td>unfolding; development</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развлечение</td>
+<td>entertainment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздражаться/раздражиться</td>
+<td>to become irritated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскол</td>
+<td>split, schism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расписка</td>
+<td>receipt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расплачиваться/расплатиться</td>
+<td>to settle up, pay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распорядок</td>
+<td>routine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распределяться/распределиться</td>
+<td>to be distributed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассеиваться/рассеяться</td>
+<td>to disperse; give os a break</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстёгивать/расстегнуть (+a)</td>
+<td>to unfasten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растить/вы- (+a)</td>
+<td>to grow, raise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рвануться (р)</td>
+<td>to dash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>редакционный</td>
+<td>editorial, editing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>репортаж</td>
+<td>reporting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реставрация</td>
+<td>restoration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родимый</td>
+<td>native; dear (= родной)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>румянец</td>
+<td>flush, rosy complexion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыть (i) (+a)</td>
+<td>to dig</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свежесть (f)</td>
+<td>freshness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свержение</td>
+<td>overthrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>своевременно</td>
+<td>in good time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдержанно</td>
+<td>with restraint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сестрёнка</td>
+<td>little sister</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сигарета</td>
+<td>cigarette</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скачок</td>
+<td>leap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скверно</td>
+<td>badly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>склонность (f) (к +d)</td>
+<td>tendency (to); aptitude (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скрип</td>
+<td>squeak, creak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>словесный</td>
+<td>verbal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>словечко </td>
+<td>word (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сложившийся</td>
+<td>developed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смутный</td>
+<td>vague, dim; troubled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сгибаться/согнуться</td>
+<td>to bend; stoop</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сокровищница</td>
+<td>treasure-house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сонный</td>
+<td>sleepy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сороковой</td>
+<td>fortieth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосать (i) (+a)</td>
+<td>to suck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочетаться (i) (с +inst)</td>
+<td>to combine (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спальня</td>
+<td>bedroom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спасаться/спастись</td>
+<td>to escape, save os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>списывать/списать (+a)</td>
+<td>to copy; write off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спичечный</td>
+<td>match (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спящий</td>
+<td>sleeping</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>среднеазиатский</td>
+<td>Central Asian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>средневековый</td>
+<td>medieval</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>статься</td>
+<td>to happen (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стихать/стихнуть</td>
+<td>to abate, die down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>строгость (f)</td>
+<td>strictness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сумрак</td>
+<td>dusk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суп</td>
+<td>soup</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сушёный</td>
+<td>dried</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сформулировать (р) (+a)</td>
+<td>to formulate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>съёмка</td>
+<td>shooting (of film); surveying; taking away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>съезжать/съехать</td>
+<td>to drive down; (coll) slip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сюрприз</td>
+<td>surprise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таинственно</td>
+<td>mysteriously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>такт</td>
+<td>rhythm, time; tact</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телескоп</td>
+<td>telescope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толпиться (i)</td>
+<td>to crowd, throng</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тормозить/за- (+a)</td>
+<td>to slow down, impede; brake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трезвый</td>
+<td>sober</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трон</td>
+<td>throne</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трос</td>
+<td>rope, cable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тщеславие</td>
+<td>vanity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убогий</td>
+<td>wretched</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>углубление</td>
+<td>deepening; depression, hollow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>углубляться/углубиться</td>
+<td>to become deeper; (в +a) go deep into, become absorbed in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удачно</td>
+<td>successfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улетать/улететь</td>
+<td>to fly away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уменьшать/уменьшить (+a)</td>
+<td>to reduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уста (pl)</td>
+<td>mouth; lips (poetic)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>условный</td>
+<td>conventional; conditional; tentative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усталость (f)</td>
+<td>tiredness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уткнуться (р) (в +a)</td>
+<td>to bury os in; bump into</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фигурка</td>
+<td>small figure; figurine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>форточка</td>
+<td>ventilation window</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фыркать/фыркнуть</td>
+<td>to snort</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлам</td>
+<td>junk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хорошенький</td>
+<td>pretty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>худощавый</td>
+<td>thin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цвести/рас-</td>
+<td>to flower, flourish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цветочный</td>
+<td>flower (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цельный</td>
+<td>entire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цыплёнок</td>
+<td>chicken</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цыпочки (pl)</td>
+<td>tiptoes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чек</td>
+<td>cheque; receipt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>череп</td>
+<td>skull</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудиться/по- (+d)</td>
+<td>to seem, imagine (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чулок</td>
+<td>stocking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чуть-чуть</td>
+<td>a little bit, just a little (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шарить/по- (в +pr)</td>
+<td>to grope, fumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шелест</td>
+<td>rustling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штамп</td>
+<td>stamp, punch; cliche</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штраф</td>
+<td>fine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штурм</td>
+<td>storm, assault</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штучка </td>
+<td>thing, object (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щедрый</td>
+<td>generous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экономически</td>
+<td>economically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эстрадный</td>
+<td>stage (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эхо</td>
+<td>echo</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яд</td>
+<td>poison</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яростно</td>
+<td>furiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автоматика</td>
+<td>automation; machinery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>адресовать ((i/p)) (+a +d)</td>
+<td>to address (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>арка</td>
+<td>arch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>археолог</td>
+<td>archaeologist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>афоризм</td>
+<td>aphorism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>балл</td>
+<td>mark (exam)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бедняга (m)</td>
+<td>poor fellow (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безграничный</td>
+<td>limitless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безделье</td>
+<td>idleness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безжалостный</td>
+<td>pitiless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безопасный</td>
+<td>safe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барак</td>
+<td>hut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белка</td>
+<td>squirrel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блин</td>
+<td>pancake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессмысленный</td>
+<td>senseless, meaningless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>библия</td>
+<td>bible; the Bible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>биология</td>
+<td>biology</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благословлять/благословить (+a)</td>
+<td>to bless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блеснуть (р)</td>
+<td>to flash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блестяще</td>
+<td>brilliantly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бодрый</td>
+<td>cheerful, in good form</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бойкий</td>
+<td>smart, lively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>будничный</td>
+<td>weekday (adj); dull, everyday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>булка</td>
+<td>small loaf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдохновение</td>
+<td>inspiration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдумываться/вдуматься (в +a)</td>
+<td>to ponder on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ведомость (f)</td>
+<td>list, register</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веер</td>
+<td>fan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вертолёт</td>
+<td>helicopter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верующий</td>
+<td>believer (religious)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верховье</td>
+<td>upper reaches (of river)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вещественный</td>
+<td>substantial, material</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взаимопомощь (f)</td>
+<td>mutual assistance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взлетать/взлететь</td>
+<td>to fly up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>визжать (i)</td>
+<td>to scream; squeal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виноград</td>
+<td>grapes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водоём</td>
+<td>reservoir</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возводить/возвести (+a)</td>
+<td>to raise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возвращать/возвратить (+a)</td>
+<td>to return</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возвышаться/возвыситься</td>
+<td>to rise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возмездие</td>
+<td>retribution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вой</td>
+<td>howl; wailing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волосатый</td>
+<td>hairy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восторженно</td>
+<td>enthusiastically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восход</td>
+<td>rise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>впрямь</td>
+<td>indeed (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всемерно</td>
+<td>in all possible ways</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всесторонне</td>
+<td>thoroughly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вскрывать/вскрыть (+a)</td>
+<td>to unseal; disclose; dissect; open; reveal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всплеск</td>
+<td>splash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>второстепенный</td>
+<td>secondary, subsidiary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>в-четвёртых</td>
+<td>fourthly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выключать/выключить (+a)</td>
+<td>to switch off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выписывать/выписать (+a)</td>
+<td>to write out; subscribe to (periodical)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпрямляться/выпрямиться</td>
+<td>to become straight, straighten up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпускаться/выпуститься</td>
+<td>to be released</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выразительный</td>
+<td>expressive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высказывание</td>
+<td>utterance, statement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стрелять/выстрелить (в +a)</td>
+<td>to shoot, fire (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выхватывать/выхватить (+a)</td>
+<td>to snatch, pull out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вьюга</td>
+<td>snowstorm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гениальный</td>
+<td>brilliant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гидростанция</td>
+<td>hydroelectric station</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глубь (f)</td>
+<td>depth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горевать (i)</td>
+<td>to grieve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горизонтальный</td>
+<td>horizontal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горожанин</td>
+<td>town-dweller</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гостеприимство</td>
+<td>hospitality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грипп</td>
+<td>influenza</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грузинский</td>
+<td>Georgian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двоюродный</td>
+<td>related through grandparent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>декларация</td>
+<td>declaration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дерзкий</td>
+<td>cheeky; daring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>детально</td>
+<td>minutely, in detail</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доблесть (f)</td>
+<td>valour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добродушный</td>
+<td>good-natured</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добротный</td>
+<td>high-quality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дурно</td>
+<td>bad(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душить (i) (+a)</td>
+<td>to strangle; perfume</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ежедневный</td>
+<td>daily, everyday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жадность (f)</td>
+<td>greed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жатва</td>
+<td>reaping, harvest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жизненность (f)</td>
+<td>vitality; lifelikeness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жук</td>
+<td>beetle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>журналистика</td>
+<td>journalism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заботливый</td>
+<td>solicitous, caring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заваривать/заварить (+a)</td>
+<td>to brew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заводиться/завестись</td>
+<td>to start (working); (coll) get worked up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зависимый</td>
+<td>dependent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глушить/за- (+a)</td>
+<td>to drown (a sound)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заграничный</td>
+<td>foreign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гудеть/за-</td>
+<td>to start hooting/humming</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задирать/задрать (+a)</td>
+<td>to tear to pieces; lift up (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заимствовать/по- (+a)</td>
+<td>to borrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заинтересованность (f) (в +pr)</td>
+<td>interest (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закидывать/закинуть (+a)</td>
+<td>to cast, toss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>законность (f)</td>
+<td>legality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закономерный</td>
+<td>regular, predictable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закуска</td>
+<td>hors-d’oeuvre; snack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замерзать/замёрзнуть</td>
+<td>to freeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запасный </td>
+<td>spare, reserve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запоздалый</td>
+<td>belated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заряжать/зарядить (+a)</td>
+<td>to load (weapon); charge (electrical equipment)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застреливать/застрелить (+a)</td>
+<td>to shoot dead</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застывший</td>
+<td>congealed; frozen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затея</td>
+<td>venture, undertaking; game, escapade; embellishment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затыкать/заткнуть (+a)</td>
+<td>to stop up, plug</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звёздный</td>
+<td>star (adj); starry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>звучание</td>
+<td>sound, sounds</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земельный</td>
+<td>land (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зрелость (f)</td>
+<td>maturity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>измена</td>
+<td>betrayal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инвалид</td>
+<td>invalid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иней</td>
+<td>hoar-frost</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инстанция</td>
+<td>instance, stage (in legal proceedings); department</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполнитель (m)</td>
+<td>executor; performer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испуг</td>
+<td>fright</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истреблять/истребить (+a)</td>
+<td>to destroy, exterminate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>канун</td>
+<td>eve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кашлять/кашлянуть</td>
+<td>to cough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>квадрат</td>
+<td>square</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колея</td>
+<td>rut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колпак</td>
+<td>cap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коляска</td>
+<td>pram; carriage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ком</td>
+<td>lump, ball</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конкуренция</td>
+<td>competition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контролёр</td>
+<td>inspector</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корыто</td>
+<td>tub; trough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>косить/с-</td>
+<td>to mow; twist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кошмар</td>
+<td>nightmare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кратко</td>
+<td>briefly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кулисы</td>
+<td>wings (theatre)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кусать (i) (+a)</td>
+<td>to bite; sting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лабиринт</td>
+<td>labyrinth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>легендарный</td>
+<td>legendary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лечебный</td>
+<td>medical, medicinal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>литр</td>
+<td>litre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лысина</td>
+<td>bald patch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>массивный</td>
+<td>massive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>матрос</td>
+<td>sailor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машинка</td>
+<td>(small) machine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медикамент</td>
+<td>medicine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мель (f)</td>
+<td>shoal, (sand)bank</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>меч</td>
+<td>sword</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мещанин</td>
+<td>petty bourgeois, lower middle class person; philistine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>милостивый</td>
+<td>gracious, kind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многообразие</td>
+<td>diversity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>морально</td>
+<td>morally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>моргать/моргнуть</td>
+<td>to blink; wink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>москвич</td>
+<td>Muscovite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мохнатый</td>
+<td>shaggy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мрак</td>
+<td>darkness, gloom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мстить/ото- (+d за +a)</td>
+<td>to take revenge (on s.o. for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мучительный</td>
+<td>excruciating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мыслитель (m)</td>
+<td>thinker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набок</td>
+<td>awry, on one side</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нависать/нависнуть</td>
+<td>to overhang</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навязывать/навязать (+a +d)</td>
+<td>to impose, foist (sth on s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>награждать/наградить (+a)</td>
+<td>to reward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нажим</td>
+<td>pressure; clamp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наивно</td>
+<td>naively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наилучший</td>
+<td>the best</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накопляться/накопиться</td>
+<td>to accumulate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>налицо</td>
+<td>present, visible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намекать/намекнуть (на +a)</td>
+<td>to allude to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>намереваться (i) (+inf)</td>
+<td>to intend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насекомое</td>
+<td>insect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наслаждаться/насладиться (+inst)</td>
+<td>to delight (in), get physical pleasure (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наспех</td>
+<td>hastily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насчитываться (i)</td>
+<td>to number, total</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>негр</td>
+<td>negro</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>негритянский</td>
+<td>negro (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недовольство (+inst)</td>
+<td>dissatisfaction (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незачем (+i inf)</td>
+<td>there’s no point</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неинтересно</td>
+<td>(it’s) uninteresting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нейтралитет</td>
+<td>neutrality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немой</td>
+<td>dumb, silent, mute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неотложный</td>
+<td>urgent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нерешительность (f)</td>
+<td>indecisiveness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неслыханный</td>
+<td>unprecedented</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несметный</td>
+<td>countless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неужто</td>
+<td>really? (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новорождённый</td>
+<td>new-born</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обжигать/обжечь (+a)</td>
+<td>to burn; bake, fire (bricks etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обиженно</td>
+<td>resentfully, looking hurt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обмениваться/обменяться (+inst)</td>
+<td>to exchange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оборонный</td>
+<td>defence (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оговорка</td>
+<td>reservation, proviso; slip of the tongue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одеваться/одеться</td>
+<td>to dress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>однообразный</td>
+<td>monotonous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>односторонний</td>
+<td>one-sided; one-way</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оживлённо</td>
+<td>animatedly, excitedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озорной </td>
+<td>mischievous (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озябнуть (р)</td>
+<td>to get cold, chilled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окаянный</td>
+<td>cursed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окликать/окликнуть (+a)</td>
+<td>to hail, call (to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оскорблять/оскорбить (+a)</td>
+<td>to insult</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осмотр</td>
+<td>inspection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остывать/остыть</td>
+<td>to cool down, get cold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвлечённый</td>
+<td>abstract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отворять/отворить (+a)</td>
+<td>to open</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откидывать/откинуть (+a)</td>
+<td>to throw away, throw back</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откровенность (f)</td>
+<td>frankness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отлив</td>
+<td>ebb, falling tide; tinge, tint, play of colours</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрыв (от +g)</td>
+<td>tearing off; isolation (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отталкивать/оттолкнуть (+a)</td>
+<td>to push away, repel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оформлять/оформить (+a)</td>
+<td>to put into proper form</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палить/с- (+a)</td>
+<td>to burn, scorch; singe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паровой</td>
+<td>steam (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пасти (i) (+a)</td>
+<td>to graze; to shepherd</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пенсионер</td>
+<td>pensioner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паёк</td>
+<td>ration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перевозить/перевезти (+a)</td>
+<td>to transport across, from swh to swh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перевязывать/перевязать (+a)</td>
+<td>to bandage; tie up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перехватывать/перехватать (+a)</td>
+<td>to intercept</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перечитывать/перечитать (+a)</td>
+<td>to reread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печататься (i)</td>
+<td>to be printed, be published</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пищевой</td>
+<td>food (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бледнеть/по-</td>
+<td>to turn pale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бояться/по-</td>
+<td>to be afraid, not dare to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поверхностный</td>
+<td>superficial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повисать/повиснуть</td>
+<td>to hang, dangle; droop, sag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погром</td>
+<td>pogrom, massacre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поддаваться/поддаться (+d)</td>
+<td>to yield, give way (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подлинно</td>
+<td>genuinely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подкладывать/подложить (+a)</td>
+<td>to put under; add</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подрывной</td>
+<td>undermining; subversive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покрываться/покрыться (+inst)</td>
+<td>to be covered (with), cover os (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кушать/по-</td>
+<td>to eat (polite usage)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полушарие</td>
+<td>hemisphere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полюс</td>
+<td>pole (geog)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помниться (i) (+d)</td>
+<td>to be remembered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поодаль</td>
+<td>at some distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поправляться/поправиться</td>
+<td>to get better; correct os; put on weight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поравняться (р) (с +inst)</td>
+<td>to draw level with, come up to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порция</td>
+<td>portion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постановлять/постановить</td>
+<td>to decide, resolve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-старому</td>
+<td>as before</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потихоньку </td>
+<td>slowly; quietly; secretly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потрудиться (p) (+inf)</td>
+<td>to take the trouble (to); do some work</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлопать/по-</td>
+<td>to slap, clap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почёт</td>
+<td>esteem, respect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>празднование</td>
+<td>celebration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преданный</td>
+<td>devoted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предвидение</td>
+<td>foresight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предельно</td>
+<td>maximally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предельный</td>
+<td>maximum (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предпосылка</td>
+<td>prerequisite, precondition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>президентский</td>
+<td>president’s, presidential</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пренебрежение</td>
+<td>scorn, neglect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преподавать (i) (+a)</td>
+<td>to teach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>претендовать (i) (на +a)</td>
+<td>to claim (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>привлечение</td>
+<td>attraction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прилив</td>
+<td>rising tide; influx</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приподниматься/приподняться</td>
+<td>to raise os slightly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присвоение</td>
+<td>appropriation; conferment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пристрастие (к +d)</td>
+<td>partiality; weakness (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приток</td>
+<td>tributary; inflow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пришивать/пришить (+a к +d)</td>
+<td>to sew on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проба</td>
+<td>test, trial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продвижение</td>
+<td>advancement, progress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проклинать/проклясть (+a)</td>
+<td>to curse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пронизывать/пронизать (+a)</td>
+<td>to pierce, penetrate, permeate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проникновение</td>
+<td>penetration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пружина</td>
+<td>spring (mechanism)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пульт</td>
+<td>control panel; music-stand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пшеничный</td>
+<td>wheat (adj), wheaten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пытка</td>
+<td>torture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>равнодушие</td>
+<td>indifference</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разгораться/разгореться</td>
+<td>to flare up, blaze up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разоблачение</td>
+<td>exposing, unmasking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскрытый</td>
+<td>wide-open</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расовый</td>
+<td>racial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расположенный</td>
+<td>situated; (к +d) inclined, disposed to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распределять/распределить (+a)</td>
+<td>to distribute; allocate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расслышать (р)</td>
+<td>to catch (sth said)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассуждать/рассудить (+a)</td>
+<td>to arbitrate (between), judge; decide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растерянность (f)</td>
+<td>bewilderment, dismay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расходовать/из- (+a)</td>
+<td>to spend, use up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рецепт</td>
+<td>recipe; prescription</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>румяный</td>
+<td>rosy, ruddy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рушиться/об-</td>
+<td>to collapse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыхлый</td>
+<td>friable, crumbly; (coll) podgy, flabby</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свечка</td>
+<td>small candle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свирепый</td>
+<td>ferocious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>своеобразие</td>
+<td>peculiarity, individuality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>связываться/связаться (с +inst)</td>
+<td>to get in touch with; communicate with; (coll) get involved with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>святыня</td>
+<td>sacred place or thing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сжиматься/сжаться</td>
+<td>to tighten, clench</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>символ</td>
+<td>symbol</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>символический</td>
+<td>symbolic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сирота (m/f)</td>
+<td>orphan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скорбный</td>
+<td>(grammatical term) mournful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скудный</td>
+<td>meagre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скуластый</td>
+<td>with high cheek-bones</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>следователь (m)</td>
+<td>investigator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>следом (за +inst)</td>
+<td>behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>служение (+d)</td>
+<td>service (to), serving</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смотр</td>
+<td>inspection, review</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сознательность (f)</td>
+<td>awareness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>созыв</td>
+<td>calling, summoning (of meeting) </td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопеть (i)</td>
+<td>to snuffle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соревноваться (с +inst)</td>
+<td>to compete, vie (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сплочённость (f)</td>
+<td>unity, solidarity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срабатывать/сработать</td>
+<td>to work (function) properly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суждение</td>
+<td>opinion, judgement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>супруг</td>
+<td>spouse (husband)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>существенно</td>
+<td>vitally, essentially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сыпать/по- (+a or +inst)</td>
+<td>to pour, strew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>табачный</td>
+<td>tobacco (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>творец</td>
+<td>creator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тереть/по- (+a)</td>
+<td>to rub</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толкование</td>
+<td>interpretation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тонкость (f)</td>
+<td>thinness; subtlety</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торопить/по- (+a)</td>
+<td>to hurry (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тракт</td>
+<td>highway; route</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трещать (i)</td>
+<td>to crack; crackle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тридцатый</td>
+<td>thirtieth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трость (f)</td>
+<td>cane, walking-stick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туннель (m)</td>
+<td>tunnel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угрожающий</td>
+<td>threatening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укладываться/уложиться</td>
+<td>to pack one’s things; (в +a) fit (into sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укладываться/улечься</td>
+<td>to lie down, go to bed; (p only) calm down; (p only) settle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уклон</td>
+<td>slope; deviation, bias</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>украдкой</td>
+<td>stealthily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улавливать/уловить (+a)</td>
+<td>to catch; detect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упускать/упустить (+a)</td>
+<td>to let slip; miss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усик</td>
+<td>whisker; antenna, feeler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ускользать/ускользнуть</td>
+<td>to slip away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устье</td>
+<td>mouth, estuary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уточнять/уточнить (+a)</td>
+<td>to make more precise; verify</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утрата</td>
+<td>loss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ухаживать (i) (за +inst)</td>
+<td>to look after (s.o.); make advances (to a woman)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>участь (f)</td>
+<td>fate, lot (in life)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уютный</td>
+<td>cosy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фабричный</td>
+<td>factory (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фаза</td>
+<td>phase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>федерация</td>
+<td>federation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хвойный</td>
+<td>coniferous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хмуро</td>
+<td>gloomily, sullenly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>худенький </td>
+<td>slim, thin (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>централизованный</td>
+<td>centralized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цитата</td>
+<td>quotation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частичный</td>
+<td>partial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чередоваться (i) (c +inst)</td>
+<td>to alternate (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чертить/на- (+a)</td>
+<td>to draw, draw up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>числиться (i)</td>
+<td>to be, be listed; (+inst) be considered (to be sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чувствительный</td>
+<td>sensitive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чулан</td>
+<td>store-room, box-room</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чума</td>
+<td>plague</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чуточку </td>
+<td>a little (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шведский</td>
+<td>Swedish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шестьсот</td>
+<td>six hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шкатулка</td>
+<td>casket, box</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шлёпать/шлёпнуть (+a)</td>
+<td>to smack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шорох</td>
+<td>rustle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щётка</td>
+<td>brush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экономить/с- (+a)</td>
+<td>to save, economize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этикетка</td>
+<td>label</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>юрист</td>
+<td>lawyer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>явственно</td>
+<td>clearly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ягода</td>
+<td>berry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аналогия</td>
+<td>analogy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аромат</td>
+<td>scent, aroma</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>балтийский</td>
+<td>Baltic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бас</td>
+<td>bass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безгранично</td>
+<td>infinitely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бездомный</td>
+<td>homeless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безмерно</td>
+<td>immensely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бессонница</td>
+<td>insomnia</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>библейский</td>
+<td>biblical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благословение</td>
+<td>blessing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вежливость (f)</td>
+<td>politeness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>богатырский</td>
+<td>heroic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>божественный</td>
+<td>divine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>братишка </td>
+<td>little brother (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бревенчатый</td>
+<td>made of logs</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вена</td>
+<td>vein</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бюрократ</td>
+<td>bureaucrat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>варенье</td>
+<td>jam, preserves</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вглубь</td>
+<td>into the depths</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдалеке</td>
+<td>in the distance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдоволь</td>
+<td>in abundance; enough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдохновлять/вдохновить (+a)</td>
+<td>to inspire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ведьма</td>
+<td>witch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>великолепие</td>
+<td>magnificence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веник</td>
+<td>brush, bundle of twigs (for sweeping floor or beating body in sauna)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>венок</td>
+<td>wreath, garland</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>верхом</td>
+<td>on horseback</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вечность (f)</td>
+<td>eternity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взывать/воззвать (к +d)</td>
+<td>to appeal to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вишня</td>
+<td>cherry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>включаться/включиться</td>
+<td>to join; be included; be switched on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влетать/влететь</td>
+<td>to fly in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влиятельный</td>
+<td>influential</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водиться (i)</td>
+<td>(c +inst) to associate with; be, be found</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возобновлять/возобновить (+a)</td>
+<td>to renew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воинственный</td>
+<td>warlike</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вопль (m)</td>
+<td>wail, howl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воротничок</td>
+<td>(small) collar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воспроизводить/воспроизвести (+a)</td>
+<td>to reproduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восхищаться/восхититься (+inst)</td>
+<td>to admire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вспылить (р)</td>
+<td>to flare up (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всхлипывать/всхлипнуть</td>
+<td>to sob</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всяческий </td>
+<td>all kinds of (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>втягивать/втянуть (+a)</td>
+<td>to pull in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выжимать/выжать (+a)</td>
+<td>to squeeze out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высаживать/высадить (+a)</td>
+<td>to set down, land</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высыпаться/выспаться</td>
+<td>to get enough sleep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выяснение</td>
+<td>explanation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вязать/с- (+a)</td>
+<td>to tie; knit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гармония</td>
+<td>harmony</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>героизм</td>
+<td>heroism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гибкий</td>
+<td>flexible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гимн</td>
+<td>hymn, anthem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гипотеза</td>
+<td>hypothesis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глотать (i) (+a)</td>
+<td>to swallow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голенище</td>
+<td>top (of a boot)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голодать (i)</td>
+<td>to go hungry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голосование</td>
+<td>voting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>графин</td>
+<td>carafe, decanter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>громоздкий</td>
+<td>cumbersome, bulky</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гуманитарный</td>
+<td>humanitarian; humanities (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гуща</td>
+<td>dregs; thicket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>даром</td>
+<td>free, gratis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>денёк</td>
+<td>day (dim)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>детальный</td>
+<td>detailed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дефицит</td>
+<td>deficit; shortage, shortages</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>джинсы (pl)</td>
+<td>jeans</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добросовестно</td>
+<td>conscientiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>документация</td>
+<td>documentation, documents</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достаток</td>
+<td>sufficiency; prosperity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>драматический</td>
+<td>dramatic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дружить (i) (с +inst)</td>
+<td>to be friends (with s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дурачок</td>
+<td>idiot, half-wit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душный</td>
+<td>stuffy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дымиться (i)</td>
+<td>to smoke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дырка</td>
+<td>small hole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>желающий</td>
+<td>person interested (in doing sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>желтоватый</td>
+<td>yellowish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>законченный</td>
+<td>complete; consummate, professional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запечатлевать/запечатлеть (+a)</td>
+<td>to imprint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затрагивать/затронуть (+a)</td>
+<td>to touch, affect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шагать/за-</td>
+<td>to stride out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зёрнышко</td>
+<td>grain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>значимость (f)</td>
+<td>significance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изгонять/изгнать (+a)</td>
+<td>to expel, banish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>излюбленный</td>
+<td>favourite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>измеряться/измериться</td>
+<td>to be measured</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расходовать/израсходовать (+a)</td>
+<td>to spend, use up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иллюминатор</td>
+<td>porthole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иллюстрировать (i/p) (+a)</td>
+<td>to illustrate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>именовать/на- (+a)</td>
+<td>to name</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инвентарь (m)</td>
+<td>equipment; inventory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интеллектуальный</td>
+<td>intellectual (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ископаемые</td>
+<td>minerals</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исполненный (+g)</td>
+<td>full (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исправление</td>
+<td>correction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истерика</td>
+<td>hysterics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исчерпывающий</td>
+<td>exhaustive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>итальянец</td>
+<td>Italian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>канат</td>
+<td>rope, cable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капиталовложение</td>
+<td>capital investment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>катить/по- (+a)</td>
+<td>to roll (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>киевский</td>
+<td>Kiev (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кипяток</td>
+<td>boiling water</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>классный</td>
+<td>class (adj); first-class</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клиника</td>
+<td>clinic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коза</td>
+<td>goat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>козырь (m)</td>
+<td>trump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коленка </td>
+<td>knee (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колючий</td>
+<td>prickly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комар</td>
+<td>mosquito</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комбинезон</td>
+<td>overalls</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комод</td>
+<td>chest of drawers</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конвейер</td>
+<td>conveyor belt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конфисковать (i/p) (+a)</td>
+<td>to confiscate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>концертный</td>
+<td>concert (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>концлагерь (m)</td>
+<td>concentration camp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кончина</td>
+<td>decease, demise (formal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кооперативный</td>
+<td>cooperative (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копать/копнуть (+a)</td>
+<td>to dig</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>косо</td>
+<td>squint, askew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>косточка</td>
+<td>stone (of fruit); small bone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>котёнок</td>
+<td>kitten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красить/о-</td>
+<td>to paint, colour; dye</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красноватый</td>
+<td>reddish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крах</td>
+<td>crash; failure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крошка</td>
+<td>crumb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кряхтеть (i)</td>
+<td>to groan; grunt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кузов</td>
+<td>body (of vehicle); basket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>культ</td>
+<td>cult</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лайнер</td>
+<td>liner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лёгкое</td>
+<td>lung</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лениво</td>
+<td>lazily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лечиться (i) (от +g)</td>
+<td>to undergo treatment, be treated for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>линейка</td>
+<td>line (on paper); ruler (for drawing lines)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лондонский</td>
+<td>London (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лоскут</td>
+<td>rag, scrap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любезно</td>
+<td>obligingly, courteously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>макушка</td>
+<td>top; crown (of head)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маневрировать/с-</td>
+<td>to manoeuvre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машинально</td>
+<td>mechanically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машиностроительный</td>
+<td>mechanical engineering (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мелко</td>
+<td>finely; pettily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мельком</td>
+<td>in passing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метить (i)</td>
+<td>(+a) to mark; (в +a) aim (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мещанка</td>
+<td>lower middle-class woman; philistine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многообразный</td>
+<td>diverse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молва</td>
+<td>rumour(s)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монумент</td>
+<td>monument</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>морщинка</td>
+<td>wrinkle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мраморный</td>
+<td>marble (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мужицкий</td>
+<td>peasant (adj), peasant’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наваливать/навалить (+a)</td>
+<td>to heap up, pile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навечно</td>
+<td>for ever</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навоз</td>
+<td>manure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наглухо</td>
+<td>tightly, firmly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нагревать/нагреть (+a)</td>
+<td>to warm, heat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надвигаться/надвинуться</td>
+<td>to draw near</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надобно </td>
+<td>necessary (coll) (= надо)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нанимать/нанять (+a)</td>
+<td>to hire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поить/на- (+a)</td>
+<td>to give to drink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напоследок </td>
+<td>in the end (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наравне (с +inst)</td>
+<td>level (with), on equal terms (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наскоро </td>
+<td>hastily (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настежь</td>
+<td>wide open</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>научно</td>
+<td>scientifically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недоверчиво</td>
+<td>distrustfully, suspiciously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незабываемый</td>
+<td>unforgettable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>немыслимый</td>
+<td>unthinkable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ненормальный</td>
+<td>abnormal; mad</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непобедимый</td>
+<td>invincible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неполный</td>
+<td>incomplete</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непреклонный</td>
+<td>unyielding, adamant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непреодолимый</td>
+<td>insurmountable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неслышно</td>
+<td>inaudible; inaudibly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неутомимый</td>
+<td>tireless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нырять/нырнуть</td>
+<td>to dive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обдумывать/обдумать (+a)</td>
+<td>to consider, ponder, think over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оберегать/оберечь (+a от +g)</td>
+<td>to protect (s.o. from sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обиход</td>
+<td>use; custom, practice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облачный</td>
+<td>cloudy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обливать/облить (+a +inst)</td>
+<td>to pour sth (inst) over sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обложка</td>
+<td>cover (of book etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обнажённый</td>
+<td>naked</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обобщение</td>
+<td>generalization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образцовый</td>
+<td>model, exemplary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обрушиваться/обрушиться</td>
+<td>to collapse, cave in; (на +a) fall upon, attack (s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одновременный</td>
+<td>simultaneous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оживлённый</td>
+<td>animated, excited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окрестный</td>
+<td>surrounding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опаска </td>
+<td>caution (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опровержение</td>
+<td>refutation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опущенный</td>
+<td>lowered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освободительный</td>
+<td>liberation (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осложнение</td>
+<td>complication</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осмысливать/осмыслить (+a)</td>
+<td>to make sense (of sth), interpret</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оставшийся</td>
+<td>remaining</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остроумный</td>
+<td>witty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отбор</td>
+<td>selection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отделяться/отделиться (от +g)</td>
+<td>to separate (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>откликаться/откликнуться (на +a)</td>
+<td>to respond (to sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отовсюду</td>
+<td>from everywhere</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрицание</td>
+<td>negation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ощутимый</td>
+<td>perceptible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ощущаться (i)</td>
+<td>to be felt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>панорама</td>
+<td>panorama</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парламентский</td>
+<td>parliamentary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>парта</td>
+<td>school desk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паутина</td>
+<td>cobweb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>певица</td>
+<td>singer f</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>первоначально</td>
+<td>originally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перевал</td>
+<td>crossing; mountain pass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переделка</td>
+<td>alteration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перекрёсток</td>
+<td>crossroads</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перелив</td>
+<td>tint; play of colours</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перенимать/перенять (+a)</td>
+<td>to copy, adopt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пересадка</td>
+<td>change (of transport); transplant(ation)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переспрашивать/переспросить (+a)</td>
+<td>to ask again</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>периодический</td>
+<td>periodic, recurrent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пирожок</td>
+<td>pie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плавно</td>
+<td>smoothly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плавучий</td>
+<td>floating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плодотворный</td>
+<td>fruitful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повествование</td>
+<td>narration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повиноваться (i/p) (+d)</td>
+<td>to obey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поводить/повести (+inst)</td>
+<td>to move, twitch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пограничный</td>
+<td>border (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвешивать/подвесить (+a)</td>
+<td>to suspend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поддержание</td>
+<td>support, maintenance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подлежать (i) (+d)</td>
+<td>to be subject to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подозрительный</td>
+<td>suspicious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подолгу</td>
+<td>for a long time</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-другому</td>
+<td>differently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подружиться (р) (с +inst)</td>
+<td>to make friends with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подскакивать/подскочить</td>
+<td>to run up; jump up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подступ (к +d)</td>
+<td>approach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подтверждаться/подтвердиться</td>
+<td>to be confirmed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подчас</td>
+<td>sometimes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поединок</td>
+<td>duel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поинтересоваться (р) (+inst)</td>
+<td>to take an interest, wonder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полированный</td>
+<td>polished</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>политбюро</td>
+<td>Politburo</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>политически</td>
+<td>politically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>положительно</td>
+<td>positively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помеха</td>
+<td>hindrance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понедельник</td>
+<td>Monday</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пить/по-</td>
+<td>to have a drink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порочный</td>
+<td>vicious; defective</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поспевать/поспеть (к +d/нa +a)</td>
+<td>to be in time for; ripen (coll), be on time; keep up with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посредство</td>
+<td>mediation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>посыпаться (i/p)</td>
+<td>to pour down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-твоему</td>
+<td>in your opinion; as you want it</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потирать/потереть (+a)</td>
+<td>to rub</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тревожить/по- (+a)</td>
+<td>to trouble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поучать (i) (+a)</td>
+<td>to lecture (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щадить/по- (+a)</td>
+<td>to spare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преграда</td>
+<td>obstacle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предисловие</td>
+<td>foreword</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предотвращение</td>
+<td>prevention</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предшествовать (i) (+d)</td>
+<td>to precede</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пренебрегать/пренебречь (+inst)</td>
+<td>to scorn (s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прения (n pl)</td>
+<td>debate, discussion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прибрежный</td>
+<td>coastal; riverside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прививать/привить (+a)</td>
+<td>to inoculate; inculcate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приз</td>
+<td>prize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прикреплять/прикрепить (+a к +d)</td>
+<td>to fasten (sth to sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примета</td>
+<td>sign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присваивать/присвоить (+a)</td>
+<td>to take over, appropriate; award, confer (sth on s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присматривать/присмотреть (за +inst)</td>
+<td>to look after, supervise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пристальный</td>
+<td>fixed, constant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присутствующий</td>
+<td>present, (as noun) person present</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приучать/приучить (+inf or к +d)</td>
+<td>to train (to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>причёска</td>
+<td>hairstyle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>причудливый</td>
+<td>odd, whimsical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проповедовать (i) (+a)</td>
+<td>to preach; advocate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прорываться/прорваться</td>
+<td>to break through; tear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прорезывать/прорезать (+a)</td>
+<td>to cut through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просвечивать (i)</td>
+<td>to be translucent; shine through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прославлять/прославить (+a)</td>
+<td>to make famous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простаивать/простоять</td>
+<td>to stand idle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простыня</td>
+<td>sheet (bedding)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протокол</td>
+<td>protocol; minutes (of meeting)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>процедура</td>
+<td>procedure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>птичка</td>
+<td>small bird; tick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пульс</td>
+<td>pulse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пускай</td>
+<td>let (= пусть) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пустырь (m)</td>
+<td>waste ground</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пылать (i)</td>
+<td>to blaze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радикальный</td>
+<td>radical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радужный</td>
+<td>iridescent; radiant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбег</td>
+<td>run</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбой</td>
+<td>banditry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбойничий</td>
+<td>robber’s, brigand’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разводиться/развестись</td>
+<td>to get divorced; breed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздражённо</td>
+<td>with irritation, crossly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разлетаться/разлететься</td>
+<td>to fly apart; scatter, shatter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размещаться/разместиться</td>
+<td>to be seated, placed, accommodated, take one’s place</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разновидность (f)</td>
+<td>variety, type</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрываться/разорваться</td>
+<td>to break; explode</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разоряться/разориться</td>
+<td>to be ruined, bankrupt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрешаться (i)</td>
+<td>to be permitted; be resolved</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раса</td>
+<td>race (ethnic)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскаиваться/раскаяться (в +pr)</td>
+<td>to repent (of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскидывать/раскинуть (+a)</td>
+<td>to stretch out, extend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расправляться/расправиться (с +inst)</td>
+<td>to deal with; straighten out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расцветать/расцвести</td>
+<td>to blossom, bloom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реализм</td>
+<td>realism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>регулярно</td>
+<td>regularly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>регулярный</td>
+<td>regular</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ремонтировать (i/p) (+a)</td>
+<td>to repair, redecorate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ржавый</td>
+<td>rusty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>робеть/о-</td>
+<td>to be timid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>розыгрыш</td>
+<td>(lottery) draw; practical joke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роковой</td>
+<td>fateful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>роскошный</td>
+<td>luxurious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рослый</td>
+<td>tall, strapping</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыться/по- (в +pr)</td>
+<td>to dig, rummage (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самоотверженный</td>
+<td>self-sacrificing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>санитарный</td>
+<td>medical, sanitary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>седина</td>
+<td>grey hair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>секретный</td>
+<td>secret (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>секция</td>
+<td>section</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семьсот</td>
+<td>seven hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сессия</td>
+<td>session; examinations</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>склонять/склонить (+a)</td>
+<td>to bend, bow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слияние</td>
+<td>confluence; merging</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сложно</td>
+<td>complicated(ly)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мешать/с- (+a)</td>
+<td>to mix</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смешиваться/смешаться</td>
+<td>to mix, mingle; get mixed up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смола</td>
+<td>tar, pitch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смущённый</td>
+<td>embarrassed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собранный</td>
+<td>disciplined; precise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совпадение</td>
+<td>coincidence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сомнительный</td>
+<td>doubtful, dubious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосредоточиваться/сосредоточиться (на +pr)</td>
+<td>to concentrate (on)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спасительный</td>
+<td>saving, life saving</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спирт</td>
+<td>alcohol, spirit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сплочённый</td>
+<td>united</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ставень (m)</td>
+<td>shutter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>темнеть/с-</td>
+<td>to get dark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стирать/стереть (+a)</td>
+<td>to rub off; grind down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сталкивать/столкнуть (+a)</td>
+<td>to push off; to knock together</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стон</td>
+<td>groan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стоп</td>
+<td>stop!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суетиться/за-</td>
+<td>to run around, fuss about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суконный</td>
+<td>cloth (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>счастливец</td>
+<td>lucky man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>счёты (pl)</td>
+<td>abacus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таракан</td>
+<td>cockroach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тахта</td>
+<td>divan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телеграфный</td>
+<td>telegraph (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>терпеливый</td>
+<td>patient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тесто</td>
+<td>pastry, dough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толчок</td>
+<td>push; jolt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>топтаться (i)</td>
+<td>to stamp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торговец</td>
+<td>trader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тоскливо</td>
+<td>drearily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тоскливый</td>
+<td>depressed, depressing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>требовательный</td>
+<td>demanding</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тренировка</td>
+<td>training</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>треть (f)</td>
+<td>third</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трогаться/тронуться</td>
+<td>to set off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трусливый</td>
+<td>cowardly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тряпьё</td>
+<td>rags</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тряхнуть (p)</td>
+<td>to shake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тсс</td>
+<td>shh! keep quiet!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тумба</td>
+<td>pedestal; bollard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тучка</td>
+<td>small cloud</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угнетать (i) (+a)</td>
+<td>to oppress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удочка</td>
+<td>fishing rod</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укоризненно</td>
+<td>reproachfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уместно</td>
+<td>appropriately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умысел</td>
+<td>intention</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>унижать/унизить (+a)</td>
+<td>to humiliate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уничтожаться/уничтожиться</td>
+<td>to be destroyed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>управляемый</td>
+<td>controlled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>управляться (i)</td>
+<td>to be controlled; (c +inst) deal with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усиленно</td>
+<td>intensively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усиленный</td>
+<td>intensive, intensified</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ухитряться/ухитриться (+inf)</td>
+<td>to manage (to do sth) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уют</td>
+<td>comfort, cosiness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уютно</td>
+<td>cosily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уяснять/уяснить (+a)</td>
+<td>to understand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фальшивый</td>
+<td>false</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фарфор</td>
+<td>porcelain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фасад</td>
+<td>façade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>характеризоваться (i) (+inst)</td>
+<td>to be characterized (by)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлебнуть (р) </td>
+<td>to drink (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлопотать/по-</td>
+<td>to bustle about; make efforts</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>холодок </td>
+<td>coolness; cool place (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хорошенько </td>
+<td>properly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хрипеть (i)</td>
+<td>to wheeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>христианский</td>
+<td>Christian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хромать (i)</td>
+<td>to limp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хромой</td>
+<td>lame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>худший</td>
+<td>worst</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цветущий</td>
+<td>blooming; flourishing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целесообразность (f)</td>
+<td>expediency</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>человечность (f)</td>
+<td>humaneness, humanity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чернеть/по-</td>
+<td>to turn black</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чёртов</td>
+<td>devil’s (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудовище</td>
+<td>monster</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чужбина</td>
+<td>foreign land</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шахтёр</td>
+<td>miner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шеренга</td>
+<td>rank, file, column</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шестнадцатый</td>
+<td>sixteenth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штора</td>
+<td>(window) blind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шуршать (i)</td>
+<td>to rustle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авантюрист</td>
+<td>adventurer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авиационный</td>
+<td>aviation (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агитировать (i)</td>
+<td>to agitate, campaign</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>акт</td>
+<td>act (of play); document</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>али </td>
+<td>or (coll) (= или)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аргумент</td>
+<td>argument</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>астрономия</td>
+<td>astronomy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>базис</td>
+<td>basis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баловаться (i)</td>
+<td>to play about, indulge os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бар</td>
+<td>bar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бархатный</td>
+<td>velvet (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спиртной</td>
+<td>alcoholic (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>башмак</td>
+<td>shoe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бедно</td>
+<td>poorly, cheaply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безвестный</td>
+<td>unknown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безграмотный</td>
+<td>illiterate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безделушка</td>
+<td>knick-knack, trinket</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бездельник</td>
+<td>idler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бездонный</td>
+<td>bottomless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бережливость (f)</td>
+<td>thrift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>берёт</td>
+<td>beret</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесплатно</td>
+<td>free (without payment)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспрепятственный</td>
+<td>unimpeded, unhindered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесстрашно</td>
+<td>fearlessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бешенство</td>
+<td>fury; rabies</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>биолог</td>
+<td>biologist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>биржа</td>
+<td>exchange; stock exchange биржа труда labour exchange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сносить/снести (+a)</td>
+<td>to demolish; take down, take off; carry away</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бланк</td>
+<td>form (document)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>близиться/при-</td>
+<td>to draw near</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>близорукий</td>
+<td>short-sighted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блуждать (i)</td>
+<td>to wander</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>богато</td>
+<td>richly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боеприпасы (pl)</td>
+<td>ammunition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бойня</td>
+<td>slaughter-house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боязно  (+d) (+inf)</td>
+<td>afraid (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брешь (f)</td>
+<td>breach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>булыжник</td>
+<td>cobble-stone; cobbles</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буркать/буркнуть</td>
+<td>to mutter, growl (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валюта</td>
+<td>currency; foreign currency</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ватный</td>
+<td>quilted; cotton wool (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ввысь</td>
+<td>upwards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдогонку </td>
+<td>in pursuit (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>венский</td>
+<td>Viennese</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вериться (i) (+d)</td>
+<td>to believe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>версия</td>
+<td>version</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вестник</td>
+<td>messenger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устаревать/устареть</td>
+<td>to become obsolete, go out of date</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взрываться/взорваться</td>
+<td>to explode</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взятие</td>
+<td>taking, capture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взятка</td>
+<td>bribe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>винить/об- (+a в +pr)</td>
+<td>to accuse (s.o. of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вкусно</td>
+<td>tasty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тонуть/у-</td>
+<td>to drown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>властно</td>
+<td>imperiously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>властный</td>
+<td>imperious; authoritative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влечь (р) (+a)</td>
+<td>to draw; attract</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водоросль (f)</td>
+<td>seaweed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возбуждающий</td>
+<td>arousing, stimulating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возбуждённо</td>
+<td>excitedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воздвигать/воздвигнуть (+a)</td>
+<td>to raise, erect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воздействовать (i/p) (на +a)</td>
+<td>to affect, influence, put pressure on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возмущать/возмутить (+a)</td>
+<td>to anger, outrage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вооружаться/вооружиться</td>
+<td>to arm os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восемнадцатый</td>
+<td>eighteenth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воскресать/воскреснуть</td>
+<td>to come back to life; revive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воспитываться/воспитаться</td>
+<td>to be brought up; be fostered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вражда</td>
+<td>enmity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>враждебно</td>
+<td>hostilely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предвыборный</td>
+<td>election (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>врозь</td>
+<td>separately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всенощная</td>
+<td>night service (church)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всероссийский</td>
+<td>all-Russian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выборный</td>
+<td>electoral; elected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выбывать/выбыть (из +g)</td>
+<td>to leave (formal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выговаривать/выговорить (+a)</td>
+<td>to pronounce, articulate; (coll, i only) tell off, reprimand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выживать/выжить</td>
+<td>to survive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выкидывать/выкинуть (+a)</td>
+<td>to throw out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выметать/вымести (+a)</td>
+<td>to sweep out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выплата</td>
+<td>payment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выполняться (i)</td>
+<td>to be fulfilled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выпуклый</td>
+<td>prominent, bulging; convex</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вышвыривать/вышвырнуть (+a)</td>
+<td>to throw out, chuck out (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гавань (f)</td>
+<td>harbour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>герб</td>
+<td>coat of arms</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>геройство</td>
+<td>heroism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гимнастика</td>
+<td>gymnastics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голубчик </td>
+<td>my dear (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гонорар</td>
+<td>fee; royalties</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гоняться (i) (за +inst)</td>
+<td>to chase (after)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горячиться/раз-</td>
+<td>to get excited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гражданка</td>
+<td>citizen (f)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>греться/по-</td>
+<td>to warm os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гулко</td>
+<td>resonantly; with an echoing sound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гулянье</td>
+<td>festival, fete, open-air party</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девятнадцатый</td>
+<td>nineteenth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>делец</td>
+<td>wheeler-dealer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дерзость (f)</td>
+<td>rudeness; audacity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доброта</td>
+<td>goodness, kindness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доисторический</td>
+<td>prehistoric</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>документальный</td>
+<td>documentary (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>домна</td>
+<td>blast furnace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>досадно</td>
+<td>annoying</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достоверность (f)</td>
+<td>authenticity, reliability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>драть/со- (+a)</td>
+<td>to tear; thrash; fleece (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дубовый</td>
+<td>oak (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дурить (i) </td>
+<td>to be naughty, fool about (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дымный</td>
+<td>smoky</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дымчатый</td>
+<td>smoke-coloured</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дьякон</td>
+<td>deacon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дядька (m) </td>
+<td>uncle; man, bloke (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ель (f)</td>
+<td>fir; spruce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ёмкость (f)</td>
+<td>capacity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жгучий</td>
+<td>burning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>желательно</td>
+<td>(it is) desirable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жерло</td>
+<td>mouth, muzzle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жёрнов</td>
+<td>millstone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жизнерадостный</td>
+<td>cheerful, happy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забвение</td>
+<td>oblivion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заботливо</td>
+<td>solicitously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забрести (р)</td>
+<td>to wander in, drop in; stray</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загар</td>
+<td>suntan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загибать/загнуть (+a)</td>
+<td>to bend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загораживать/загородить (+a)</td>
+<td>to fence in; obstruct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загрузка</td>
+<td>loading</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задержка</td>
+<td>delay</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зазвенеть (р)</td>
+<td>to begin to ring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заладить (р) (+a)</td>
+<td>to keep repeating (sth); (+inf) get into the habit of (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>залетать/залететь (в +a) </td>
+<td>to fly in; (за +a) fly behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заливаться/залиться</td>
+<td>to be flooded; (+inst) start to do sth vigorously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маскировать/за- (+a)</td>
+<td>to disguise, camouflage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>западня</td>
+<td>trap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зараза</td>
+<td>infection; (coll) pest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заражать/заразить (+a +inst)</td>
+<td>to infect (s.o. with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резать/за- (+a)</td>
+<td>to kill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заслонять/заслонить (+a)</td>
+<td>to shield, conceal, screen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обнадёживать/обнадёжить (+a)</td>
+<td>to give hope (to), reassure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затворять/затворить (+a)</td>
+<td>to close</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затериваться/затеряться</td>
+<td>to go missing, be mislaid; vanish (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>захлопывать/захлопнуть (+a)</td>
+<td>to bang, slam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>защищаться/защититься</td>
+<td>to defend os; defend one’s thesis (for a higher degree)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зевать/зевнуть</td>
+<td>to yawn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>земледельческий</td>
+<td>agricultural</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>злодей</td>
+<td>villain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зорко</td>
+<td>sharp-sightedly, vigilantly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зять (m)</td>
+<td>son-in-law; brother-in-law</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идеализм</td>
+<td>idealism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издаваться/издаться</td>
+<td>to be published</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издавна</td>
+<td>since long ago</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>издательский</td>
+<td>publishing (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изумлённо</td>
+<td>with amazement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буржуазия</td>
+<td>bourgeoisie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>классовый</td>
+<td>class (political) (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>алмаз</td>
+<td>(uncut) diamond</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосуд</td>
+<td>vessel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монополия</td>
+<td>monopoly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятилетка</td>
+<td>five-year plan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чайка</td>
+<td>seagull</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кислота</td>
+<td>acid; acidity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>консул</td>
+<td>consul</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>австрйец</td>
+<td>Austrian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>австрийский</td>
+<td>Austrian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окорок</td>
+<td>ham, gammon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>майор</td>
+<td>major</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всесоюзный</td>
+<td>all-union (relating to all the republics of the USSR)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>углерод</td>
+<td>carbon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>управляющий (+inst)</td>
+<td>manager</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колониальный</td>
+<td>colonial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красноармёец</td>
+<td>Red Army soldier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шарф</td>
+<td>scarf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>волосок</td>
+<td>(a) hair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>специализированный</td>
+<td>specialized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эксперт</td>
+<td>expert</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>араб</td>
+<td>Arab</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беженец</td>
+<td>refugee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вахта</td>
+<td>watch (on ship); special work shift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трест</td>
+<td>trust; group of companies</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хоккеист</td>
+<td>hockey player</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всадник</td>
+<td>horseman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вычислительный</td>
+<td>calculating, computing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гипс</td>
+<td>plaster (of Paris)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общаться (i) (с +inst)</td>
+<td>associate, socialize (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заготовка</td>
+<td>state order (for goods); stocking up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монархия</td>
+<td>monarchy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нравственность (f)</td>
+<td>morality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>длительность (f)</td>
+<td>duration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мишень (f)</td>
+<td>target</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зарплата (заработная плата)</td>
+<td>pay, wages, salary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трасса</td>
+<td>route, course (of road etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казачий</td>
+<td>Cossack (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кухарка</td>
+<td>cook (f)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облигация</td>
+<td>bond</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вальс</td>
+<td>waltz</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кормовой</td>
+<td>stem (of ship - adj); fodder (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>астроном</td>
+<td>astronomer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воззрение</td>
+<td>opinion, outlook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кодекс</td>
+<td>code, codex</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эфир</td>
+<td>air (broadcasting); ether</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зола</td>
+<td>ashes, cinders</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>китель (m)</td>
+<td>military jacket, high-necked tunic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>концентрация</td>
+<td>concentration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обождать (р) (+a)</td>
+<td>to wait (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превосходительство</td>
+<td>excellency (title)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буржуй </td>
+<td>bourgeois (noun) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идейный</td>
+<td>ideological; containing ideas; progressive; high-principled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>электронный</td>
+<td>electronic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буксир</td>
+<td>tugboat; tow-rope</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лакей</td>
+<td>lackey; servant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропуск</td>
+<td>pass, permit; blank, gap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осадок</td>
+<td>sediment; deposition; after-taste</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растительный</td>
+<td>vegetable (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ячейка</td>
+<td>cell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>артиллерист</td>
+<td>gunner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосуществование</td>
+<td>coexistence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озимый</td>
+<td>winter of crops</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поручик</td>
+<td>lieutenant (tsarist army)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горничная</td>
+<td>maid (servant)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>терраса</td>
+<td>terrace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вселённая</td>
+<td>universe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>люк</td>
+<td>hatch, hatchway, manhole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скептик</td>
+<td>sceptic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светящийся</td>
+<td>luminous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хрусталь (m)</td>
+<td>crystal, cut glass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плуг</td>
+<td>plough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частушка</td>
+<td>chastushka, witty rhyme</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ширма</td>
+<td>screen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>союзный</td>
+<td>allied; of the USSR</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спекулянт</td>
+<td>speculator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тренер</td>
+<td>trainer, coach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брусок</td>
+<td>bar, ingot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гранит</td>
+<td>granite</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кролик</td>
+<td>rabbit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монументальный</td>
+<td>monumental</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водород</td>
+<td>hydrogen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>очко</td>
+<td>point (in scoring); (pl) glasses, spectacles</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рудник</td>
+<td>mine (for minerals)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>футбол</td>
+<td>football</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хутор</td>
+<td>farm; Ukrainian hamlet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потребление</td>
+<td>consumption</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>республиканский</td>
+<td>republican</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кратер</td>
+<td>crater</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атмосферный</td>
+<td>atmospheric</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>световой</td>
+<td>light (adj, as in ‘light year’)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>станица</td>
+<td>Cossack village</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>руда</td>
+<td>ore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бабка </td>
+<td>grandmother; old woman (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>канадец</td>
+<td>Canadian (man)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кукуруза</td>
+<td>maize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лирический</td>
+<td>lyrical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нары (pl)</td>
+<td>bunk, plank-bed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>научно-технический</td>
+<td>scientific and technical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серный</td>
+<td>sulphuric</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фланг</td>
+<td>flank</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шестёрка</td>
+<td>six; group of six</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шеф</td>
+<td>boss, chief</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брус</td>
+<td>beam (of wood or metal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>египетский</td>
+<td>Egyptian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>излучать/излучить (+a)</td>
+<td>to radiate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коммунистический</td>
+<td>communist (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контрреволюция</td>
+<td>counter-revolution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>котлован</td>
+<td>foundation pit, trench</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>линза</td>
+<td>lens</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обоз</td>
+<td>string of carts; military transport</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аж </td>
+<td>even (coll) (= даже)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буфетчик</td>
+<td>barman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кубометр</td>
+<td>cubic metre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>курган</td>
+<td>barrow, burial mound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>металлургический</td>
+<td>metallurgical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обсерватория</td>
+<td>observatory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отчётный</td>
+<td>report (adj), reporting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>платёжный</td>
+<td>payment (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>платёж</td>
+<td>payment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покуда </td>
+<td>while (coll) (= пока)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочный</td>
+<td>juicy, rich</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суша</td>
+<td>(dry) land (opposite of sea)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>агитатор</td>
+<td>agitator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>альпийский</td>
+<td>alpine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>батя (m) </td>
+<td>dad, father (coll) (= батюшка)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>большевистский</td>
+<td>Bolshevik (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стабильность (f)</td>
+<td>stability</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гимназист</td>
+<td>grammar-school pupil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изумруд</td>
+<td>emerald</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проектирование</td>
+<td>planning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>урожайность (f)</td>
+<td>crop productivity, yield</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>физкультура</td>
+<td>physical training</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устный</td>
+<td>oral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выемка</td>
+<td>taking out; collection (of letters)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гармошка </td>
+<td>accordion (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горком</td>
+<td>town committee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заряженный</td>
+<td>loaded (of weapon)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>караван</td>
+<td>caravan; convoy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крона</td>
+<td>crown (of tree); crown (currency)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механика</td>
+<td>mechanics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накидка</td>
+<td>cloak, mantle, cape</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отставлять/отставить (+a)</td>
+<td>to set aside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>павильон</td>
+<td>pavilion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>патруль (m)</td>
+<td>patrol</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>портовый</td>
+<td>port (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проситься/по- (+inf or в/на +a)</td>
+<td>to ask for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скульптор</td>
+<td>sculptor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упираться/упереться (в +a)</td>
+<td>to lean (against); come up against</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уполномоченный</td>
+<td>plenipotentiary; person authorized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шайба</td>
+<td>washer; (hockey) puck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штатский</td>
+<td>civilian (adj) (not military)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штык</td>
+<td>bayonet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>альбом</td>
+<td>album</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>Богородица</td>
+<td>the Virgin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>валовой</td>
+<td>gross (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гол</td>
+<td>goal (sport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грузчик</td>
+<td>docker; freight handler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>двусторонний</td>
+<td>double-sided, two-way; bilateral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девальвация</td>
+<td>devaluation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>десятина</td>
+<td>desiatina (about a hectare)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>козырёк</td>
+<td>peak (of cap)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>субъективный</td>
+<td>subjective</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вожжа</td>
+<td>rein</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гамма</td>
+<td>scale; gamut, range</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карниз</td>
+<td>cornice; ledge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>древесина</td>
+<td>timber</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опрос</td>
+<td>survey; questioning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>католический</td>
+<td>Catholic (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комета</td>
+<td>comet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>литератор</td>
+<td>literary man, man of letters</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перевозка</td>
+<td>transportation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвижный</td>
+<td>mobile, agile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проектный</td>
+<td>planning (adj); projected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раковина</td>
+<td>(sea)shell; sink, wash-basin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>семечко</td>
+<td>(small) seed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сера</td>
+<td>sulphur</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сметана</td>
+<td>sour cream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суждено (+d +inf)</td>
+<td>it is fated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ввод</td>
+<td>bringing in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внешнеполитический</td>
+<td>foreign-policy (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вредитель (m)</td>
+<td>pest</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дотация</td>
+<td>subsidy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жилетка</td>
+<td>waistcoat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заболевание</td>
+<td>illness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закалка</td>
+<td>physical training, fitness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>залежь (f)</td>
+<td>(mineral) deposit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зерновой</td>
+<td>grain (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изготовляться/изготовиться</td>
+<td>to be manufactured; get ready</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инспекция</td>
+<td>inspection</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коллективизация</td>
+<td>collectivization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конструкторский</td>
+<td>design (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кооперация</td>
+<td>cooperation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лесничий</td>
+<td>forest warden, ranger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лишение</td>
+<td>deprivation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>производитель (m)</td>
+<td>producer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>феномен</td>
+<td>phenomenon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радист</td>
+<td>radio operator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упрочение</td>
+<td>strengthening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уран</td>
+<td>uranium</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хам </td>
+<td>boor (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хрустальный</td>
+<td>crystal (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>алкоголик</td>
+<td>alcoholic (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чреватый (+inst)</td>
+<td>fraught (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>география</td>
+<td>geography</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душевно</td>
+<td>mentally; cordially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>известь (f)</td>
+<td>lime (chemical)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конюшня</td>
+<td>stable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крупа</td>
+<td>groats (grain)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лягушка</td>
+<td>frog</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>металлургия</td>
+<td>metallurgy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мыс</td>
+<td>cape, promontory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обследовать (i/p) (+a)</td>
+<td>to investigate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрез</td>
+<td>cut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перемирие</td>
+<td>truce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плот</td>
+<td>raft</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предусматриваться (i)</td>
+<td>to be envisaged, be stipulated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>принуждение</td>
+<td>compulsion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прирост</td>
+<td>increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разгадывать/разгадать (+a)</td>
+<td>to guess, work out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растворять/растворить (+a)</td>
+<td>to open; dissolve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реактивный</td>
+<td>jet-propelled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рысь (f)</td>
+<td>trot; lynx</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рюкзак</td>
+<td>rucksack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>связист</td>
+<td>signaller; communications engineer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>синтетический</td>
+<td>synthetic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сострадание</td>
+<td>compassion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старт</td>
+<td>start (sport)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сушить/вы- (+a)</td>
+<td>to dry (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>декада</td>
+<td>ten-day period</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завоеватель (m)</td>
+<td>conqueror</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>катушка</td>
+<td>reel, spool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>китаец</td>
+<td>Chinaman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комендатура</td>
+<td>commandant’s office</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>котлета</td>
+<td>cutlet; meatball, hamburger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>математический</td>
+<td>mathematical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>микрофон</td>
+<td>microphone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обострение</td>
+<td>intensification, sharpening</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пират</td>
+<td>pirate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плавки (pl)</td>
+<td>swimming trunks</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поваренный</td>
+<td>culinary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>престарелый</td>
+<td>aged, of advanced years</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пурга</td>
+<td>blizzard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>репортёр</td>
+<td>reporter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свинство </td>
+<td>swinish trick (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>секретарша </td>
+<td>(female) secretary (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таёжный</td>
+<td>taiga (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убеждённость (f)</td>
+<td>conviction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шотландский</td>
+<td>Scottish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шпага</td>
+<td>sword</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штабной</td>
+<td>staff, headquarters (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щепа</td>
+<td>splinter, chip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эволюция</td>
+<td>evolution</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экватор</td>
+<td>equator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ягнёнок</td>
+<td>lamb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>австралийский</td>
+<td>Australian (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>антисемитизм</td>
+<td>antisemitism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>боб</td>
+<td>bean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>булавка</td>
+<td>pin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ватага</td>
+<td>band, gang</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воззвание</td>
+<td>appeal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всемерный</td>
+<td>utmost, every kind of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дебют</td>
+<td>debut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>естествознание</td>
+<td>natural science</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>милосердие</td>
+<td>mercy, charity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карусель (f)</td>
+<td>merry-go-round, carousel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кондиционер</td>
+<td>air conditioner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хозрасчёт</td>
+<td>self-financing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чутьё</td>
+<td>scent; instinct, intuition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накалённый</td>
+<td>white-hot; tense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новатор</td>
+<td>innovator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оптимальный</td>
+<td>optimal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остов</td>
+<td>framework</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отсек</td>
+<td>compartment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прищуриваться/прищуриться</td>
+<td>to screw up one’s eyes, half close one’s eyes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробег</td>
+<td>run, race</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прослезиться (р)</td>
+<td>to shed tears</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скула</td>
+<td>cheekbone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ракетный</td>
+<td>rocket (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резьба</td>
+<td>carving</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родовой</td>
+<td>ancestral; generic; birth (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>социал-демократический</td>
+<td>social-democratic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туалет</td>
+<td>toilet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>футболист</td>
+<td>footballer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чемоданчик</td>
+<td>small suitcase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шовинизм</td>
+<td>chauvinism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шоры (pl)</td>
+<td>blinkers</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аванс</td>
+<td>advance (payment)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>атеистический</td>
+<td>atheistic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бабушкин</td>
+<td>grandmother’s (possessive adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гипсовый</td>
+<td>plaster</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ересь (f)</td>
+<td>heresy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застенок</td>
+<td>torture-chamber</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кефир</td>
+<td>kefir, yoghurt-type drink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>извещать/известить (+a)</td>
+<td>to inform, notify (bookish)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>калач</td>
+<td>kalach (small white loaf)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кличка</td>
+<td>nickname; name (of pet animal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колокольчик</td>
+<td>small bell; bluebell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>композиция</td>
+<td>composition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контур</td>
+<td>contour; outline; electrical circuit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>координация</td>
+<td>coordination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кочка</td>
+<td>hummock</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кубик</td>
+<td>child’s building brick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кура </td>
+<td>hen (coll) (=курица)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кустарник</td>
+<td>bushes, shrubs</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ледниковый</td>
+<td>glacial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лепить/вы- (+a)</td>
+<td>to model, mould</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лирика</td>
+<td>lyric poetry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медлить (i)</td>
+<td>to be slow, tarry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миленький</td>
+<td>sweet, nice, dear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мозаика</td>
+<td>mosaic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нагреваться/нагреться</td>
+<td>to warm os, warm up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обновление</td>
+<td>renovation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>познавать/познать (+a)</td>
+<td>to get to know, experience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приостанавливаться/приостановиться</td>
+<td>to stop (for a while), pause</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расписание</td>
+<td>timetable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сажа</td>
+<td>soot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светило</td>
+<td>luminary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сечение</td>
+<td>cutting; section</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слива</td>
+<td>plum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сношение</td>
+<td>intercourse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туша</td>
+<td>carcass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упряжка</td>
+<td>team (of horses, dogs); harness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утопический</td>
+<td>utopian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ходовой</td>
+<td>(coll) popular; operational, working</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чувствительность (f)</td>
+<td>sensitivity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудный</td>
+<td>wonderful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фара</td>
+<td>headlamp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шлюз</td>
+<td>lock, sluice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шов</td>
+<td>seam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шрам</td>
+<td>scar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эмигрант</td>
+<td>emigrant, emigre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>азот</td>
+<td>nitrogen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аристократ</td>
+<td>aristocrat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бес</td>
+<td>demon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беседка</td>
+<td>summer-house</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благоустройство</td>
+<td>equipping with amenities</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болотный</td>
+<td>marsh (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брошка</td>
+<td>brooch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>варьировать (i) (+a)</td>
+<td>to vary, modify</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ветвиться/раз-</td>
+<td>to branch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вишь</td>
+<td>look!</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водопровод</td>
+<td>water-pipe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возбуждаться/возбудиться</td>
+<td>to become aroused</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восковой</td>
+<td>wax (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восторгаться (i) (+inst)</td>
+<td>to be delighted (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кинотеатр</td>
+<td>cinema</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доступ (к +d)</td>
+<td>access (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объект</td>
+<td>object; construction site, building</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>губернатор</td>
+<td>governor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дворянство</td>
+<td>gentry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дивиться/по- (+d)</td>
+<td>to wonder, marvel (at) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>диктатор</td>
+<td>dictator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жёлоб</td>
+<td>gutter, chute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>военно-морской</td>
+<td>naval</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жилка</td>
+<td>vein</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>измельчённый</td>
+<td>crumbled, chopped up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испарение</td>
+<td>evaporation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>катер</td>
+<td>cutter, launch (boat)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>текстильный</td>
+<td>textile (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тюк</td>
+<td>bale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвал</td>
+<td>slag-heap, dump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истечение</td>
+<td>outflow; expiry, termination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>керосиновый</td>
+<td>kerosene (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конус</td>
+<td>cone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крепостничество</td>
+<td>serfdom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ледовый</td>
+<td>ice (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лепёшка</td>
+<td>flat cake; scone; lozenge, pastille</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лесник</td>
+<td>forester, forest ranger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>максимум</td>
+<td>maximum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>машинистка</td>
+<td>typist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общенародный</td>
+<td>national, of the whole people</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оригинал</td>
+<td>original; eccentric (noun)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ориентация</td>
+<td>orientation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осыпать (i/p) (+a +inst)</td>
+<td>to shower (s.o./sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пёрышко </td>
+<td>(little) feather (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пеший</td>
+<td>pedestrian, foot (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>питерский </td>
+<td>St Petersburg (adj) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>победоносный</td>
+<td>victorious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карать/по- (+a)</td>
+<td>to punish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полковой</td>
+<td>regimental</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приписка</td>
+<td>(written) addition</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промеж (+g or +inst)</td>
+<td>between (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>резец</td>
+<td>cutting tool; incisor (tooth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>репродукция</td>
+<td>reproduction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рисоваться (i)</td>
+<td>to show off, pose; seem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рукоятка</td>
+<td>handle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серп</td>
+<td>sickle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сирень (f)</td>
+<td>lilac</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собачонка </td>
+<td>little dog (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соприкосновение</td>
+<td>contact</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сплав</td>
+<td>alloy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срез</td>
+<td>cut; cut edge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сток</td>
+<td>flow; drain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>струйка</td>
+<td>thin stream, trickle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сыр</td>
+<td>cheese</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>термометр</td>
+<td>thermometer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>транспортировка</td>
+<td>transportation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трюм</td>
+<td>hold (of ship)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>угодье</td>
+<td>usable land</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уцелевший</td>
+<td>surviving</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>участница</td>
+<td>participant (f)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>имение</td>
+<td>estate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инстинкт</td>
+<td>instinct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>интенсивный</td>
+<td>intensive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испанский</td>
+<td>Spanish (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>извозчик</td>
+<td>carrier, cabman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исследовательский</td>
+<td>research (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кавказский</td>
+<td>Caucasian, of the Caucasus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>казарма</td>
+<td>barracks</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>капкан</td>
+<td>trap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карьерист</td>
+<td>careerist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кастрюля</td>
+<td>saucepan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кашель (m)</td>
+<td>cough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кинжал</td>
+<td>dagger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кишка</td>
+<td>gut, intestine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клинок</td>
+<td>blade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клоун</td>
+<td>clown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клубок</td>
+<td>ball (of wool etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кобель (m)</td>
+<td>male dog</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кое-какой</td>
+<td>some, certain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коммерческий</td>
+<td>commercial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коллекционер</td>
+<td>collector</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колодец</td>
+<td>well</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колотить/по- (+a)</td>
+<td>to batter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колючка</td>
+<td>prickle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>комплект</td>
+<td>set, complete set</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>конвой</td>
+<td>escort</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коньки (m pl)</td>
+<td>skates</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коньяк</td>
+<td>cognac, brandy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>координировать (i/p) (+a)</td>
+<td>to coordinate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копошиться (i)</td>
+<td>to swarm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копчёный</td>
+<td>smoked</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>копьё</td>
+<td>spear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>королёвский</td>
+<td>royal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коммунальный</td>
+<td>communal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>космонавт</td>
+<td>cosmonaut</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>краб</td>
+<td>crab</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красться (i)</td>
+<td>to creep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кроткий</td>
+<td>gentle, meek</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кругозор</td>
+<td>horizon, outlook</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кружить (i) (+a)</td>
+<td>to spin; circle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крымский</td>
+<td>Crimean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кудрявый</td>
+<td>curly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>курсы (m pl)</td>
+<td>course, courses (of study)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лавина</td>
+<td>avalanche</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лампада</td>
+<td>icon-lamp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ландшафт</td>
+<td>landscape</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>легкомыслие</td>
+<td>thoughtlessness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>летопись (f)</td>
+<td>chronicle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ловля</td>
+<td>catching</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ложный</td>
+<td>false</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лупа</td>
+<td>magnifying glass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>люлька</td>
+<td>cradle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>магистраль (f)</td>
+<td>main line; main road</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>магнит</td>
+<td>magnet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мамин</td>
+<td>mother’s (possessive adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мартовский</td>
+<td>March (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маскировка</td>
+<td>disguise, camouflage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мах</td>
+<td>swing, stroke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маятник</td>
+<td>pendulum</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мгновенный</td>
+<td>instantaneous; momentary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медик</td>
+<td>doctor; medical specialist</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медлительный</td>
+<td>slow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>месть (f)</td>
+<td>revenge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метать/метнуть (+a)</td>
+<td>to throw, cast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>метко</td>
+<td>accurately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механизировать (i/p) (+a)</td>
+<td>to mechanize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мираж</td>
+<td>mirage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миф</td>
+<td>myth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многовековой</td>
+<td>centuries-old</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мобилизация</td>
+<td>mobilization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>морщина</td>
+<td>wrinkle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мох</td>
+<td>moss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>муравей</td>
+<td>ant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>муть (f)</td>
+<td>sediment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мысленный</td>
+<td>mental</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мычать (i)</td>
+<td>to moo; bellow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набат</td>
+<td>alarm bell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навеки</td>
+<td>for ever</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наглый</td>
+<td>impudent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надстройка</td>
+<td>additional storey; superstructure</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наёмник</td>
+<td>mercenary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наличный</td>
+<td>available; cash (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>напрямик </td>
+<td>directly; bluntly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насаживать/насадить (+a на +a)</td>
+<td>to fix (sth onto sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>населённый</td>
+<td>inhabited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насильно</td>
+<td>by force</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насмерть</td>
+<td>to (the) death</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>настораживаться/насторожиться</td>
+<td>to prick up one’s ears, be on one’s guard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насыщать/насытить (+a +inst)</td>
+<td>to satiate; fill (sth with sth), saturate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насыщенный</td>
+<td>saturated; rich (in content)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нате </td>
+<td>here you are, take it (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>натягивать/натянуть (+a)</td>
+<td>to pull tight; pull on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неблагоприятный</td>
+<td>unfavourable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невесёлый</td>
+<td>joyless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невесть </td>
+<td>no-one knows (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невзрачный</td>
+<td>unattractive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неграмотность (f)</td>
+<td>illiteracy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незаменимый</td>
+<td>irreplaceable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неминуемо</td>
+<td>inevitably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необозримый</td>
+<td>immense</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>необычно</td>
+<td>unusually</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неосторожный</td>
+<td>careless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неотъемлемый</td>
+<td>inalienable, integral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непоправимый</td>
+<td>irreparable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непременный</td>
+<td>indispensable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неприлично</td>
+<td>indecently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неравномерный</td>
+<td>irregular</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несложный</td>
+<td>uncomplicated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несомненный</td>
+<td>undoubted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нетронутый</td>
+<td>untouched</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неудобство</td>
+<td>discomfort, inconvenience</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неустойчивый</td>
+<td>unstable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неприемлемый</td>
+<td>unacceptable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нотка</td>
+<td>note (sound)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нудный</td>
+<td>tedious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обиженный</td>
+<td>offended</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обитать (i)</td>
+<td>to live, reside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обкладывать/обложить (+a)</td>
+<td> to put round</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облагать/обложить (+a)</td>
+<td>to assess (for tax)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обниматься/обняться</td>
+<td>to embrace one another</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обогащаться/обогатиться</td>
+<td>to become rich</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обогащать/обогатить (+a)</td>
+<td>to enrich</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обои (pl)</td>
+<td>wallpaper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обороняться/оборониться (от +g)</td>
+<td>to defend os (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обречённый</td>
+<td>doomed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обронить (р) (+a)</td>
+<td>to drop (and lose); let fall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обстоятельный</td>
+<td>detailed, thorough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обстрел</td>
+<td>bombardment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обучать/обучить (+a +d)</td>
+<td>to teach (s.o. sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обыденный</td>
+<td>ordinary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>окидывать/окинуть (взглядом)</td>
+<td>to glance over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оккупационный</td>
+<td>occupation (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оковы (pl)</td>
+<td>fetters</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опережать/опередить (+a)</td>
+<td>to outstrip; forestall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оправляться/оправиться</td>
+<td>to recover</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организованность (f)</td>
+<td>good organization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>организовывать/организовать (+a)</td>
+<td>to organize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>орудийный</td>
+<td>gun, cannon (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освобождённый</td>
+<td>liberated, free</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осенью</td>
+<td>in autumn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оскорбительный</td>
+<td>insulting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слабеть/о-</td>
+<td>to become weak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ослепительный</td>
+<td>dazzling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оснащать/оснастить (+a +inst)</td>
+<td>to equip (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осознавать/осознать (+a)</td>
+<td>to realize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>остальное</td>
+<td>the rest, remainder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стричь/о- (+a)</td>
+<td>to cut, clip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>островок</td>
+<td>islet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отбой</td>
+<td>beating off, repulsion; retreat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отбывать/отбыть (+a)</td>
+<td>to serve (a period of time); (bookish) depart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвага</td>
+<td>courage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отваливать/отвалить (+a)</td>
+<td>to push away (sth heavy); cast off (boat)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отвесный</td>
+<td>steep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отклик</td>
+<td>response</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрывок</td>
+<td>excerpt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ошибочный</td>
+<td>mistaken</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>панихида</td>
+<td>requiem</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паром</td>
+<td>ferry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пассивный</td>
+<td>passive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>певец</td>
+<td>singer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пепельница</td>
+<td>ashtray</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перебрасывать/перебросить (+a через +a)</td>
+<td>to throw over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передумывать/передумать</td>
+<td>to change one’s mind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перекрывать/перекрыть (+a)</td>
+<td>to cover again; block off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перелёт</td>
+<td>flying over; migration (birds)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переноситься/перенестись</td>
+<td>to be carried (over)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переодеваться/переодеться</td>
+<td>to change one’s clothes; disguise os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переплетаться/переплестись</td>
+<td>to be interwoven</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переработка</td>
+<td>reworking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переступать/переступить (+a or через +a)</td>
+<td>to step over</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>персидский</td>
+<td>Persian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>персонал</td>
+<td>personnel, staff</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пилить (i) (+a)</td>
+<td>to saw; (coll) nag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пластический</td>
+<td>plastic (adj); artistically expressive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пленительный</td>
+<td>captivating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плотность (f)</td>
+<td>solidity; density</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побаиваться (i) (+g)</td>
+<td>to be rather afraid of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грузиться/по-</td>
+<td>to get on board, embark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>погрузка</td>
+<td>loading</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подавлять (i) (+a)</td>
+<td>to suppress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подпирать/подпереть (+a)</td>
+<td>to prop up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подставлять/подставить (+a под +a)</td>
+<td>to put under</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подталкивать/подтолкнуть (+a)</td>
+<td>to push slightly; (coll) urge on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подтянутый</td>
+<td>self-controlled; well turned out, smart</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жертвовать/по- (+a) </td>
+<td>to donate; (+inst) sacrifice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покрывало</td>
+<td>cover; bedspread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>половица</td>
+<td>floorboard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>получка </td>
+<td>pay, wages (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полый</td>
+<td>hollow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>махать/по- (+inst)</td>
+<td>to wave (for a while)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медлить/по-</td>
+<td>to delay, hesitate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мерещиться/по-</td>
+<td>to seem (coll), imagine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помёт</td>
+<td>dung, droppings</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пометка</td>
+<td>mark, note</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поприще</td>
+<td>field (of activity)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>попутно</td>
+<td>on the way; in passing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>попутный</td>
+<td>accompanying; passing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радовать/по- (+a)</td>
+<td>to gladden, please</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>радоваться/по- (+d)</td>
+<td>to be glad (at)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поражённый</td>
+<td>defeated; astounded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порывисто</td>
+<td>jerkily; suddenly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постигать/постичь (+a)</td>
+<td>to comprehend; befall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потемневший</td>
+<td>darkened</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толковать/по- (о +pr с +inst)</td>
+<td>to have a talk about sth with s.o. (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потомственный</td>
+<td>hereditary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потрясённый</td>
+<td>staggered, stunned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>похороны (pl)</td>
+<td>funeral</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>по-человечески</td>
+<td>like a human being</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почём </td>
+<td>how much?; how? (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почтальон</td>
+<td>postman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почтение</td>
+<td>respect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предок</td>
+<td>ancestor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предсказание</td>
+<td>prediction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>премьера</td>
+<td>premiere, first night</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>препятствовать (i) (+d)</td>
+<td>to hinder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приглядываться/приглядеться (к +d)</td>
+<td>to look closely at (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пригород</td>
+<td>suburb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приёмный</td>
+<td>reception (adj); adopted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приземистый</td>
+<td>stocky, squat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прикрываться/прикрыться (+inst)</td>
+<td>to use as a cover, hide behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>применительно (к +d)</td>
+<td>with reference to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примыкать (i) (к +d)</td>
+<td>to join, side with; (i only) примкнуть p adjoin, be adjacent to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приподнятый</td>
+<td>elated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прихватывать/прихватить (+a)</td>
+<td>to grip; fasten; take (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>причинять/причинить (+a)</td>
+<td>to cause</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>будить/про- (+a)</td>
+<td>to awaken</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробыть (р)</td>
+<td>to spend (a certain time)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проголодаться (р)</td>
+<td>to get hungry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продвигаться/продвинуться</td>
+<td>to advance, move forward</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продовольственный</td>
+<td>food (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>продуктивность (f)</td>
+<td>productivity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проезд</td>
+<td>thoroughfare; journey</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прозвище</td>
+<td>nickname</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преступность (f)</td>
+<td>crime, criminality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прокат</td>
+<td>hire</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проклятие</td>
+<td>curse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пролезать/пролезть (в +a)</td>
+<td>to climb through, go through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>променивать/променять (+a на +a)</td>
+<td>to exchange (sth for sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промысел</td>
+<td>trade, business</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пронзительный</td>
+<td>penetrating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полноценный</td>
+<td>genuine, complete, of good quality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просвет</td>
+<td>shaft of light; aperture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простительно</td>
+<td>pardonably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>противопоставлять/противопоставить (+a +d)</td>
+<td>to contrast (sth with sth), set sth against sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протяжно</td>
+<td>slowly, lingeringly; with a drawl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>публикация</td>
+<td>publication</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пуск</td>
+<td>starting up, launch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пятёрка</td>
+<td>the number five; excellent (exam mark)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развитой</td>
+<td>developed, mature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разговориться (p)</td>
+<td>to become talkative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разевать/разинуть (+a)</td>
+<td>to gape (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разогревать/разогреть (+a)</td>
+<td>to heat up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрастаться/разрастись</td>
+<td>to grow, expand, spread</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрезать (i/p) (+a)</td>
+<td>to cut up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разузнавать/разузнать (+a)</td>
+<td>to find out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разъезд</td>
+<td>departure, dispersal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разъяснение</td>
+<td>explanation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распрощаться (p) (с +inst)</td>
+<td>to say goodbye (to s.o.) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстроенный</td>
+<td>upset</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расхаживать (i)</td>
+<td>to pace up and down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рвануть (р) (+a)</td>
+<td>to tug; (coll) jerk into motion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реконструировать (i/p) (+a)</td>
+<td>to reconstruct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рельеф</td>
+<td>relief (geog, art)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>репрессия</td>
+<td>repression</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родительский</td>
+<td>parents’</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>родник</td>
+<td>spring (water source)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>романтика</td>
+<td>romance, romanticism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реагировать/от- (на +a)</td>
+<td>to react (to)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубиновый</td>
+<td>ruby (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рубрика</td>
+<td>heading, rubric</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рукопожатие</td>
+<td>handshake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыболовный</td>
+<td>fishing (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>садовод</td>
+<td>gardener</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самка</td>
+<td>female (animal)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самогон</td>
+<td>home-made vodka</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самоубийство</td>
+<td>suicide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сахарный</td>
+<td>sugary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свёкла</td>
+<td>beet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свергать/свергнуть (+a)</td>
+<td>to overthrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светать (i)</td>
+<td>to get light, dawn</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>светский</td>
+<td>(high) society (adj); secular</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свойственно (+d)</td>
+<td>(it is) characteristic (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сгорание</td>
+<td>combustion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сгоряча</td>
+<td>in the heat of the moment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдвинутый</td>
+<td>shifted</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сдерживаться/сдержаться</td>
+<td>to control os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свитер</td>
+<td>sweater</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сектор</td>
+<td>sector</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серьёзность (f)</td>
+<td>seriousness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сибиряк</td>
+<td>Siberian</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сито</td>
+<td>sieve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сквозной</td>
+<td>through (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>склянка</td>
+<td>phial, bottle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сковородка</td>
+<td>frying-pan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скопляться/скопиться</td>
+<td>to accumulate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скороговорка</td>
+<td>tongue-twister; rapid speech</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>славиться (i) (+inst)</td>
+<td>to be famous for</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>славянский</td>
+<td>Slavonic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сложение</td>
+<td>build, composition; addition (arithmetic)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смывать/смыть (+a)</td>
+<td>to wash off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сниматься/сняться</td>
+<td>to be taken off; move off; have one’s picture taken; come off; act in a film; be photographed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>собачка</td>
+<td>small dog; trigger; catch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соблюдаться (i)</td>
+<td>to be observed, be adhered to</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соприкасаться (i) (с +inst)</td>
+<td>to adjoin, be in contact with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сорняк</td>
+<td>weed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>социал-демократ</td>
+<td>social democrat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сочетать (i/p) (+a с +inst)</td>
+<td>to combine (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спад</td>
+<td>fall, slump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спекуляция</td>
+<td>speculation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спешно</td>
+<td>urgently, hurriedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спешный</td>
+<td>urgent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>старательно</td>
+<td>diligently, painstakingly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стая</td>
+<td>flock, pack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стержень (m)</td>
+<td>pivot, rod</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стирка</td>
+<td>washing (of clothes)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стратегия</td>
+<td>strategy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стропило</td>
+<td>rafter, roof beam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>суеверный</td>
+<td>superstitious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сухопутный</td>
+<td>ground (adj) (troops)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сущий </td>
+<td>real, absolute (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сюртук</td>
+<td>frock-coat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>табличка</td>
+<td>door-plate, nameplate, plaque</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тактический</td>
+<td>tactical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>танковый</td>
+<td>tank (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тара</td>
+<td>packaging</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>татарский</td>
+<td>Tatar (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>творчески</td>
+<td>creatively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>телёнок</td>
+<td>calf</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толком </td>
+<td>clearly; properly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теоретически</td>
+<td>theoretically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>терзать (i) (+a)</td>
+<td>to torment; pull about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>теснота</td>
+<td>tightness; cramped conditions</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>техникум</td>
+<td>technical college</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тигр</td>
+<td>tiger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>томительный</td>
+<td>tiresome</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тонко</td>
+<td>thinly; delicately; subtly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торт</td>
+<td>cake</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трамплин</td>
+<td>spring-board; ski-jump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тревожиться/вс-</td>
+<td>to worry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>треугольник</td>
+<td>triangle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тринадцать</td>
+<td>thirteen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тщательный</td>
+<td>thorough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>убираться/убраться</td>
+<td>to tidy up; clear off, make os scarce (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уговор</td>
+<td>agreement; persuasion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>указание</td>
+<td>indication; instruction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удаление</td>
+<td>removal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удирать/удрать</td>
+<td>to run away, do a bunk (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>указываться/указаться</td>
+<td>to be indicated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уклончиво</td>
+<td>evasively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укор</td>
+<td>reproach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укутывать/укутать (+a)</td>
+<td>to wrap (s.o.) up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>улучшаться/улучшиться</td>
+<td>to improve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умелый</td>
+<td>skilful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умножать/умножить (+a)</td>
+<td>to multiply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уныние</td>
+<td>dejection, gloom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упорство</td>
+<td>persistence; obstinacy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>управляться/управиться (с +inst)</td>
+<td>to cope with (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>урегулирование</td>
+<td>regulation; adjustment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усатый</td>
+<td>with a moustache; whiskered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>условливаться/условиться (c +inst о +pr/inf)</td>
+<td>to make an arrangement (with s.o. about sth/to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>условно</td>
+<td>conditionally, provisionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>услыхать (р) (+a)</td>
+<td>to hear (= услышать р)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усматривать/усмотреть (+a в +pr)</td>
+<td>to see (sth in sth), interpret as</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ухватывать/ухватить (+a)</td>
+<td>to seize</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>факел</td>
+<td>torch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фактический</td>
+<td>actual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фермер</td>
+<td>farmer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>физически</td>
+<td>physically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>флейта</td>
+<td>flute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>формировать/с- (+a)</td>
+<td>to form</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хижина</td>
+<td>shack, cabin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хихикать/хихикнуть</td>
+<td>to giggle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хладнокровный</td>
+<td>cool, calm, composed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>храбрость (f)</td>
+<td>bravery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хрипло</td>
+<td>hoarsely</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хриплый</td>
+<td>hoarse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>царица</td>
+<td>tsarina, empress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частенько </td>
+<td>quite often (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>частично</td>
+<td>partially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>червь (m)</td>
+<td>worm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>черноморский</td>
+<td>Black Sea (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чудно</td>
+<td>wonderfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чуткий</td>
+<td>sensitive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шалаш</td>
+<td>cabin (made of branches)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шампанское</td>
+<td>champagne</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шахматный</td>
+<td>chess (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шкафчик</td>
+<td>small cupboard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шоссейный</td>
+<td>highway (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щёлка</td>
+<td>chink</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щит</td>
+<td>shield</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>экономно</td>
+<td>economically, thriftily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>энергетика</td>
+<td>power engineering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эстрада</td>
+<td>stage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этика</td>
+<td>ethics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>янтарный</td>
+<td>amber (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>янтарь (m)</td>
+<td>amber</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ад</td>
+<td>hell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аккорд</td>
+<td>chord</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>активизация</td>
+<td>activization</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>алтарь (m)</td>
+<td>altar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>антенна</td>
+<td>antenna; aerial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>апельсин</td>
+<td>orange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>апостол</td>
+<td>apostle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>армейский</td>
+<td>army (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ассигнование</td>
+<td>allocation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баран</td>
+<td>ram (sheep)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>баян</td>
+<td>bayan, Russian accordion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безграмотность (f)</td>
+<td>illiteracy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бездна</td>
+<td>abyss; (coll) (+g) great quantity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бездушный</td>
+<td>heartless</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беззаветно</td>
+<td>selflessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безмолвно</td>
+<td>silently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безнаказанно</td>
+<td>with impunity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безошибочно</td>
+<td>correctly, accurately</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безуспешно</td>
+<td>unsuccessfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>белила (pl)</td>
+<td>whitewash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беречься (i)</td>
+<td>to be careful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесследно</td>
+<td>without trace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бесстыдно</td>
+<td>shamelessly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бизнесмен</td>
+<td>businessman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>благополучный</td>
+<td>successful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блаженство</td>
+<td>bliss</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>допустимый</td>
+<td>permissible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блиндаж</td>
+<td>dug out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блюдечко</td>
+<td>small dish, saucer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>богач</td>
+<td>rich man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бодро</td>
+<td>cheerfully, heartily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бойко</td>
+<td>boldly, briskly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бомбить/раз- (+a)</td>
+<td>to bomb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>браслет</td>
+<td>bracelet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>брожение</td>
+<td>ferment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>броня (бронь)</td>
+<td>reservation, booking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>броня</td>
+<td>armour-plating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бросок</td>
+<td>throw; bound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>будка</td>
+<td>booth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буквальный</td>
+<td>literal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бутерброд</td>
+<td>(open) sandwich</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бухгалтер</td>
+<td>bookkeeper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бюрократический</td>
+<td>bureaucratic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бюрократия</td>
+<td>bureaucracy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдребезги</td>
+<td>to pieces</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>венец</td>
+<td>crown, wreath; halo</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веселить/раз- (+a)</td>
+<td>to cheer up; amuse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>весомый</td>
+<td>weighty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вещица</td>
+<td>little thing, knick-knack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взаимовыгодный</td>
+<td>mutually advantageous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взыскание</td>
+<td>penalty, punishment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виноградник</td>
+<td>vineyard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>винт</td>
+<td>screw; propeller</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>долгосрочный</td>
+<td>long-term</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вице-президент</td>
+<td>vice-president</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>влево</td>
+<td>to the left</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внушительно</td>
+<td>impressively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вовлекать/вовлечь (+a в +a)</td>
+<td>to involve (s.o. in sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водопад</td>
+<td>waterfall</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воедино</td>
+<td>together</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>военщина</td>
+<td>militarism; militarists</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вожак</td>
+<td>guide, leader</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>возвышенный</td>
+<td>elevated; lofty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вол</td>
+<td>ox</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вопиющий</td>
+<td>flagrant, scandalous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воровство</td>
+<td>stealing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворона</td>
+<td>crow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворчливо</td>
+<td>grumpily, querulously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>восемьсот</td>
+<td>eight hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>всеобъемлющий</td>
+<td>comprehensive, all-embracing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вульгарный</td>
+<td>vulgar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>входной</td>
+<td>entrance (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выгружать/выгрузить (+a)</td>
+<td>to unload</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдаваться/выдаться</td>
+<td>to stick out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдача</td>
+<td>issue, giving out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выдвигаться/выдвинуться</td>
+<td>to move out; go up in the world</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выжидательно</td>
+<td>expectantly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выжидательный</td>
+<td>waiting, expectant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выжидать/выждать (+a)</td>
+<td>to wait (for)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выздоравливать/выздороветь</td>
+<td>to recover, get better</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выныривать/вынырнуть</td>
+<td>to come to the surface</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высовывать/высунуть (+a)</td>
+<td>to thrust out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>высококачественный</td>
+<td>high-quality</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>геройский</td>
+<td>heroic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глинистый</td>
+<td>clay (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глоток</td>
+<td>gulp, mouthful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнуть/со- (+a)</td>
+<td>to bend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>годный</td>
+<td>suitable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>голландский</td>
+<td>Dutch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гололёд</td>
+<td>covering of ice; icy weather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горлышко</td>
+<td>neck (of bottle); small throat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горчица</td>
+<td>mustard</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грозиться/по- (+inf)</td>
+<td>to threaten (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грохотать/за-</td>
+<td>to thunder, rumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гряда</td>
+<td>ridge; bed (garden)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>грядка</td>
+<td>bed (for plants), flowerbed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>губительный</td>
+<td>destructive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девственный</td>
+<td>virgin (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дежурить (i)</td>
+<td>to be on duty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>детвора </td>
+<td>kids (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>деяние </td>
+<td>act, action (bookish)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добродушно</td>
+<td>kindly, good-naturedly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добываться/добыться</td>
+<td>to be obtained</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доверительно</td>
+<td>confidentially</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>довериться (p) (+d)</td>
+<td>to trust (in), confide in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доверчивый</td>
+<td>trusting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дождик</td>
+<td>shower (rain)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>докладчик</td>
+<td>speaker (at conference)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доктрина</td>
+<td>doctrine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>донесение</td>
+<td>report, dispatch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>достоверный</td>
+<td>reliable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дохнуть/по-</td>
+<td>to die (of animals)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дышать/дохнуть</td>
+<td>to breathe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дощечка</td>
+<td>nameplate; small board</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>доярка</td>
+<td>milkmaid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дрожь (f)</td>
+<td>trembling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дубина</td>
+<td>cudgel, club; blockhead, idiot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дуга</td>
+<td>arc, curve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дудка</td>
+<td>pipe, fife</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дымовой</td>
+<td>smoke (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дырявый</td>
+<td>full of holes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дьявольски</td>
+<td>devilishly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>единодушно</td>
+<td>unanimously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жалобный</td>
+<td>plaintive; complaints (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>живучий</td>
+<td>hardy, enduring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>живьём </td>
+<td>alive (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>житие</td>
+<td>life, biography</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бормотать/за- (+a)</td>
+<td>to mutter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>забрасывать/забросить (+a)</td>
+<td>to throw, cast; abandon; neglect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завершаться/завершиться</td>
+<td>to be finishing, end</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завещать (i/p) (+a +d)</td>
+<td>to bequeath (sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загадочно</td>
+<td>mysteriously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>глохнуть/за-</td>
+<td>to die away; stall (engine); go to seed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загонять (р) (+a)</td>
+<td>to tire out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загробный</td>
+<td>beyond the grave</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зад</td>
+<td>back, rear; rump, backside</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задолго</td>
+<td>long before</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зажигаться/зажечься</td>
+<td>to light up, be lit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жмуриться/за-</td>
+<td>to screw up one’s eyes; half-close one’s eyes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заинтересованный (в +pr)</td>
+<td>interested (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кипеть/за-</td>
+<td>to boil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закладка</td>
+<td>laying; bookmark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заматывать/замотать (+a)</td>
+<td>to wind, twist; tire out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ночевать/за-</td>
+<td>to spend the night</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заокеанский</td>
+<td>transoceanic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запасаться/запастись</td>
+<td>to stock up (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заподазривать/заподозрить (+a в +pr)</td>
+<td>to suspect (s.o. of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запаздывать/запоздать (с +inst)</td>
+<td>to be late (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запрет</td>
+<td>ban</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запрягать/запрячь (+a)</td>
+<td>to harness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запутываться/запутаться</td>
+<td>to get confused</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заросший</td>
+<td>overgrown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>засаживаться/засесть</td>
+<td>to sit down, lodge os (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застенчивый</td>
+<td>shy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затаивать/затаить (+a)</td>
+<td>to conceal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затруднять/затруднить (+a)</td>
+<td>to make difficult, complicate; trouble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>затяжка</td>
+<td>delay; inhalation (smoking)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заулыбаться (р)</td>
+<td>to start smiling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заурядный</td>
+<td>ordinary, mediocre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зеленеть/по-</td>
+<td>to turn green, look green</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>констатировать (i/p)</td>
+<td>to ascertain; certify</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знаменитость (f)</td>
+<td>celebrity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зной</td>
+<td>hot weather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зрелый</td>
+<td>mature, ripe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зреть/со-</td>
+<td>to ripen, mature</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>импортный</td>
+<td>imported</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идиллия</td>
+<td>idyll</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>идол</td>
+<td>idol</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>избивать/избить (+a)</td>
+<td>to beat up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>излишне</td>
+<td>excessively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иллюстрация</td>
+<td>illustration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>именины (pl)</td>
+<td>name-day</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>инерция</td>
+<td>inertia</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иностранец</td>
+<td>foreigner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>иронический</td>
+<td>ironical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искание</td>
+<td>search</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>испытанный</td>
+<td>tested, tried</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истекать/истечь</td>
+<td>to flow out; expire (time)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истерия</td>
+<td>hysteria</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исток</td>
+<td>source</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>истребление</td>
+<td>extermination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исчерпывать/исчерпать (+a)</td>
+<td>to exhaust</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кабала</td>
+<td>slavery; servitude</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каморка </td>
+<td>small room (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каприз</td>
+<td>caprice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каторжный</td>
+<td>hard-labour (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каучук</td>
+<td>rubber</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>каяться/рас- (в +pr)</td>
+<td>to repent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кверху</td>
+<td>upwards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кипа</td>
+<td>pile, stack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кит</td>
+<td>whale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кладка</td>
+<td>laying</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клетчатый</td>
+<td>checked</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>климатический</td>
+<td>climatic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клюква</td>
+<td>cranberry, cranberries</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кляча</td>
+<td>nag (horse)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кобыла</td>
+<td>mare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колесико</td>
+<td>little wheel; cog</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колечко</td>
+<td>little ring, ringlet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>колыбель (f)</td>
+<td>cradle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>консерватория</td>
+<td>conservatoire, music academy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>консервный</td>
+<td>canned food (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>контрреволюционер</td>
+<td>counter-revolutionary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кормиться (i) (+inst)</td>
+<td>(p по-) to be fed, eat; (p про-) live on</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>королева</td>
+<td>queen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корона</td>
+<td>crown</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>корыстный</td>
+<td>self-interested, mercenary, selfish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>костяной</td>
+<td>bone (adj), made of bone</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кратковременный</td>
+<td>brief, short-term</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крашеный</td>
+<td>painted; dyed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кривляться (i) </td>
+<td>to behave affectedly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>криво</td>
+<td>crookedly, squint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кружево</td>
+<td>lace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крупно</td>
+<td>on a large scale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кудри (pl)</td>
+<td>curls</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>купанье or купание</td>
+<td>bathing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>купе</td>
+<td>compartment (train)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ладить/по- (с +inst)</td>
+<td>to get on with (s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лебедь (m/f)</td>
+<td>swan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>легальный</td>
+<td>legal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ледник</td>
+<td>glacier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лесенка </td>
+<td>small staircase; short ladder (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лесоруб</td>
+<td>lumberjack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лизать/лизнуть (+a)</td>
+<td>to lick</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лимон</td>
+<td>lemon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лиса</td>
+<td>fox</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>листать (i) (+a)</td>
+<td>to leaf through (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лифт</td>
+<td>lift, elevator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>льгота</td>
+<td>privilege, advantage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>льдина</td>
+<td>block of ice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>любовный</td>
+<td>love (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>медвежий</td>
+<td>bear’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>меж (+inst or +g)</td>
+<td>between</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мёрзнуть/за-</td>
+<td>to freeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мерить/из- (+a)</td>
+<td>to measure; try on (clothing)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мерцать (i)</td>
+<td>to twinkle, flicker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мех</td>
+<td>fur</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механизированный</td>
+<td>mechanized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>механически</td>
+<td>mechanically</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мещанский</td>
+<td>bourgeois, petty bourgeois; narrow-minded</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мещанство</td>
+<td>petty bourgeoisie, lower middle-class</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>микроб</td>
+<td>microbe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миндаль (m)</td>
+<td>almonds; almond tree</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>минимальный</td>
+<td>minimum (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>многозначительно</td>
+<td>meaningfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>молот</td>
+<td>hammer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мольба</td>
+<td>entreaty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монархический</td>
+<td>monarchic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>монопольный</td>
+<td>monopoly (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мотаться (i) </td>
+<td>to sway; rush about (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>моторный</td>
+<td>motor, engine (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мотоцикл</td>
+<td>motorcycle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мошенник</td>
+<td>swindler</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мудрец</td>
+<td>wise man</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>музейный</td>
+<td>museum (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мусорный</td>
+<td>rubbish (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мчать (i) (+a)</td>
+<td>to rush, speed along</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навес</td>
+<td>awning</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>навещать/навестить (+a)</td>
+<td>to visit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мясной</td>
+<td>meat (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нагрянуть (р)</td>
+<td>to come unexpectedly (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>надбавка</td>
+<td>addition, supplement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наёмный</td>
+<td>hired</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>накапливаться/накопиться</td>
+<td>to accumulate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наклон</td>
+<td>incline, lean</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наподобие (+g)</td>
+<td>like, resembling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наполняться/наполниться (+inst)</td>
+<td>to fill (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарастание</td>
+<td>growth, increase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>населять/населить (+a)</td>
+<td>to populate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наследственный</td>
+<td>inherited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насовсем </td>
+<td>for good, for ever (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наставник</td>
+<td>mentor, tutor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>натворить (р) (+g)</td>
+<td>to get up to, do (sth bad) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наталкиваться/натолкнуться (на +a)</td>
+<td>to run into, come up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нахальство</td>
+<td>against impudence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наяву</td>
+<td>while awake; for real</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>небосклон</td>
+<td>horizon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невмешательство (в +a)</td>
+<td>non-interference (in)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невозможность (f)</td>
+<td>impossibility</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наугад</td>
+<td>at random</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невольный</td>
+<td>involuntary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>недостойный</td>
+<td>unworthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нежели</td>
+<td>than (old word) (= чем)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незаконно</td>
+<td>illegally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нездоровый</td>
+<td>unhealthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>некого (+inf)</td>
+<td>there is no-one</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нелепо</td>
+<td>absurdly; it’s absurd</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неповторимый</td>
+<td>unique, exceptional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непостижимый</td>
+<td>incomprehensible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неправый</td>
+<td>wrong</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непривычный</td>
+<td>unaccustomed, unusual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неприкосновенный</td>
+<td>untouchable, inviolable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непроходимый</td>
+<td>impassable; (coll) utter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несравненно</td>
+<td>incomparably</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нетерпеливый</td>
+<td>impatient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неудачно</td>
+<td>unsuccessfully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неуместный</td>
+<td>inappropriate, misplaced</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нефтепровод</td>
+<td>oil pipeline</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нехотя</td>
+<td>unwillingly; unintentionally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ничтожество</td>
+<td>nonentity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>новизна</td>
+<td>novelty, newness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ножик</td>
+<td>small knife, penknife</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ножницы (pl)</td>
+<td>scissors</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нора</td>
+<td>burrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>носик</td>
+<td>small nose; toe (of shoe); spout</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ночлег</td>
+<td>spending the night, night’s lodging</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ноша</td>
+<td>burden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обводить/обвести (+a)</td>
+<td>to take round; (+inst) surround (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обитатель (m)</td>
+<td>inhabitant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>облезлый </td>
+<td>shabby, scruffy; mangy (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обнаружение</td>
+<td>revealing; discovery</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обоснование</td>
+<td>basis; grounds, justification</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обосновывать/обосновать (+a)</td>
+<td>to substantiate, justify</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обострять/обострить (+a)</td>
+<td>to intensify, worsen, aggravate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>образный</td>
+<td>graphic, evocative; figurative</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обувать/обуть (+a)</td>
+<td>to put shoes on s.o.; provide with shoes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обходительный</td>
+<td>courteous, well-mannered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>общеизвестный</td>
+<td>well-known, generally known</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>община</td>
+<td>community</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>объективность (f)</td>
+<td>objectivity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обыватель (m)</td>
+<td>man-in-the-street; philistine</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обыск</td>
+<td>(official) search</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>овация</td>
+<td>ovation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оголённый</td>
+<td>bare, exposed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огорчение</td>
+<td>distress</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>огорчать/огорчить (+a)</td>
+<td>to distress, disappoint</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одёргивать/одёрнуть (+a)</td>
+<td>to straighten (clothing); (coll) call to order, tell s.o. to be quiet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одиннадцатый</td>
+<td>eleventh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>одиночный</td>
+<td>individual, single, solitary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озираться (i)</td>
+<td>to look round</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>злиться/о-</td>
+<td>to get angry (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озлобленный</td>
+<td>embittered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ознакомление (с +inst)</td>
+<td>familiarization, getting to know</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оказание</td>
+<td>rendering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оккупировать (i/p) (+a)</td>
+<td>to occupy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оперный</td>
+<td>opera (adj), operatic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опоздание</td>
+<td>lateness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ориентироваться (i/p)</td>
+<td>to find one’s way; (на +a) be orientated towards</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>осведомляться/осведомиться (о +pr)</td>
+<td>to enquire about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>освещаться/осветиться</td>
+<td>to be illuminated, light up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оснащение</td>
+<td>equipping; equipment</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>основательный</td>
+<td>well-founded; solid; thorough</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отбиваться/отбиться (от +g)</td>
+<td>to break away from; repulse, beat off; stray</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отопление</td>
+<td>heating</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печатать/от- (+a)</td>
+<td>to print (off)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отправка</td>
+<td>sending off, dispatch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрекаться/отречься (от +g)</td>
+<td>to renounce (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отрубать/отрубить (+a)</td>
+<td>to chop off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отставание</td>
+<td>lag, lagging behind</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отстранять/отстранить (+a)</td>
+<td>to push aside; remove</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>охлаждать/охладить (+a)</td>
+<td>to cool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пакость (f)</td>
+<td>dirty trick; filth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пальчик</td>
+<td>small finger</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>паршивый</td>
+<td>mangy; shabby, nasty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перегонять/перегнать (+a)</td>
+<td>to outdistance, outstrip; drive (sth swh); distil</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передвигать/передвинуть (+a)</td>
+<td>to shift</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переделывать/переделать (+a)</td>
+<td>to remake, alter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передник</td>
+<td>apron; pinafore</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переезд</td>
+<td>crossing; removal (change of residence)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переигрывать/переиграть (+a)</td>
+<td>to play again; overact</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переливаться/перелиться</td>
+<td>to flow (swh); overflow; (i only) glisten, play (of colours), modulate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перелом</td>
+<td>break, fracture; turning-point</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перенос</td>
+<td>transfer, carrying over; hyphenation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переносный</td>
+<td>portable; metaphorical</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переписывать/переписать (+a)</td>
+<td>to rewrite; copy out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переправа</td>
+<td>crossing; crossing place ford</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переселяться/переселиться</td>
+<td>to move, migrate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переставлять/переставить (+a)</td>
+<td>to shift; rearrange</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>переть (i) </td>
+<td>to shove, barge, push (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перехватывать/перехватить (+a)</td>
+<td>to intercept</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перец</td>
+<td>pepper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>персона</td>
+<td>person</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>писательский</td>
+<td>writer’s, literary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плавный</td>
+<td>smooth, flowing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>планомерный</td>
+<td>planned, systematic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плачущий</td>
+<td>tearful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>племенной</td>
+<td>tribal; thoroughbred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плоть (f)</td>
+<td>flesh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пляска</td>
+<td>dance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поблизости</td>
+<td>nearby; hereabouts</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поборник (+g)</td>
+<td>champion, keen supporter (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побуждение</td>
+<td>motive, stimulus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повадка </td>
+<td>habit, (habitual) behaviour (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>повозка</td>
+<td>cart, carriage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подача</td>
+<td>giving; serve (tennis)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подбрасывать/подбросить (+a)</td>
+<td>to throw, toss (up); jolt; add</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подвигать/подвинуть (+a)</td>
+<td>to move</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пользование (+inst)</td>
+<td>use (of sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поначалу </td>
+<td>at first (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подножие/подножье</td>
+<td>foot (of mountain etc.); pedestal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подоконник</td>
+<td>window-sill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подслушивать/подслушать (+a)</td>
+<td>to eavesdrop (on s.o.); (p) overhear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подъёмный</td>
+<td>lifting (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жевать/по- (+a)</td>
+<td>to chew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жечь/по- (+a)</td>
+<td>to burn up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позорно</td>
+<td>disgracefully, shamefully</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полосатый</td>
+<td>striped</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полыхать (i)</td>
+<td>to blaze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помалкивать (i) </td>
+<td>to keep quiet (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помещичий</td>
+<td>landowner’s (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помост</td>
+<td>platform, rostrum; scaffold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>понижать/понизить (+a)</td>
+<td>to lower; reduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обещать/по- (+a +d)</td>
+<td>to promise (sth to s.o)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пополнение</td>
+<td>replenishment; reinforcement(s)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>попутчик</td>
+<td>fellow-traveller</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поровну</td>
+<td>equally</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>порожний </td>
+<td>empty (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ругаться/по-</td>
+<td>to swear; (c +inst) (coll) have a row with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>послезавтра</td>
+<td>the day after tomorrow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постный</td>
+<td>lenten, meatless; without meat or milk; (coll) lean (of meat); (coll) gloomy, glum; (coll) sanctimonious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>постукивать (i)</td>
+<td>to knock, tap, patter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потомство</td>
+<td>posterity, descendants</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потреблять/потребить (+a)</td>
+<td>to consume</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пребывать (i)</td>
+<td>to be (swh)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>превосходно</td>
+<td>splendidly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предписание</td>
+<td>order, instruction</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предприниматель (m)</td>
+<td>entrepreneur, businessman</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преобладать (i)</td>
+<td>to predominate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>преступный</td>
+<td>criminal (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приветливый</td>
+<td>affable, friendly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пригородный</td>
+<td>suburban</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>придвигаться/придвинуться (к +d)</td>
+<td>to come near, move up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>придерживать/придержать (+a)</td>
+<td>to hold back, check</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приёмная</td>
+<td>waiting-room</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>признанный</td>
+<td>acknowledged, recognized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примечательно</td>
+<td>(it is) noteworthy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>примирение</td>
+<td>reconciliation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>припадок</td>
+<td>fit, attack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>припасы (m pl)</td>
+<td>stores, supplies; provisions</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>присягать/присягнуть (в +pr +d)</td>
+<td>to swear an oath (of sth to s.o.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробел</td>
+<td>blank, gap</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пробивать/пробить (+a)</td>
+<td>to pierce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>провокатор</td>
+<td>agent provocateur; provoker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>греметь/про-</td>
+<td>to thunder, resound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прогуливаться/прогуляться</td>
+<td>to take a walk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>демонстрировать/про- (+a)</td>
+<td>to demonstrate, show</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прозывать/прозвать (+a +inst)</td>
+<td>to nickname (s.o. sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промах</td>
+<td>miss; blunder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>промежуточный</td>
+<td>intermediate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пронзительно</td>
+<td>piercingly; stridently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропагандировать (i) (+a)</td>
+<td>to propagandize, promote</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пропорциональный</td>
+<td>proportional</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просыпать/проспать</td>
+<td>to oversleep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простираться/простереться</td>
+<td>to extend, stretch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просторно</td>
+<td>(it is) spacious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>простужаться/простудиться</td>
+<td>to catch a cold</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протирать/протереть (+a)</td>
+<td>to rub; rub through</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>протягиваться/протянуться</td>
+<td>to stretch out; extend</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прохвост </td>
+<td>scoundrel (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прохождение</td>
+<td>passing, passage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>процветать (i)</td>
+<td>to flourish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прояснение</td>
+<td>clarification, clearing up; clear period (weather)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прутик</td>
+<td>twig, switch; small rod</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пчела</td>
+<td>bee</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пшено</td>
+<td>millet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пьянка </td>
+<td>binge, booze-up (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пята</td>
+<td>heel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разбегаться/разбежаться</td>
+<td>to scatter; take a run-up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разведывательный</td>
+<td>reconnaissance (adj); intelligence (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развешивать/развесить (+a)</td>
+<td>to hang up (a number of things); weigh out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздробленный</td>
+<td>shattered, splintered, disunited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разливаться/разлиться</td>
+<td>to spill; overflow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>различаться (i) (+inst)</td>
+<td>to differ</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>размещение</td>
+<td>placing, allocation, accommodation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разнородный</td>
+<td>heterogeneous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разгонять/разогнать (+a)</td>
+<td>to disperse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разорять/разорить (+a)</td>
+<td>to ruin</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разочарованный</td>
+<td>disappointed, disillusioned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разыгрываться/разыграться</td>
+<td>to romp; warm up, get into one’s stride; (storm etc.) break, rage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расизм</td>
+<td>racism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскусывать/раскусить (+a)</td>
+<td>to bite through; (p only) (coll) suss out; get to the heart of sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>распоряжаться/распорядиться</td>
+<td>to give orders; (+inst) deal with, manage, be in charge of</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстилаться/разостлаться</td>
+<td>to spread out</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>расстройство</td>
+<td>disorder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассыпать (i/p) (+a)</td>
+<td>to spill, scatter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растительность (f)</td>
+<td>vegetation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>реалистический</td>
+<td>realistic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ребячий</td>
+<td>child’s; childish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ревнивый</td>
+<td>jealous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ремесленник</td>
+<td>craftsman; hack</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>решето</td>
+<td>sieve</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рогожа</td>
+<td>matting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рожок</td>
+<td>small horn; horn (instrument)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>романс</td>
+<td>romance (song)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыночный</td>
+<td>market (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>салют</td>
+<td>salute; firework display (in honour of s.o. or sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самокритика</td>
+<td>self-criticism</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>самосознание</td>
+<td>self-awareness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сберегать/сберечь (+a)</td>
+<td>to save; protect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>свешивать/свесить (+a)</td>
+<td>to lower, let dangle; (p only) (coll) weigh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сенсация</td>
+<td>sensation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сентябрьский</td>
+<td>September (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сервиз</td>
+<td>service, set (of dishes)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>серийный</td>
+<td>serial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сидение</td>
+<td>sitting; (preferably сиденье) seat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>синяк</td>
+<td>bruise</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скалистый</td>
+<td>rocky</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скандальный</td>
+<td>scandalous; (coll) quarrelsome, rowdy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скорбь (f)</td>
+<td>grief</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скромно</td>
+<td>modestly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скромность (f)</td>
+<td>modesty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слать/по- (+a)</td>
+<td>to send</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>словцо </td>
+<td>word; apt remark, witticism (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слуга (m)</td>
+<td>servant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смешить (i) (+a)</td>
+<td>to make (s.o.) laugh, amuse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смешок</td>
+<td>chuckle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смутно</td>
+<td>vaguely, dimly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снаряжать/снарядить (+a)</td>
+<td>to equip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снисходительно</td>
+<td>condescendingly; leniently, indulgently</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>снисходительный</td>
+<td>condescending; lenient, indulgent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>совершенствоваться/у- (в +pr)</td>
+<td>to improve os; improve one’s knowledge (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>содержательный</td>
+<td>rich in content, profound, interesting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солдатик</td>
+<td>toy soldier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>солидно</td>
+<td>solidly, substantially, weightily</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сооружать/соорудить (+a)</td>
+<td>to build, construct</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соотечественник</td>
+<td>compatriot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопоставлять/сопоставить (+a)</td>
+<td>to compare</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сопутствовать (i) (+d)</td>
+<td>to accompany</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сорока</td>
+<td>magpie</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соседский</td>
+<td>neighbour’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосредоточенно</td>
+<td>intently, with concentration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>составление</td>
+<td>formation, making, compiling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сосулька</td>
+<td>icicle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спешка</td>
+<td>haste</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>спрыгивать/спрыгнуть (с +g)</td>
+<td>to jump off</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>срезать (i/p) (+a)</td>
+<td>to cut down, cut off; shut s.o. up</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стаканчик</td>
+<td>small glass</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стачка</td>
+<td>strike (= забастовка)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стекольщик</td>
+<td>glazier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стенной</td>
+<td>wall (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стойко</td>
+<td>steadfastly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>странствовать (i)</td>
+<td>to wander, travel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стрелковый</td>
+<td>shooting (adj); rifle, infantry (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стружка</td>
+<td>shaving, shavings</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>струиться (i)</td>
+<td>to stream</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стычка</td>
+<td>skirmish; squabble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>судорожно</td>
+<td>convulsively, feverishly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сука</td>
+<td>bitch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сукно</td>
+<td>cloth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сумрачный</td>
+<td>gloomy; dreary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сухарь (m)</td>
+<td>piece of dried bread; rusk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сюжет</td>
+<td>subject, plot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тайник</td>
+<td>hiding-place</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>танкист</td>
+<td>tank soldier, member of tank crew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>территориальный</td>
+<td>territorial</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тесниться (i)</td>
+<td>to crowd, jostle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тётушка</td>
+<td>auntie; (old) lady</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>титул</td>
+<td>title</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тиф</td>
+<td>typhus</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>токарь (m)</td>
+<td>turner, lathe operator</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>толковый</td>
+<td>clever, sensible; clear, comprehensible; (словарь) explanatory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>торжествовать (i) (над +inst)</td>
+<td>to triumph (over); (+a) celebrate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трезво</td>
+<td>soberly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>триумф</td>
+<td>triumph</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трогательный</td>
+<td>touching, affecting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>трюк</td>
+<td>stunt; trick, ruse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тугой</td>
+<td>tight</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>туризм</td>
+<td>tourism; hiking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>турок</td>
+<td>Turk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тысячелетний</td>
+<td>thousand-year (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тягость (f)</td>
+<td>burden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>увесистый</td>
+<td>weighty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>удостаивать/удостоить (+a +g)</td>
+<td>to award s.o. sth; (+a +inst) favour s.o. with sth</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уклоняться/уклониться (от +g)</td>
+<td>to avoid, evade (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укореняться/укорениться</td>
+<td>to take root</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>укрепляться/укрепиться</td>
+<td>to become stronger; become fixed; consolidate one’s position</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>универсальный</td>
+<td>universal; versatile, multi-purpose</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>униматься/уняться</td>
+<td>to calm down</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упоминаться/упомянуться</td>
+<td>to be mentioned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упорядочение</td>
+<td>putting in order, regulation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>управа</td>
+<td>(coll) control, means of control; (hist) management, administration, justice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упрощённый</td>
+<td>simplified; over-simplified</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упрямство</td>
+<td>obstinacy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усеивать/усеять (+a +inst)</td>
+<td>to strew, dot, litter (sth with sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>устранение</td>
+<td>removal, elimination</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утверждаться/утвердиться</td>
+<td>to become established</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утешение</td>
+<td>comfort, solace</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утюг</td>
+<td>iron (for ironing)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уха</td>
+<td>fish-soup</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>финал</td>
+<td>final (sport); finale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>финиш</td>
+<td>finish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>финский</td>
+<td>Finnish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>формация</td>
+<td>stage of development; formation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хилый</td>
+<td>puny, decrepit</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хирург</td>
+<td>surgeon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>христианство</td>
+<td>Christianity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хроника</td>
+<td>chronicle; news items; newsreel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>царапать/царапнуть (+a)</td>
+<td>to scratch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целесообразный</td>
+<td>expedient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>целеустремлённый</td>
+<td>purposeful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цивилизованный</td>
+<td>civilized</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>цыган</td>
+<td>gypsy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>челюсть (f)</td>
+<td>jaw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чередование</td>
+<td>alternation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>четыреста</td>
+<td>four hundred</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чешский</td>
+<td>Czech (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чистка</td>
+<td>cleaning; purge (political)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>читательский</td>
+<td>reader’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чихать/чихнуть</td>
+<td>to sneeze</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чрезмерно</td>
+<td>excessively</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шататься (i)</td>
+<td>to sway; wobble; (coll) loaf about</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шаткий</td>
+<td>unsteady</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шахматы (pl)</td>
+<td>chess</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>швейный</td>
+<td>sewing</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шевелиться/шевельнуться</td>
+<td>to stir</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шелуха</td>
+<td>skin, peel, husk</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шершавый</td>
+<td>rough (to the touch)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шириться (i)</td>
+<td>to spread, expand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шишка</td>
+<td>(pine/fir) cone; bump; (coll) big noise, VIP</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шляться (i) </td>
+<td>to loaf about (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шпора</td>
+<td>spur</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штаб-квартира</td>
+<td>headquarters</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штормовой</td>
+<td>gale (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щедрость (f)</td>
+<td>generosity</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щенок</td>
+<td>puppy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>электроника</td>
+<td>electronics</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>эффектный</td>
+<td>striking, done for effect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>яичница</td>
+<td>fried eggs</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ярмарка</td>
+<td>fair, trade fair</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>авианосец</td>
+<td>aircraft carrier</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>автономный</td>
+<td>autonomous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>азарт</td>
+<td>excitement, fervour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>азбука</td>
+<td>alphabet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>акула</td>
+<td>shark</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>алкоголь (m)</td>
+<td>alcohol</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>аренда</td>
+<td>lease</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бабочка</td>
+<td>butterfly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>багаж</td>
+<td>luggage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бак</td>
+<td>cistern, tank</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>барахло </td>
+<td>old clothes, jumble; junk (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бдительный</td>
+<td>vigilant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бедро</td>
+<td>hip; thigh</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бездействовать (i)</td>
+<td>to do nothing; stand idle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безответственный</td>
+<td>irresponsible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>безропотно</td>
+<td>uncomplainingly, without a murmur</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>беспечный</td>
+<td>carefree, unconcerned</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бестолковый</td>
+<td>stupid; incoherent, muddled</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бинт</td>
+<td>bandage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>блоха</td>
+<td>flea</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>болтаться (i) </td>
+<td>to dangle; hang about (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бритва</td>
+<td>razor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>буйный</td>
+<td>wild, unruly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>быль (f)</td>
+<td>true story, fact</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>бюллетень (m)</td>
+<td>bulletin; ballot-paper; medical certificate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вдыхать/вдохнуть (+a)</td>
+<td>to breathe in</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>величавый</td>
+<td>majestic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>веха</td>
+<td>landmark; stake, marker</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>взнос</td>
+<td>payment; fee; subscription</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вилка</td>
+<td>fork; (two-pin) plug</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>виселица</td>
+<td>gallows</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>внятно</td>
+<td>distinctly, clearly, audibly</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>водружать/водрузить (+a)</td>
+<td>to hoist, erect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воздерживаться/воздержаться (от +g)</td>
+<td>to abstain (from)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вонять (i) (+inst)</td>
+<td>to stink (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воодушевление</td>
+<td>enthusiasm, fervour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воочию</td>
+<td>with one’s own eyes, for os</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ворох</td>
+<td>heap, pile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>воск</td>
+<td>wax</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вторгаться/вторгнуться (в +a)</td>
+<td>to invade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выручка</td>
+<td>proceeds, earnings; rescue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>выступ</td>
+<td>projection; ledge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вышка</td>
+<td>tower; turret</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>вялый</td>
+<td>flabby, limp</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>договорённость (f)</td>
+<td>agreement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнить/с-</td>
+<td>to rot</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гнусный</td>
+<td>vile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>горб</td>
+<td>hump</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>град</td>
+<td>hail; (poet) city</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>гусеница</td>
+<td>caterpillar</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дань (f)</td>
+<td>tribute, homage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>девать/деть (+a)</td>
+<td>to put (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>добродетель (f)</td>
+<td>virtue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>домысел</td>
+<td>conjecture</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>дощатый</td>
+<td>made of planks, board (adj)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>духи (m pl)</td>
+<td>perfume</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>душистый</td>
+<td>fragrant</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>евангелие</td>
+<td>gospel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>еврей</td>
+<td>Jew</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>единогласно</td>
+<td>unanimously</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ёж</td>
+<td>hedgehog</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жанр</td>
+<td>genre</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жарить/за- (+a)</td>
+<td>to fry; roast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жемчужина</td>
+<td>pearl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жир</td>
+<td>fat, grease</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>жуткий</td>
+<td>terrible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>завсегдатай</td>
+<td>habitue; regular customer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заглавие</td>
+<td>title, heading</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>загс</td>
+<td>registry office</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>задор</td>
+<td>fervour, vigour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заём</td>
+<td>loan</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>закоулок</td>
+<td>back alley; nook, cranny</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>залог</td>
+<td>deposit, guarantee, pledge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замешательство</td>
+<td>confusion; consternation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>замкнутый</td>
+<td>reserved, unsociable; secluded, private</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>заочно</td>
+<td>in one’s absence; externally (of study for a degree)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запинаться/запнуться</td>
+<td>to stumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>запчасть (f)</td>
+<td>spare part</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>застёгивать/застегнуть (+a)</td>
+<td>to fasten</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>изрядный</td>
+<td>fairly good, quite large</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>захлёбываться/захлебнуться</td>
+<td>to choke</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>злоупотреблять/злоупотребить (+inst)</td>
+<td>to misuse, abuse (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>знатный</td>
+<td>distinguished, outstanding; (hist) high-born, noble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зонтик</td>
+<td>umbrella</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>зыбкий</td>
+<td>unsteady, unstable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ива</td>
+<td>willow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>икра</td>
+<td>caviare; calf (of leg)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искажать/исказить (+a)</td>
+<td>to distort</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>искушение</td>
+<td>temptation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>исподволь </td>
+<td>gradually (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>калека (m/f)</td>
+<td>cripple</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>камыш</td>
+<td>reed, rush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>карий</td>
+<td>brown, hazel (of eyes); chestnut (of horses)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>квитанция</td>
+<td>receipt</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клевать/клюнуть</td>
+<td>to peck</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клей</td>
+<td>glue</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>клумба</td>
+<td>flower-bed</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коврик</td>
+<td>rug</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коготь (m)</td>
+<td>claw</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кое-как</td>
+<td>anyhow, carelessly; somehow or other, somehow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>коренастый</td>
+<td>thickset, stocky</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>косой</td>
+<td>slanting, oblique, squint; cross-eyed, squinting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>красноречие</td>
+<td>eloquence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>крушение</td>
+<td>wreck, ruin, collapse</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кувыркаться/кувыркнуться</td>
+<td>to turn somersaults, go head over heels</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кумир</td>
+<td>idol</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>кутёж</td>
+<td>drinking-bout</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лазейка</td>
+<td>hole; loop-hole</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лак</td>
+<td>varnish</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ласточка</td>
+<td>swallow</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лезвие</td>
+<td>blade</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лестный</td>
+<td>flattering</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ликовать (i)</td>
+<td>to rejoice</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>лицемерие</td>
+<td>hypocrisy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>льстить/по- (+d)</td>
+<td>to flatter</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мазать (i) (+a)</td>
+<td>to grease, smear</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>маяк</td>
+<td>lighthouse; beacon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мерзость (f)</td>
+<td>vileness; sth disgusting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мести (i) (+a)</td>
+<td>to sweep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мизинец</td>
+<td>little finger; little toe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>миска</td>
+<td>bowl</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мозоль (f)</td>
+<td>corn (on foot), callous</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мятеж</td>
+<td>rebellion</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>набросок</td>
+<td>sketch, rough draft</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наизусть</td>
+<td>by heart, from memory</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>наперекор (+d)</td>
+<td>contrary, counter (to), in defiance (of)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нарекание</td>
+<td>reprimand</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насаждение</td>
+<td>planting; propagation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>насморк</td>
+<td>cold (in the head)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>начинка</td>
+<td>stuffing, filling (of pie etc.)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>невестка</td>
+<td>daughter-in-law; sister-in-law (brother’s wife)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незваный</td>
+<td>uninvited</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>незыблемый</td>
+<td>unshakable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неистовый</td>
+<td>frenzied</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неполадка</td>
+<td>fault, defect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>непринуждённый</td>
+<td>relaxed, unconstrained</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неразбериха </td>
+<td>muddle (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>несовместимый</td>
+<td>incompatible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неспроста </td>
+<td>with an ulterior motive, not without a reason (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>неурядица </td>
+<td>confusion (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ничей</td>
+<td>nobody’s</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нрав</td>
+<td>nature, disposition (of person)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ныть (i)</td>
+<td>to whine, complain; ache</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>нюхать/по- (+a)</td>
+<td>to smell, sniff (sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обаяние</td>
+<td>charm</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>обуздывать/обуздать (+a)</td>
+<td>to curb, restrain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>озабоченный</td>
+<td>worried, preoccupied</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>олень (m)</td>
+<td>deer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>омерзительный</td>
+<td>disgusting, revolting</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>омут</td>
+<td>pool, deep place in river; whirlpool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опека</td>
+<td>guardianship, trusteeship; surveillance, care</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опилки (pl)</td>
+<td>sawdust; metal filings</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оплошность (f)</td>
+<td>slip, blunder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оправа</td>
+<td>mounting, frame</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>опрятный</td>
+<td>tidy, neat</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>оспаривать/оспорить (+a)</td>
+<td>to contest, dispute</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отборный</td>
+<td>selected, specially chosen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отделываться/отделаться (от +g)</td>
+<td>to get rid of; (+inst) get off, escape (with)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отменный</td>
+<td>excellent</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>отравлять/отравить (+a)</td>
+<td>to poison</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ошеломлять/ошеломить (+a)</td>
+<td>to stun, astound</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пакетик</td>
+<td>bag, plastic bag</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>палисадник</td>
+<td>front garden; stake fence</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>панель (f)</td>
+<td>pavement; panelling, panel</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пасмурный</td>
+<td>cloudy, overcast; gloomy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пасынок</td>
+<td>stepson</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пекло </td>
+<td>scorching heat; hell (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пелёнка</td>
+<td>nappy, diaper</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>передышка</td>
+<td>breathing-space, rest, short break</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перечень (m)</td>
+<td>list, enumeration</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перина</td>
+<td>feather-bed, duvet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>перрон</td>
+<td>platform (railway station)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пир</td>
+<td>feast</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пирожное</td>
+<td>cake, pastry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пищать/пискнуть</td>
+<td>to squeak, squeal; cheep</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пластмасса</td>
+<td>plastic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плесень (f)</td>
+<td>mould</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>плескать/плеснуть</td>
+<td>to splash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>печень (f)</td>
+<td>liver</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пляж</td>
+<td>beach</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>побуждать/побудить (+a +inf or к +d)</td>
+<td>to prompt, induce (s.o. to do sth)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подданный</td>
+<td>subject, citizen</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подошва</td>
+<td>sole (of shoe, foot)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>подсобный</td>
+<td>subsidiary, supplementary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>позитивный</td>
+<td>positive</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поклонник</td>
+<td>admirer</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>покорять/покорить (+a)</td>
+<td>to conquer, subjugate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>половой</td>
+<td>sexual</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>полтораста</td>
+<td>a hundred and fifty</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поместье</td>
+<td>estate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>помидор</td>
+<td>tomato</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поощрять/поощрить (+a)</td>
+<td>to encourage</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пополам</td>
+<td>in half, half-and-half</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поросёнок</td>
+<td>piglet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>портной</td>
+<td>tailor</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пословица</td>
+<td>proverb</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>послушный</td>
+<td>obedient</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>поставлять/поставить (+a)</td>
+<td>to deliver, supply</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>потеха</td>
+<td>fun, amusement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>похмелье</td>
+<td>hangover</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>почесть (f)</td>
+<td>honour, mark of respect</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пошлый</td>
+<td>vulgar; trivial, banal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>православный</td>
+<td>orthodox (religious term); (as noun) member of Orthodox Church</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прадед</td>
+<td>great-grandfather</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>праздность (f)</td>
+<td>idleness</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>предосудительный</td>
+<td>reprehensible</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пресный</td>
+<td>unsalted; flavourless, bland</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>придираться/придраться (к +d)</td>
+<td>to find fault with</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приемлемый</td>
+<td>acceptable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>признательный</td>
+<td>grateful</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>прикидываться/прикинуться (+inst)</td>
+<td>to pretend (to be sth) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>приют</td>
+<td>shelter, refuge</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проворный</td>
+<td>quick, agile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пролив</td>
+<td>strait</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>проницательный</td>
+<td>penetrating; shrewd</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>просо</td>
+<td>millet</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пруд</td>
+<td>pond</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>птенец</td>
+<td>nestling, fledgling</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пух</td>
+<td>down, fluff</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пыл</td>
+<td>heat, ardour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>пылесос</td>
+<td>vacuum cleaner</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>развод</td>
+<td>divorce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раздолье</td>
+<td>expanse, open space; freedom</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разительный</td>
+<td>striking</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разлад</td>
+<td>discord; disorder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разрозненный</td>
+<td>incomplete (of set); scattered, uncoordinated</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>разыгрывать/разыграть (+a)</td>
+<td>to perform; raffle, draw lots (for sth); play a trick (on s.o.), fool</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскат</td>
+<td>rumble, roll, peal</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>раскаяние</td>
+<td>repentance</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рассудок</td>
+<td>reason, ability to think</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>растрёпанный</td>
+<td>dishevelled; tattered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ринуться (р)</td>
+<td>to rush, charge, dash</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рознь (f)</td>
+<td>difference; discord, disagreement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рокот</td>
+<td>roar, rumble</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рукавица</td>
+<td>mitten, glove (without fingers)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>рыдать (i)</td>
+<td>to sob</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сверстник</td>
+<td>person of the same age, contemporary</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>селёдка</td>
+<td>herring</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сквер</td>
+<td>public garden</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сквозняк</td>
+<td>draught</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скитаться (i)</td>
+<td>to wander, roam</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скорлупа</td>
+<td>shell</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>скрежет</td>
+<td>grinding (noise)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слыть/про- (+inst or за +a)</td>
+<td>to have the reputation of, be considered</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>слюна</td>
+<td>saliva</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смежный</td>
+<td>adjacent, adjoining, connected</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смета</td>
+<td>estimate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>смятение</td>
+<td>confusion, disarray, panic</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>мять/с- (+a)</td>
+<td>to crumple, crush</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сновать (i)</td>
+<td>to dash about, scurry</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сноровка</td>
+<td>knack, skill</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соблазнять/соблазнить (+a)</td>
+<td>to tempt; seduce</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>соловей</td>
+<td>nightingale</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сплетни (f pl)</td>
+<td>gossip</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>справочник</td>
+<td>reference book, guide</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стаж</td>
+<td>period of service, period of work or training</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>стужа </td>
+<td>icy cold, severe frost (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сутулый</td>
+<td>round-shouldered, stooping</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>сшибать/сшибить (+a)</td>
+<td>to knock down (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>таз</td>
+<td>basin; pelvis</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>талон</td>
+<td>coupon</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тёща</td>
+<td>mother-in-law (wife’s mother)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тлеть (i)</td>
+<td>to rot; smoulder</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>тщетно</td>
+<td>in vain</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>уйма (+g)</td>
+<td>lots (of) (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>умеренный</td>
+<td>moderate</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>упругий</td>
+<td>elastic, springy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>урод</td>
+<td>freak, monster</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>усмотрение</td>
+<td>discretion, judgement</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утечка</td>
+<td>leak</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>утомительный</td>
+<td>tiring; tedious</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ухмыляться/ухмыльнуться</td>
+<td>to smirk, grin (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>фея</td>
+<td>fairy</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>хлопья (pl)</td>
+<td>flakes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чаяние</td>
+<td>hope; expectation</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чесать/по- (+a)</td>
+<td>to scratch</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>чтить/по- (+a)</td>
+<td>to honour</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шаблон</td>
+<td>cliche; routine; pattern</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шаркать/шаркнуть (+inst)</td>
+<td>to shuffle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шествие</td>
+<td>procession</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шнур</td>
+<td>cord; lace; flex, cable</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>штабель (m)</td>
+<td>stack, pile</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>шустрый </td>
+<td>smart, quick, agile (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щекотать/по- (+a)</td>
+<td>to tickle</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щетина</td>
+<td>bristles, bristly surface; stubble (of beard)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щука</td>
+<td>pike (fish)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щупать/по- (+a)</td>
+<td>to feel, touch (sth), probe</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>щуриться/со-</td>
+<td>to screw up one’s eyes, narrow one’s eyes</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>электричка </td>
+<td>suburban train (coll)</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>этажерка</td>
+<td>bookcase</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+<tr>
+<td>ярый</td>
+<td>furious, raging; fervent, rabid</td>
+<td align="right"></td>
+<td> </td>
+</tr>
+</tbody></table>
