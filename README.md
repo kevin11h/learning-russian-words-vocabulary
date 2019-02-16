@@ -36788,3 +36788,5 @@
 <td>furious, raging; fervent, rabid</td>
 </tr>
 </tbody></table>
+
+https://stackoverflow.com/questions/33996461/reading-russian-language-data-from-csv
